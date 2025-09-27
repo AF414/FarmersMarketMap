@@ -1,0 +1,2078 @@
+[
+  {
+    "market_name": "montclairfarmersmarket.org",
+    "market_url": "https://montclairfarmersmarket.org/",
+    "vendor_pages_found": [
+      {
+        "text": "vendors",
+        "url": "https://montclairfarmersmarket.org/vendors",
+        "indicator": "vendors",
+        "priority": 2
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Montclair Farm",
+        "page_url": "https://montclairfarmersmarket.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "website": "http://www.facebook.com/MontclairNJFarmersMarket"
+        },
+        "description": null
+      },
+      {
+        "name": "The Montclair Farm",
+        "page_url": "https://montclairfarmersmarket.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "website": "http://www.facebook.com/MontclairNJFarmersMarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Mont Farm",
+        "page_url": "https://montclairfarmersmarket.org/vendors",
+        "location": null,
+        "products": [
+          "organic",
+          "local",
+          "vegetables",
+          "beef"
+        ],
+        "contact_info": {
+          "website": "https://bloomontfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Licious Orchard",
+        "page_url": "https://montclairfarmersmarket.org/vendors",
+        "location": "Andover, New Jersey",
+        "products": [
+          "fresh",
+          "seasonal",
+          "fruits",
+          "produce",
+          "corn"
+        ],
+        "contact_info": {
+          "website": "https://bloomontfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Our Woods Maple",
+        "page_url": "https://montclairfarmersmarket.org/vendors",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "website": "https://bloomontfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Ideal Farm",
+        "page_url": "https://montclairfarmersmarket.org/vendors",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "website": "https://bloomontfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Valley Shepherd Creamery",
+        "page_url": "https://montclairfarmersmarket.org/vendors",
+        "location": null,
+        "products": [
+          "cheese",
+          "milk"
+        ],
+        "contact_info": {
+          "website": "https://bloomontfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Crepes Chantal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEverlasting Garden",
+        "page_url": "https://montclairfarmersmarket.org/vendors",
+        "location": null,
+        "products": [
+          "fresh",
+          "herbs",
+          "flowers",
+          "lettuce",
+          "berries"
+        ],
+        "contact_info": {
+          "website": "https://bloomontfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Vacchiano Farm",
+        "page_url": "https://montclairfarmersmarket.org/vendors",
+        "location": null,
+        "products": [
+          "fresh",
+          "cheese",
+          "milk",
+          "produce"
+        ],
+        "contact_info": {
+          "website": "https://bloomontfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Calendar\n                \n\n\n\n\n\n                  Contact\n                \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Vendors\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdventure Kitchen",
+        "page_url": "https://montclairfarmersmarket.org/vendors",
+        "location": null,
+        "products": [
+          "local",
+          "beef"
+        ],
+        "contact_info": {
+          "website": "https://bloomontfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Springhouse Farm",
+        "page_url": "https://montclairfarmersmarket.org/vendors",
+        "location": null,
+        "products": [
+          "fresh",
+          "seasonal",
+          "meat",
+          "produce"
+        ],
+        "contact_info": {
+          "website": "https://bloomontfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Roaming Acres",
+        "page_url": "https://montclairfarmersmarket.org/vendors",
+        "location": null,
+        "products": [
+          "fresh",
+          "meat",
+          "pork",
+          "beef"
+        ],
+        "contact_info": {
+          "website": "https://bloomontfarm.com/"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 2.5639231204986572,
+    "error": null
+  },
+  {
+    "market_name": "montgomeryfriends.org",
+    "market_url": "https://montgomeryfriends.org/farmers-market",
+    "vendor_pages_found": [
+      {
+        "text": "farmers\u2019 market",
+        "url": "https://montgomeryfriends.org/farmers-market/",
+        "indicator": "farmers",
+        "priority": 2
+      },
+      {
+        "text": "vendors",
+        "url": "https://montgomeryfriends.org/farmers-market/business-directory/",
+        "indicator": "vendors",
+        "priority": 2
+      },
+      {
+        "text": "farmers\u2019 market documents",
+        "url": "https://montgomeryfriends.org/farmers-market/farmers-market-registration-materials/",
+        "indicator": "farmers",
+        "priority": 2
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Member\nDonate\n\n\nFarm",
+        "page_url": "https://montgomeryfriends.org/farmers-market",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "info@montgomeryfriends.org",
+          "website": "https://montgomeryfriends.org/farmers-market/"
+        },
+        "description": null
+      },
+      {
+        "name": "Orchard Farm",
+        "page_url": "https://montgomeryfriends.org/farmers-market",
+        "location": "Hillsborough, NJ",
+        "products": [
+          "organic",
+          "local"
+        ],
+        "contact_info": {
+          "email": "info@montgomeryfriends.org",
+          "website": "https://montgomeryfriends.org/farmers-market/"
+        },
+        "description": null
+      },
+      {
+        "name": "Volunteer\nFarm",
+        "page_url": "https://montgomeryfriends.org/farmers-market",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "info@montgomeryfriends.org",
+          "website": "https://montgomeryfriends.org/farmers-market/"
+        },
+        "description": null
+      },
+      {
+        "name": "Way Farm",
+        "page_url": "https://montgomeryfriends.org/farmers-market",
+        "location": "Township,NJ",
+        "products": [
+          "bread",
+          "cheese",
+          "chicken"
+        ],
+        "contact_info": {
+          "email": "info@montgomeryfriends.org",
+          "website": "https://montgomeryfriends.org/farmers-market/"
+        },
+        "description": null
+      },
+      {
+        "name": "Montgomery Friends Farm",
+        "page_url": "https://montgomeryfriends.org/farmers-market",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "info@montgomeryfriends.org",
+          "website": "https://montgomeryfriends.org/farmers-market/"
+        },
+        "description": null
+      },
+      {
+        "name": "Grand Cru Farm",
+        "page_url": "https://montgomeryfriends.org/farmers-market",
+        "location": "Stockton, NJ",
+        "products": [
+          "organic",
+          "vegetables"
+        ],
+        "contact_info": {
+          "email": "info@montgomeryfriends.org",
+          "website": "https://montgomeryfriends.org/farmers-market/"
+        },
+        "description": null
+      },
+      {
+        "name": "Donate\n\n\nFarm",
+        "page_url": "https://montgomeryfriends.org/farmers-market",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "info@montgomeryfriends.org",
+          "website": "https://montgomeryfriends.org/farmers-market/"
+        },
+        "description": null
+      },
+      {
+        "name": "Market\nFarm",
+        "page_url": "https://montgomeryfriends.org/farmers-market",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "info@montgomeryfriends.org",
+          "website": "https://montgomeryfriends.org/farmers-market/"
+        },
+        "description": null
+      },
+      {
+        "name": "Cru Farm",
+        "page_url": "https://montgomeryfriends.org/farmers-market",
+        "location": "Stockton, NJ",
+        "products": [
+          "organic",
+          "vegetables"
+        ],
+        "contact_info": {
+          "email": "info@montgomeryfriends.org",
+          "website": "https://montgomeryfriends.org/farmers-market/"
+        },
+        "description": null
+      },
+      {
+        "name": "Friends Farm",
+        "page_url": "https://montgomeryfriends.org/farmers-market",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "info@montgomeryfriends.org",
+          "website": "https://montgomeryfriends.org/farmers-market/"
+        },
+        "description": null
+      },
+      {
+        "name": "Montgomery Farm",
+        "page_url": "https://montgomeryfriends.org/farmers-market",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "info@montgomeryfriends.org",
+          "website": "https://montgomeryfriends.org/farmers-market/"
+        },
+        "description": null
+      },
+      {
+        "name": "Umrit Farm",
+        "page_url": "https://montgomeryfriends.org/farmers-market",
+        "location": "Hillsborough, NJ",
+        "products": [
+          "vegetables",
+          "chicken"
+        ],
+        "contact_info": {
+          "email": "info@montgomeryfriends.org",
+          "website": "https://montgomeryfriends.org/farmers-market/"
+        },
+        "description": null
+      },
+      {
+        "name": "Vendors\nFarm",
+        "page_url": "https://montgomeryfriends.org/farmers-market/business-directory/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "info@montgomeryfriends.org",
+          "website": "https://montgomeryfriends.org/farmers-market/"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 9.597887992858887,
+    "error": null
+  },
+  {
+    "market_name": "morrisplainsboro.org",
+    "market_url": "https://morrisplainsboro.org/",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "morristown-nj.org",
+    "market_url": "https://morristown-nj.org/morristownfarmersmarket",
+    "vendor_pages_found": [
+      {
+        "text": "morristown farmers market: sunday, sept. 28, 2025",
+        "url": "https://www.morristown-nj.org/event/farmersmarket-sept28/",
+        "indicator": "farmers",
+        "priority": 2
+      },
+      {
+        "text": "morristown farmers market: sunday, oct. 5, 2025",
+        "url": "https://www.morristown-nj.org/event/farmersmarket-oct5/",
+        "indicator": "farmers",
+        "priority": 2
+      },
+      {
+        "text": "morristown farmers market: sunday, oct. 12, 2025",
+        "url": "https://www.morristown-nj.org/event/farmersmarket-oct12/",
+        "indicator": "farmers",
+        "priority": 2
+      },
+      {
+        "text": "morristown farmers market: sunday, oct. 19, 2025",
+        "url": "https://www.morristown-nj.org/event/farmersmarket-oct19/",
+        "indicator": "farmers",
+        "priority": 2
+      },
+      {
+        "text": "morristown farmers market: sunday, oct. 26, 2025",
+        "url": "https://www.morristown-nj.org/event/farmersmarket-oct26/",
+        "indicator": "farmers",
+        "priority": 2
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Jersey Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [
+          "local",
+          "beef",
+          "produce"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Edge Wools Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Hill Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [
+          "vegetables",
+          "fruits",
+          "corn"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Bites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnion Hill Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [
+          "vegetables",
+          "fruits",
+          "corn"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Morristown Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Alstede Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [
+          "organic",
+          "fresh",
+          "vegetables",
+          "fruits"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "The Bakery",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [
+          "fresh",
+          "local"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Turtle Brook Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [
+          "organic"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "About\n\n\nLamoon Chai LLC",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Dip Co.",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [
+          "fresh"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Oldwick Soup Co.",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [
+          "fresh",
+          "local"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Morristown\nMorristown Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Edge Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Hillcrest Orchard",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": "Branchville, NJ",
+        "products": [
+          "cheese",
+          "milk"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Organic Produce",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [
+          "organic",
+          "vegetables",
+          "fruits",
+          "produce"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Union Hill Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [
+          "vegetables",
+          "fruits",
+          "corn"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "New Jersey Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [
+          "local",
+          "beef",
+          "produce"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Free Range Eggs\n\n About\n\n\nGlenmalure Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [
+          "organic",
+          "grass-fed",
+          "eggs",
+          "pork",
+          "beef"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Wools Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Brook Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [
+          "organic"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Morristown\nFarm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "The Morristown Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Glenmalure Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [
+          "organic",
+          "grass-fed",
+          "eggs",
+          "pork",
+          "beef"
+        ],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      },
+      {
+        "name": "Morristown Farmers Market\n\n\nHome  Morristown Farmers Market\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\nMorristown Farmers Market\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \nEvent Details\nEvent Description\nGallery\nSponsors\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMorristown Farm",
+        "page_url": "https://morristown-nj.org/morristownfarmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "24karrotspread@gmail.com",
+          "phone": "(908) 879-7189",
+          "website": "https://www.morristown-nj.org/event/farmersmarket-sept28/"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 48.98418593406677,
+    "error": null
+  },
+  {
+    "market_name": "nnjchamber.com",
+    "market_url": "https://nnjchamber.com/",
+    "vendor_pages_found": [],
+    "vendors": [
+      {
+        "name": "Stay                            \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                Recreation                            \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                Real Estate",
+        "page_url": "https://nnjchamber.com/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "crauscher@nnjchamber.com",
+          "phone": "201.567.2381",
+          "website": "https://business.nnjchamber.com/events/details/west-new-york-s-2025-farmer-s-market-895"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 0.2217721939086914,
+    "error": null
+  },
+  {
+    "market_name": "nutleynj.org",
+    "market_url": "https://nutleynj.org/farmersmarket",
+    "vendor_pages_found": [
+      {
+        "text": "nutley farmers market",
+        "url": "https://www.nutleynj.org/farmersmarket",
+        "indicator": "farmers",
+        "priority": 2
+      },
+      {
+        "text": "participating vendors",
+        "url": "https://nutleynj.org/farmersmarket#fm-vendors",
+        "indicator": "vendors",
+        "priority": 2
+      },
+      {
+        "text": "senior farmers market vouchers",
+        "url": "https://nutleynj.org/farmersmarket#fm-sfmnp",
+        "indicator": "farmers",
+        "priority": 2
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Hidden Valley Farm",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [
+          "cheese"
+        ],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Hidden Brook Ranch",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Hoboken Farm",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [
+          "cheese"
+        ],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Rutgers Master Garden",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [
+          "local"
+        ],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Soap Co.",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Cannapoluzza Farm",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Nutley Farmers Market\n\nNutley Farm",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Rogowski Farm",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Ghost Hawk Brewing Co.",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [
+          "cheese"
+        ],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Senior Farm",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Treelicious Orchard",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Nutley Farm",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Asprocolas Acres",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [
+          "cheese"
+        ],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Valley Farm",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [
+          "cheese"
+        ],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "The Nutley Farm",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [
+          "fresh",
+          "flowers",
+          "cheese",
+          "produce"
+        ],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Tiny Harvest Co.",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Saya Bakery",
+        "page_url": "https://nutleynj.org/farmersmarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "farmersmarket@nutleynj.org",
+          "phone": "973-284-4978",
+          "website": "https://www.nutleynj.org/farmersmarket"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 8.343307971954346,
+    "error": null
+  },
+  {
+    "market_name": "oceancityvacation.com",
+    "market_url": "https://oceancityvacation.com/",
+    "vendor_pages_found": [],
+    "vendors": [
+      {
+        "name": "Real Estate",
+        "page_url": "https://oceancityvacation.com/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "info@oceancitychamber.com",
+          "phone": "609-399-1412"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 0.4713327884674072,
+    "error": null
+  },
+  {
+    "market_name": "penningtonfarmersmarket.org",
+    "market_url": "https://penningtonfarmersmarket.org/",
+    "vendor_pages_found": [
+      {
+        "text": "full season vendors",
+        "url": "https://penningtonfarmersmarket.org/full-season-vendors/",
+        "indicator": "vendors",
+        "priority": 2
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Honeybees\nLittle Balkan\nLuscious Spirits\nMazeh\nNine Acre Farm",
+        "page_url": "https://penningtonfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "honey"
+        ],
+        "contact_info": {
+          "website": "https://penningtonfarmersmarket.org/"
+        },
+        "description": null
+      },
+      {
+        "name": "Creek Farm",
+        "page_url": "https://penningtonfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "bread"
+        ],
+        "contact_info": {
+          "website": "https://penningtonfarmersmarket.org/"
+        },
+        "description": null
+      },
+      {
+        "name": "Local Farm",
+        "page_url": "https://penningtonfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "local"
+        ],
+        "contact_info": {
+          "website": "https://penningtonfarmersmarket.org/"
+        },
+        "description": null
+      },
+      {
+        "name": "Way Farm",
+        "page_url": "https://penningtonfarmersmarket.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "website": "https://penningtonfarmersmarket.org/"
+        },
+        "description": null
+      },
+      {
+        "name": "Home Baking\nBeechtree Farm",
+        "page_url": "https://penningtonfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "honey"
+        ],
+        "contact_info": {
+          "website": "https://penningtonfarmersmarket.org/"
+        },
+        "description": null
+      },
+      {
+        "name": "Chickadee Creek Farm",
+        "page_url": "https://penningtonfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "bread"
+        ],
+        "contact_info": {
+          "website": "https://penningtonfarmersmarket.org/"
+        },
+        "description": null
+      },
+      {
+        "name": "Acre Farm",
+        "page_url": "https://penningtonfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "local",
+          "honey",
+          "bread"
+        ],
+        "contact_info": {
+          "website": "https://penningtonfarmersmarket.org/"
+        },
+        "description": null
+      },
+      {
+        "name": "Empanadas\nChickadee Creek Farm",
+        "page_url": "https://penningtonfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "honey"
+        ],
+        "contact_info": {
+          "website": "https://penningtonfarmersmarket.org/"
+        },
+        "description": null
+      },
+      {
+        "name": "Beechtree Farm",
+        "page_url": "https://penningtonfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "bread"
+        ],
+        "contact_info": {
+          "website": "https://penningtonfarmersmarket.org/"
+        },
+        "description": null
+      },
+      {
+        "name": "Nine Acre Farm",
+        "page_url": "https://penningtonfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "local",
+          "honey",
+          "bread"
+        ],
+        "contact_info": {
+          "website": "https://penningtonfarmersmarket.org/"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 2.697824001312256,
+    "error": null
+  },
+  {
+    "market_name": "princetonfarmersmarket.com",
+    "market_url": "https://princetonfarmersmarket.com/",
+    "vendor_pages_found": [
+      {
+        "text": "vendors",
+        "url": "https://princetonfarmersmarket.com/vendors",
+        "indicator": "vendors",
+        "priority": 2
+      },
+      {
+        "text": "princeton farmers market",
+        "url": "https://princetonfarmersmarket.com/",
+        "indicator": "farmers",
+        "priority": 2
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Princeton Farm",
+        "page_url": "https://princetonfarmersmarket.com/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "http://www.instagram.com/princetonfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Top\nPrinceton Farm",
+        "page_url": "https://princetonfarmersmarket.com/",
+        "location": "Princeton, NJ",
+        "products": [
+          "local",
+          "produce"
+        ],
+        "contact_info": {
+          "email": "princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "http://www.instagram.com/princetonfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Princeton Farmers Market\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                Home\n              \n\n\n\n                Vendors\n              \n\n\n\n                Sponsors\n              \n\n\n\n                Calendar\n              \n\n\n\n                Photo Gallery\n              \n\n\n\n                Shop\n              \n\n\n\n                Donate\n              \n\n\n\n\n\n\n\n\n\nPrinceton Farm",
+        "page_url": "https://princetonfarmersmarket.com/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "http://www.instagram.com/princetonfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Produce Co.",
+        "page_url": "https://princetonfarmersmarket.com/",
+        "location": null,
+        "products": [
+          "produce"
+        ],
+        "contact_info": {
+          "email": "princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "http://www.instagram.com/princetonfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "The Princeton Farm",
+        "page_url": "https://princetonfarmersmarket.com/",
+        "location": "Princeton, NJ",
+        "products": [
+          "local",
+          "produce"
+        ],
+        "contact_info": {
+          "email": "princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "http://www.instagram.com/princetonfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Cherry Grove Farm",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Lawrenceville, NJ",
+        "products": [
+          "grass-fed",
+          "cheese",
+          "eggs",
+          "meat"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Creek Farm",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Pennington, NJ",
+        "products": [
+          "organic",
+          "vegetables",
+          "herbs",
+          "flowers"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Cherry Grove Organic Farm\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\nChickadee Creek Farm",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Pennington, NJ",
+        "products": [
+          "organic",
+          "vegetables",
+          "herbs",
+          "flowers",
+          "carrots"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Demi Olive Oil\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\nDouble Brook Farm",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Hopewell, NJ",
+        "products": [
+          "eggs",
+          "meat"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Double Brook Farm\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\nDownward Doe Farm",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Howell, NJ",
+        "products": [
+          "fresh",
+          "seasonal"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Doe Farm",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Howell, NJ",
+        "products": [
+          "fresh",
+          "seasonal"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Acres Farm",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Hightstown, NJ",
+        "products": [
+          "fresh",
+          "produce"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Downward Doe Farm",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Howell, NJ",
+        "products": [
+          "fresh",
+          "seasonal"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Cherry Grove Organic Farm",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Princeton, NJ",
+        "products": [
+          "organic",
+          "fresh",
+          "produce"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Longview Flowers\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\nLost Bread Co.",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Philadelphia, PA",
+        "products": [
+          "flowers",
+          "bread"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Organic Farm",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Princeton, NJ",
+        "products": [
+          "organic",
+          "fresh",
+          "produce"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Grove Farm",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Lawrenceville, NJ",
+        "products": [
+          "grass-fed",
+          "cheese",
+          "eggs",
+          "meat"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Brook Farm",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Hopewell, NJ",
+        "products": [
+          "eggs",
+          "meat"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Terhune Orchard",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Princeton, NJ",
+        "products": [
+          "fresh",
+          "vegetables"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      },
+      {
+        "name": "Double Brook Farm",
+        "page_url": "https://princetonfarmersmarket.com/vendors",
+        "location": "Hopewell, NJ",
+        "products": [
+          "eggs",
+          "meat"
+        ],
+        "contact_info": {
+          "email": "States609-924-8431princetonfarmersmarketnj@gmail.com",
+          "phone": "609-924-8431",
+          "website": "https://www.abesacresfarm.com/"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 4.7511351108551025,
+    "error": null
+  },
+  {
+    "market_name": "ramseyfarmersmarket.org",
+    "market_url": "https://ramseyfarmersmarket.org/",
+    "vendor_pages_found": [
+      {
+        "text": "our vendors",
+        "url": "https://ramseyfarmersmarket.org/#vendors",
+        "indicator": "vendors",
+        "priority": 3
+      },
+      {
+        "text": "vendors",
+        "url": "https://ramseyfarmersmarket.org/vendors",
+        "indicator": "vendors",
+        "priority": 2
+      },
+      {
+        "text": "best farmers markets in nj from 2025 nj digest",
+        "url": "https://thedigestonline.com/new-jersey/best-farmers-markets-in-nj/",
+        "indicator": "farmers",
+        "priority": 2
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Chaseholm Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "fruits",
+          "beef"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Meadow Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": "Bakery,\u00a0 ME",
+        "products": [],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Woods Edge Wool Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "organic",
+          "local"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "The Ramsey Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Achieve Home Care LLC",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": "125 Washington Avenue",
+        "products": [],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Source Compost LLC",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "International Real Estate",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": "19 Sheridan Ave",
+        "products": [],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Wool Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "local"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Edgwick Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "fruits"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Madura Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": "Bakery,\u00a0 ME",
+        "products": [
+          "fresh"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Coyote Kitchen",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "fresh",
+          "grass-fed",
+          "cheese"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Roots Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "organic",
+          "fresh",
+          "bread"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Norwich Meadows Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "organic",
+          "local",
+          "vegetables",
+          "fruits",
+          "herbs"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Ramsey Garden",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": "Ramsey Ambulance,\u00a0NY",
+        "products": [],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Valley Shepherd Creamery",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Aronia Berry Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Chaseholm Farm Creamery",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "fruits",
+          "beef"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Away Flower Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "fruits"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Baldwin Family Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "beef"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Aunt Lullies LLC",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "meat"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Bien Cuit Bakery",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "fruits",
+          "beef"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Fullfilled Shop LLC",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "fresh",
+          "fruits",
+          "cheese"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "State Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": "231 South Plank Road",
+        "products": [],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Hudson Bakery",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "fresh",
+          "fruits"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Herb Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "organic",
+          "local",
+          "cheese",
+          "corn"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Berry Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Berlamino LLC",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": "21 Fairlawn Ave",
+        "products": [],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Well Sweep Herb Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "organic",
+          "local",
+          "cheese",
+          "corn"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Noble Pies Bakery",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "organic",
+          "local",
+          "vegetables",
+          "herbs",
+          "produce"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Norwich Meadow Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": "Bakery,\u00a0 ME",
+        "products": [
+          "fresh"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Meadows Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "organic",
+          "local",
+          "vegetables",
+          "fruits",
+          "herbs"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "The Little Kitchen",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": "8 Industrial Ave",
+        "products": [],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Fresh Roots Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "organic",
+          "fresh",
+          "bread"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Flower Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "fruits"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Norwich Meadows Farm LLC",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "organic",
+          "local",
+          "vegetables",
+          "fruits",
+          "herbs"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Kariba Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [
+          "fresh",
+          "fruits"
+        ],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Ramsey Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      },
+      {
+        "name": "Best Farm",
+        "page_url": "https://ramseyfarmersmarket.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "amorferti@aol.com",
+          "phone": "201-691-7277",
+          "website": "http://www.facebook.com/ramseyfarmersmarket"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 7.021076917648315,
+    "error": null
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "market_name": "burlcoagcenter.com",
+    "market_url": "https://burlcoagcenter.com/",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "cedarlane.net",
+    "market_url": "https://cedarlane.net/",
+    "vendor_pages_found": [],
+    "vendors": [
+      {
+        "name": "Moving Inc",
+        "page_url": "https://cedarlane.net/",
+        "location": "426 Cedar Lane",
+        "products": [],
+        "contact_info": {
+          "phone": "201-801-0500"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 2.2253060340881348,
+    "error": null
+  },
+  {
+    "market_name": "chathamborough.org",
+    "market_url": "https://chathamborough.org/resident/farmers-market/",
+    "vendor_pages_found": [
+      {
+        "text": "farmers market",
+        "url": "https://chathamborough.org/resident/farmers-market",
+        "indicator": "farmers",
+        "priority": 2
+      }
+    ],
+    "vendors": [
+      {
+        "name": "The Farm",
+        "page_url": "https://chathamborough.org/resident/farmers-market/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "phone": "973-635-0674"
+        },
+        "description": null
+      },
+      {
+        "name": "Community Garden",
+        "page_url": "https://chathamborough.org/resident/farmers-market/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "phone": "973-635-0674"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 4.0368101596832275,
+    "error": null
+  },
+  {
+    "market_name": "citybloom.org",
+    "market_url": "https://citybloom.org/",
+    "vendor_pages_found": [],
+    "vendors": [
+      {
+        "name": "Hawthorne Avenue Farm",
+        "page_url": "https://citybloom.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "phone": "(973) 642-4646"
+        },
+        "description": null
+      },
+      {
+        "name": "Avenue Farm",
+        "page_url": "https://citybloom.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "phone": "(973) 642-4646"
+        },
+        "description": null
+      },
+      {
+        "name": "Local Farm",
+        "page_url": "https://citybloom.org/",
+        "location": null,
+        "products": [
+          "fresh",
+          "local"
+        ],
+        "contact_info": {
+          "phone": "(973) 642-4646"
+        },
+        "description": null
+      },
+      {
+        "name": "Supporting Local Farm",
+        "page_url": "https://citybloom.org/",
+        "location": null,
+        "products": [
+          "fresh",
+          "local"
+        ],
+        "contact_info": {
+          "phone": "(973) 642-4646"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 0.5629799365997314,
+    "error": null
+  },
+  {
+    "market_name": "cityofbordentown.com",
+    "market_url": "https://cityofbordentown.com/page/farmers-market/",
+    "vendor_pages_found": [],
+    "vendors": [
+      {
+        "name": "City Farm",
+        "page_url": "https://cityofbordentown.com/page/farmers-market/",
+        "location": null,
+        "products": [
+          "fresh",
+          "local"
+        ],
+        "contact_info": {
+          "email": "btownfarmersmarket@gmail.comSlider",
+          "phone": "609-298-0604"
+        },
+        "description": null
+      },
+      {
+        "name": "Bordentown City Farm",
+        "page_url": "https://cityofbordentown.com/page/farmers-market/",
+        "location": null,
+        "products": [
+          "fresh",
+          "local"
+        ],
+        "contact_info": {
+          "email": "btownfarmersmarket@gmail.comSlider",
+          "phone": "609-298-0604"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 0.5142519474029541,
+    "error": null
+  },
+  {
+    "market_name": "cityofrahway.com",
+    "market_url": "https://cityofrahway.com/",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0.5030708312988281,
+    "error": null
+  },
+  {
+    "market_name": "clintonhillaction.org",
+    "market_url": "https://clintonhillaction.org/",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0.16005206108093262,
+    "error": null
+  },
+  {
+    "market_name": "colesstreetmarket.com",
+    "market_url": "https://colesstreetmarket.com/",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0.2689070701599121,
+    "error": null
+  },
+  {
+    "market_name": "collingswoodmarket.com",
+    "market_url": "https://collingswoodmarket.com/",
+    "vendor_pages_found": [
+      {
+        "text": "vendor directory",
+        "url": "https://collingswoodmarket.com/vendor-directory.html",
+        "indicator": "vendor directory",
+        "priority": 3
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Collingswood Farm",
+        "page_url": "https://collingswoodmarket.com/",
+        "location": null,
+        "products": [],
+        "contact_info": {},
+        "description": null
+      }
+    ],
+    "processing_time": 2.740746021270752,
+    "error": null
+  },
+  {
+    "market_name": "columbusfarmersmarket.com",
+    "market_url": "https://columbusfarmersmarket.com/",
+    "vendor_pages_found": [
+      {
+        "text": "farmers market complex map",
+        "url": "https://www.columbusfarmersmarket.com/farmers-market-complex-map",
+        "indicator": "farmers",
+        "priority": 2
+      },
+      {
+        "text": "prospective vendors",
+        "url": "https://www.columbusfarmersmarket.com/perspective-vendors",
+        "indicator": "vendors",
+        "priority": 2
+      }
+    ],
+    "vendors": [
+      {
+        "name": "The Columbus Farm",
+        "page_url": "https://columbusfarmersmarket.com/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "phone": "609-267-0400",
+          "website": "https://www.columbusfarmersmarket.com"
+        },
+        "description": null
+      },
+      {
+        "name": "Columbus Farm",
+        "page_url": "https://columbusfarmersmarket.com/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "phone": "609-267-0400",
+          "website": "https://www.columbusfarmersmarket.com"
+        },
+        "description": null
+      },
+      {
+        "name": "Columbus Farmers Market LLC",
+        "page_url": "https://columbusfarmersmarket.com/",
+        "location": "Southampton, NJ",
+        "products": [],
+        "contact_info": {
+          "phone": "609-267-0400",
+          "website": "https://www.columbusfarmersmarket.com"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 4.456938982009888,
+    "error": null
+  }
+]

@@ -1,0 +1,324 @@
+[
+  {
+    "market_name": "asburyfresh.com",
+    "base_url": "https://asburyfresh.com/",
+    "vendor_pages_found": [],
+    "potential_vendors": [
+      "And Farm",
+      "Ridge Farms",
+      "Flower Farm",
+      "Fresh Farm",
+      "2025 Farm",
+      "Connected Farm",
+      "Of Farm",
+      "Beloved Farm",
+      "Bring Farm",
+      "Saturday Farm"
+    ],
+    "processing_time": 0.39142704010009766
+  },
+  {
+    "market_name": "barnegat.net",
+    "base_url": "https://barnegat.net/",
+    "vendor_pages_found": [],
+    "potential_vendors": [],
+    "processing_time": 3.50557279586792
+  },
+  {
+    "market_name": "bedminster.us",
+    "base_url": "https://bedminster.us/",
+    "vendor_pages_found": [],
+    "potential_vendors": [],
+    "processing_time": 0.17248272895812988,
+    "error": "403 Client Error: Forbidden for url: https://www.bedminster.us/"
+  },
+  {
+    "market_name": "bellworksfresh.com",
+    "base_url": "https://bellworksfresh.com/",
+    "vendor_pages_found": [],
+    "potential_vendors": [
+      "And Farm",
+      "Ridge Farms",
+      "Flower Farm",
+      "Fresh Farm",
+      "2025 Farm",
+      "Connected Farm",
+      "Of Farm",
+      "Beloved Farm",
+      "Bring Farm",
+      "Saturday Farm"
+    ],
+    "processing_time": 0.4008908271789551
+  },
+  {
+    "market_name": "berlinfarmersmarket.com",
+    "base_url": "https://berlinfarmersmarket.com/",
+    "vendor_pages_found": [
+      {
+        "text": "food vendors",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce",
+        "indicator": "vendors"
+      },
+      {
+        "text": "berlin farmers market (bfm) authentic products policing program",
+        "url": "https://berlinfarmersmarket.com/bfmapp/",
+        "indicator": "farmers"
+      }
+    ],
+    "potential_vendors": [
+      "Berlin Farm"
+    ],
+    "processing_time": 2.3975989818573
+  },
+  {
+    "market_name": "bernardsvillefarmersmarket.com",
+    "base_url": "https://bernardsvillefarmersmarket.com/",
+    "vendor_pages_found": [
+      {
+        "text": "current vendors",
+        "url": "https://bernardsvillefarmersmarket.com/current-vendors",
+        "indicator": "vendors"
+      },
+      {
+        "text": "summer farmers' market",
+        "url": "https://bernardsvillefarmersmarket.com/summer-vendors",
+        "indicator": "farmers"
+      },
+      {
+        "text": "current vendors",
+        "url": "https://bernardsvillefarmersmarket.com/current-vendors",
+        "indicator": "vendors"
+      },
+      {
+        "text": "summer farmers' market",
+        "url": "https://bernardsvillefarmersmarket.com/summer-vendors",
+        "indicator": "farmers"
+      },
+      {
+        "text": "folder:\ncurrent vendors",
+        "url": "https://bernardsvillefarmersmarket.com/current-vendors",
+        "indicator": "vendors"
+      },
+      {
+        "text": "summer farmers' market",
+        "url": "https://bernardsvillefarmersmarket.com/summer-vendors",
+        "indicator": "farmers"
+      },
+      {
+        "text": "summer market vendors",
+        "url": "https://bernardsvillefarmersmarket.com/summer-vendors",
+        "indicator": "vendors"
+      },
+      {
+        "text": "weekly market vendors",
+        "url": "https://www.bernardsvillefarmersmarket.com/weekly-vendors",
+        "indicator": "vendors"
+      }
+    ],
+    "potential_vendors": [
+      "Bernardsville Farm",
+      "Summer Farm"
+    ],
+    "processing_time": 1.4641392230987549
+  },
+  {
+    "market_name": "blairstownfarmersmarket.com",
+    "base_url": "https://blairstownfarmersmarket.com/",
+    "vendor_pages_found": [],
+    "potential_vendors": [
+      "Blairstown Farm",
+      "Bend Farm",
+      "Bohemian Farms",
+      "Alliance Farm",
+      "S Farm",
+      "Hopecress Farm",
+      "Ridge Farm",
+      "Alterity Farm",
+      "Arena Farms"
+    ],
+    "processing_time": 0.1826939582824707
+  },
+  {
+    "market_name": "bloomfieldtwpnj.com",
+    "base_url": "https://bloomfieldtwpnj.com/1570/Bloomfield-Community-Farmers-Market/",
+    "vendor_pages_found": [],
+    "potential_vendors": [
+      "Vert Farm",
+      "Community Farm",
+      "Community Garden",
+      "S Kitchen"
+    ],
+    "processing_time": 0.5372638702392578
+  },
+  {
+    "market_name": "boontonmainstreet.org",
+    "base_url": "https://boontonmainstreet.org/farmers-market",
+    "vendor_pages_found": [
+      {
+        "text": "farmers' market",
+        "url": "https://boontonmainstreet.org/farmers-market",
+        "indicator": "farmers"
+      }
+    ],
+    "potential_vendors": [
+      "2025 Farm",
+      "Boonton Farm",
+      "Boonton\u00e2\u00a0Farm",
+      "Doingboonton Farm",
+      "Largest Farm",
+      "Our Farm"
+    ],
+    "processing_time": 1.4160308837890625
+  },
+  {
+    "market_name": "brickfarmersmarket.com",
+    "base_url": "https://brickfarmersmarket.com/",
+    "vendor_pages_found": [],
+    "potential_vendors": [
+      "2025 Farm"
+    ],
+    "processing_time": 0.1296989917755127
+  },
+  {
+    "market_name": "burlcoagcenter.com",
+    "base_url": "https://burlcoagcenter.com/",
+    "vendor_pages_found": [],
+    "potential_vendors": [],
+    "processing_time": 0.4522879123687744,
+    "error": "403 Client Error: Forbidden for url: https://burlcoagcenter.com/"
+  },
+  {
+    "market_name": "cedarlane.net",
+    "base_url": "https://cedarlane.net/",
+    "vendor_pages_found": [],
+    "potential_vendors": [],
+    "processing_time": 2.5355350971221924
+  },
+  {
+    "market_name": "chathamborough.org",
+    "base_url": "https://chathamborough.org/resident/farmers-market/",
+    "vendor_pages_found": [
+      {
+        "text": "farmers market",
+        "url": "https://chathamborough.org/resident/farmers-market",
+        "indicator": "farmers"
+      },
+      {
+        "text": "farmers market",
+        "url": "https://chathamborough.org/resident/farmers-market",
+        "indicator": "farmers"
+      },
+      {
+        "text": "farmers market",
+        "url": "https://chathamborough.org/resident/farmers-market",
+        "indicator": "farmers"
+      }
+    ],
+    "potential_vendors": [
+      "Clubcommunity Garden",
+      "Borough Farm",
+      "Piacentinothe Farm",
+      "Packet Farm"
+    ],
+    "processing_time": 1.065979242324829
+  },
+  {
+    "market_name": "citybloom.org",
+    "base_url": "https://citybloom.org/",
+    "vendor_pages_found": [],
+    "potential_vendors": [],
+    "processing_time": 0.1846780776977539,
+    "error": "406 Client Error: Not Acceptable for url: https://citybloom.org/"
+  },
+  {
+    "market_name": "cityofbordentown.com",
+    "base_url": "https://cityofbordentown.com/page/farmers-market/",
+    "vendor_pages_found": [
+      {
+        "text": "btownfarmersmarket@gmail.com",
+        "url": "mailto:btownfarmersmarket@gmail.com",
+        "indicator": "farmers"
+      },
+      {
+        "text": "btownfarmersmarket@gmail.com",
+        "url": "mailto:btownfarmersmarket@gmail.com",
+        "indicator": "farmers"
+      }
+    ],
+    "potential_vendors": [
+      "City Farm",
+      "Find Farm",
+      "Our Farm"
+    ],
+    "processing_time": 0.4505491256713867
+  },
+  {
+    "market_name": "cityofrahway.com",
+    "base_url": "https://cityofrahway.com/",
+    "vendor_pages_found": [],
+    "potential_vendors": [],
+    "processing_time": 1.0447132587432861
+  },
+  {
+    "market_name": "clintonhillaction.org",
+    "base_url": "https://clintonhillaction.org/",
+    "vendor_pages_found": [],
+    "potential_vendors": [],
+    "processing_time": 0.20209407806396484
+  },
+  {
+    "market_name": "colesstreetmarket.com",
+    "base_url": "https://colesstreetmarket.com/",
+    "vendor_pages_found": [],
+    "potential_vendors": [],
+    "processing_time": 0.37371397018432617
+  },
+  {
+    "market_name": "collingswoodmarket.com",
+    "base_url": "https://collingswoodmarket.com/",
+    "vendor_pages_found": [
+      {
+        "text": "vendor directory",
+        "url": "https://collingswoodmarket.com/vendor-directory.html",
+        "indicator": "vendor directory"
+      },
+      {
+        "text": "vendor directory",
+        "url": "https://collingswoodmarket.com/vendor-directory.html",
+        "indicator": "vendor directory"
+      }
+    ],
+    "potential_vendors": [
+      "Ers Farm",
+      "Keep Farm",
+      "Home\n\t\t\t\t\t\t\t\n\n\n\n\t\t\t\t\t\t\t\tFarms",
+      "Of Farm",
+      "Collingswood Farm",
+      "12 Farms",
+      "Home\n\t\t\t\n\n\n\n\t\t\t\tFarms"
+    ],
+    "processing_time": 0.5269851684570312
+  },
+  {
+    "market_name": "columbusfarmersmarket.com",
+    "base_url": "https://columbusfarmersmarket.com/",
+    "vendor_pages_found": [
+      {
+        "text": "farmers market complex map",
+        "url": "https://www.columbusfarmersmarket.com/farmers-market-complex-map",
+        "indicator": "farmers"
+      },
+      {
+        "text": "prospective vendors",
+        "url": "https://www.columbusfarmersmarket.com/perspective-vendors",
+        "indicator": "vendors"
+      }
+    ],
+    "potential_vendors": [
+      "Marketgreentop Garden",
+      "And Garden",
+      "Columbus Farm"
+    ],
+    "processing_time": 0.34100985527038574
+  }
+]

@@ -1,0 +1,2760 @@
+{
+  "summary": {
+    "total_markets": 30,
+    "successful_markets": 21,
+    "total_vendors": 180,
+    "processing_time_minutes": 1.0884350021680196,
+    "success_rate": 0.7,
+    "start_index": 40
+  },
+  "results": [
+    {
+      "market_name": "facebook.com",
+      "market_url": "https://facebook.com/hphapaulushook",
+      "vendor_pages_found": [],
+      "vendors": [],
+      "processing_time": 0,
+      "error": "Failed to fetch main page"
+    },
+    {
+      "market_name": "facebook.com",
+      "market_url": "https://facebook.com/hawthornefm",
+      "vendor_pages_found": [],
+      "vendors": [],
+      "processing_time": 0,
+      "error": "Failed to fetch main page"
+    },
+    {
+      "market_name": "facebook.com",
+      "market_url": "https://facebook.com/eofarmersmarket",
+      "vendor_pages_found": [],
+      "vendors": [],
+      "processing_time": 0,
+      "error": "Failed to fetch main page"
+    },
+    {
+      "market_name": "facebook.com",
+      "market_url": "https://facebook.com/elizabethavenue.themarket",
+      "vendor_pages_found": [],
+      "vendors": [],
+      "processing_time": 0,
+      "error": "Failed to fetch main page"
+    },
+    {
+      "market_name": "facebook.com",
+      "market_url": "https://facebook.com/bayonnefarmersmarket",
+      "vendor_pages_found": [],
+      "vendors": [],
+      "processing_time": 0,
+      "error": "Failed to fetch main page"
+    },
+    {
+      "market_name": "facebook.com",
+      "market_url": "https://facebook.com/apsunsetmarket",
+      "vendor_pages_found": [],
+      "vendors": [],
+      "processing_time": 0,
+      "error": "Failed to fetch main page"
+    },
+    {
+      "market_name": "fvvp.org",
+      "market_url": "https://fvvp.org/",
+      "vendor_pages_found": [],
+      "vendors": [],
+      "processing_time": 0.7789120674133301,
+      "error": null
+    },
+    {
+      "market_name": "gogreengalloway.org",
+      "market_url": "https://gogreengalloway.org/",
+      "vendor_pages_found": [],
+      "vendors": [],
+      "processing_time": 1.2331030368804932,
+      "error": null
+    },
+    {
+      "market_name": "goodfolkproject.org",
+      "market_url": "https://goodfolkproject.org/",
+      "vendor_pages_found": [],
+      "vendors": [
+        {
+          "name": "Peace Garden",
+          "page_url": "https://goodfolkproject.org/",
+          "location": null,
+          "products": [
+            "produce"
+          ],
+          "contact_info": {
+            "email": "Projectgoodfolkproject@gmail.comCopyright"
+          },
+          "description": null
+        },
+        {
+          "name": "Pebble Hill Church Garden",
+          "page_url": "https://goodfolkproject.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "Projectgoodfolkproject@gmail.comCopyright"
+          },
+          "description": null
+        },
+        {
+          "name": "Pebble Hill Interfaith Church Garden",
+          "page_url": "https://goodfolkproject.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "Projectgoodfolkproject@gmail.comCopyright"
+          },
+          "description": null
+        },
+        {
+          "name": "The Tileworks Garden",
+          "page_url": "https://goodfolkproject.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "Projectgoodfolkproject@gmail.comCopyright"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 1.2059829235076904,
+      "error": null
+    },
+    {
+      "market_name": "growitgreenmorristown.org",
+      "market_url": "https://growitgreenmorristown.org/wintermarket",
+      "vendor_pages_found": [],
+      "vendors": [
+        {
+          "name": "Chickadee Creek Farm",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "organic",
+            "fresh",
+            "vegetables",
+            "herbs",
+            "bread"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Full Time\nApple Ridge Farm",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "organic",
+            "vegetables",
+            "bread"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Fresh Locally Grown Produce",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "fresh",
+            "local",
+            "seasonal",
+            "honey",
+            "bread"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Creek Farm",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "organic",
+            "fresh",
+            "vegetables",
+            "herbs",
+            "bread"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "River Lea House Farm",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "fresh",
+            "local",
+            "meat"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Woods Edge Farm",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "fresh",
+            "local",
+            "honey"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Early St Community Garden",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Ridge Farm",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "organic",
+            "vegetables",
+            "bread"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Edge Farm",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "fresh",
+            "local",
+            "honey"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Pennings Farm",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "peppers",
+            "apples"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Fresh Produce",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "fresh",
+            "local",
+            "produce"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Sugar Maple",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "fresh",
+            "local",
+            "meat"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Urban Farm",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "local"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Barking Good Bakery",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "organic",
+            "vegetables",
+            "herbs"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Sprout Farm",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "organic",
+            "vegetables",
+            "herbs",
+            "bread"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "House Farm",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "fresh",
+            "local",
+            "meat"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Haring Family Farm",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "organic",
+            "vegetables",
+            "eggs",
+            "beef"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        },
+        {
+          "name": "Glenmalure Farm",
+          "page_url": "https://growitgreenmorristown.org/wintermarket",
+          "location": null,
+          "products": [
+            "organic",
+            "vegetables",
+            "eggs",
+            "meat",
+            "beef"
+          ],
+          "contact_info": {
+            "email": "wintermarket@growitgreenmorristown.orgSponsor",
+            "phone": "973.206.4177",
+            "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 0.496502161026001,
+      "error": null
+    },
+    {
+      "market_name": "haddonfieldfarmersmarket.org",
+      "market_url": "https://haddonfieldfarmersmarket.org/",
+      "vendor_pages_found": [
+        {
+          "text": "vendors",
+          "url": "https://haddonfieldfarmersmarket.org/vendors/",
+          "indicator": "vendors",
+          "priority": 2
+        }
+      ],
+      "vendors": [
+        {
+          "name": "Getting To The Market\n\t\t\t\t\tHaddonfield Farm",
+          "page_url": "https://haddonfieldfarmersmarket.org/",
+          "location": "Kings Court Haddonfield, NJ 08033",
+          "products": [
+            "corn"
+          ],
+          "contact_info": {
+            "website": "https://haddonfieldfarmersmarket.org/blog/"
+          },
+          "description": null
+        },
+        {
+          "name": "Haddonfield Farm",
+          "page_url": "https://haddonfieldfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "website": "https://haddonfieldfarmersmarket.org/blog/"
+          },
+          "description": null
+        },
+        {
+          "name": "Market Season\nHaddonfield Farm",
+          "page_url": "https://haddonfieldfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "website": "https://haddonfieldfarmersmarket.org/blog/"
+          },
+          "description": null
+        },
+        {
+          "name": "Crystal Bakery",
+          "page_url": "https://haddonfieldfarmersmarket.org/vendors/",
+          "location": null,
+          "products": [
+            "flowers"
+          ],
+          "contact_info": {
+            "website": "https://haddonfieldfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Muth Farm Flowers\n\nGarden",
+          "page_url": "https://haddonfieldfarmersmarket.org/vendors/",
+          "location": null,
+          "products": [
+            "flowers"
+          ],
+          "contact_info": {
+            "website": "https://haddonfieldfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Point Farm",
+          "page_url": "https://haddonfieldfarmersmarket.org/vendors/",
+          "location": "Gloucester County, New Jersey",
+          "products": [
+            "seasonal",
+            "produce"
+          ],
+          "contact_info": {
+            "website": "https://haddonfieldfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Turning Point Farm\n\nTurning Point Farm",
+          "page_url": "https://haddonfieldfarmersmarket.org/vendors/",
+          "location": "Gloucester County, New Jersey",
+          "products": [
+            "seasonal",
+            "vegetables",
+            "produce"
+          ],
+          "contact_info": {
+            "website": "https://haddonfieldfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Winsley Gardens",
+          "page_url": "https://haddonfieldfarmersmarket.org/vendors/",
+          "location": null,
+          "products": [
+            "cheese"
+          ],
+          "contact_info": {
+            "website": "https://haddonfieldfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Sorbello Girls Farm",
+          "page_url": "https://haddonfieldfarmersmarket.org/vendors/",
+          "location": null,
+          "products": [
+            "fresh",
+            "produce",
+            "corn"
+          ],
+          "contact_info": {
+            "website": "https://haddonfieldfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Muth Farm",
+          "page_url": "https://haddonfieldfarmersmarket.org/vendors/",
+          "location": null,
+          "products": [
+            "flowers"
+          ],
+          "contact_info": {
+            "website": "https://haddonfieldfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Earth Eats Co.",
+          "page_url": "https://haddonfieldfarmersmarket.org/vendors/",
+          "location": "Haddonfield, NJ",
+          "products": [
+            "produce",
+            "beans"
+          ],
+          "contact_info": {
+            "website": "https://haddonfieldfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Girls Farm",
+          "page_url": "https://haddonfieldfarmersmarket.org/vendors/",
+          "location": null,
+          "products": [
+            "produce",
+            "corn"
+          ],
+          "contact_info": {
+            "website": "https://haddonfieldfarmersmarket.org"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 2.6723127365112305,
+      "error": null
+    },
+    {
+      "market_name": "haddonheightsfarmersmarket.com",
+      "market_url": "https://haddonheightsfarmersmarket.com/",
+      "vendor_pages_found": [
+        {
+          "text": "apply for the haddon heights farmers market",
+          "url": "https://haddonheightsfarmersmarket.com/application-fee",
+          "indicator": "farmers",
+          "priority": 2
+        }
+      ],
+      "vendors": [
+        {
+          "name": "Heights Farm",
+          "page_url": "https://haddonheightsfarmersmarket.com/",
+          "location": null,
+          "products": [
+            "fresh",
+            "produce"
+          ],
+          "contact_info": {
+            "website": "https://haddonheightsfarmersmarket.com/application-fee"
+          },
+          "description": null
+        },
+        {
+          "name": "Haddon Heights Farm",
+          "page_url": "https://haddonheightsfarmersmarket.com/",
+          "location": null,
+          "products": [
+            "fresh",
+            "produce"
+          ],
+          "contact_info": {
+            "website": "https://haddonheightsfarmersmarket.com/application-fee"
+          },
+          "description": null
+        },
+        {
+          "name": "The Haddon Heights Farm",
+          "page_url": "https://haddonheightsfarmersmarket.com/",
+          "location": null,
+          "products": [
+            "fresh",
+            "local",
+            "produce"
+          ],
+          "contact_info": {
+            "website": "https://haddonheightsfarmersmarket.com/application-fee"
+          },
+          "description": null
+        },
+        {
+          "name": "Haddon Heights Farmers Market\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHaddon Heights Farm",
+          "page_url": "https://haddonheightsfarmersmarket.com/",
+          "location": null,
+          "products": [
+            "fresh",
+            "local",
+            "produce"
+          ],
+          "contact_info": {
+            "website": "https://haddonheightsfarmersmarket.com/application-fee"
+          },
+          "description": null
+        },
+        {
+          "name": "Whole Sale Produce",
+          "page_url": "https://haddonheightsfarmersmarket.com/application-fee",
+          "location": null,
+          "products": [
+            "local",
+            "produce"
+          ],
+          "contact_info": {
+            "email": "haddonheightsfarmersmarket@gmail.com",
+            "phone": "856-577-7907",
+            "website": "https://www.haddonheightsfarmersmarket.com/ales-on-the-rails-vendor-app"
+          },
+          "description": null
+        },
+        {
+          "name": "Heights In Progress Inc",
+          "page_url": "https://haddonheightsfarmersmarket.com/application-fee",
+          "location": null,
+          "products": [
+            "corn"
+          ],
+          "contact_info": {
+            "email": "haddonheightsfarmersmarket@gmail.com",
+            "phone": "856-577-7907",
+            "website": "https://www.haddonheightsfarmersmarket.com/ales-on-the-rails-vendor-app"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 2.8208250999450684,
+      "error": null
+    },
+    {
+      "market_name": "hazlettwp.org",
+      "market_url": "https://hazlettwp.org/",
+      "vendor_pages_found": [
+        {
+          "text": "hazlet farmers market",
+          "url": "https://hazlettwp.org/Calendar.aspx?EID=3442",
+          "indicator": "farmers",
+          "priority": 2
+        }
+      ],
+      "vendors": [
+        {
+          "name": "Hazlet Farm",
+          "page_url": "https://hazlettwp.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "phone": "732-264-1700"
+          },
+          "description": null
+        },
+        {
+          "name": "View Hazlet Farm",
+          "page_url": "https://hazlettwp.org/Calendar.aspx?EID=3442",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "phone": "732-217-8683"
+          },
+          "description": null
+        },
+        {
+          "name": "Free\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHazlet Farm",
+          "page_url": "https://hazlettwp.org/Calendar.aspx?EID=3442",
+          "location": "1776 Union Ave",
+          "products": [
+            "fresh",
+            "local",
+            "produce"
+          ],
+          "contact_info": {
+            "phone": "732-217-8683"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 3.6635189056396484,
+      "error": null
+    },
+    {
+      "market_name": "hearhereevents.com",
+      "market_url": "https://hearhereevents.com/",
+      "vendor_pages_found": [
+        {
+          "text": "https://parsippanyfocus.com/2025/04/10/hear-here-llc-to-manage-2025-parsippany-farmers-market-season/ via @parsippany focus",
+          "url": "https://parsippanyfocus.com/2025/04/10/hear-here-llc-to-manage-2025-parsippany-farmers-market-season/ via @Parsippany Focus",
+          "indicator": "farmers",
+          "priority": 2
+        }
+      ],
+      "vendors": [
+        {
+          "name": "Hazlet Farm",
+          "page_url": "https://hearhereevents.com/",
+          "location": "Parsippany Focus\n\n\n\nHear Here, LL",
+          "products": [],
+          "contact_info": {
+            "email": "Contactinfo@hearhereevents.com",
+            "phone": "(732) 673-6045",
+            "website": "https://patch.com/new-jersey/holmdel-hazlet/new-farmers-market-coming-hazlet?utm_source=share-link&utm_medium=web&utm_campaign=share"
+          },
+          "description": null
+        },
+        {
+          "name": "Hazlet                        Farm",
+          "page_url": "https://hearhereevents.com/",
+          "location": "1776 Union Avenue",
+          "products": [
+            "fresh",
+            "local",
+            "produce"
+          ],
+          "contact_info": {
+            "email": "Contactinfo@hearhereevents.com",
+            "phone": "(732) 673-6045",
+            "website": "https://patch.com/new-jersey/holmdel-hazlet/new-farmers-market-coming-hazlet?utm_source=share-link&utm_medium=web&utm_campaign=share"
+          },
+          "description": null
+        },
+        {
+          "name": "Howell Farm",
+          "page_url": "https://hearhereevents.com/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "Contactinfo@hearhereevents.com",
+            "phone": "(732) 673-6045",
+            "website": "https://patch.com/new-jersey/holmdel-hazlet/new-farmers-market-coming-hazlet?utm_source=share-link&utm_medium=web&utm_campaign=share"
+          },
+          "description": null
+        },
+        {
+          "name": "Highlands Farm",
+          "page_url": "https://hearhereevents.com/",
+          "location": "111 First Avenue",
+          "products": [
+            "fresh",
+            "produce"
+          ],
+          "contact_info": {
+            "email": "Contactinfo@hearhereevents.com",
+            "phone": "(732) 673-6045",
+            "website": "https://patch.com/new-jersey/holmdel-hazlet/new-farmers-market-coming-hazlet?utm_source=share-link&utm_medium=web&utm_campaign=share"
+          },
+          "description": null
+        },
+        {
+          "name": "Farmers Markets\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAtlantic Highlands Farm",
+          "page_url": "https://hearhereevents.com/",
+          "location": "111 First Avenue",
+          "products": [
+            "fresh",
+            "produce"
+          ],
+          "contact_info": {
+            "email": "Contactinfo@hearhereevents.com",
+            "phone": "(732) 673-6045",
+            "website": "https://patch.com/new-jersey/holmdel-hazlet/new-farmers-market-coming-hazlet?utm_source=share-link&utm_medium=web&utm_campaign=share"
+          },
+          "description": null
+        },
+        {
+          "name": "Atlantic Highlands Farm",
+          "page_url": "https://hearhereevents.com/",
+          "location": "111 First Avenue",
+          "products": [
+            "fresh",
+            "produce"
+          ],
+          "contact_info": {
+            "email": "Contactinfo@hearhereevents.com",
+            "phone": "(732) 673-6045",
+            "website": "https://patch.com/new-jersey/holmdel-hazlet/new-farmers-market-coming-hazlet?utm_source=share-link&utm_medium=web&utm_campaign=share"
+          },
+          "description": null
+        },
+        {
+          "name": "Organize Hazlet Farm",
+          "page_url": "https://hearhereevents.com/",
+          "location": "Parsippany Focus\n\n\n\nHear Here, LL",
+          "products": [],
+          "contact_info": {
+            "email": "Contactinfo@hearhereevents.com",
+            "phone": "(732) 673-6045",
+            "website": "https://patch.com/new-jersey/holmdel-hazlet/new-farmers-market-coming-hazlet?utm_source=share-link&utm_medium=web&utm_campaign=share"
+          },
+          "description": null
+        },
+        {
+          "name": "The Howell Farm",
+          "page_url": "https://hearhereevents.com/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "Contactinfo@hearhereevents.com",
+            "phone": "(732) 673-6045",
+            "website": "https://patch.com/new-jersey/holmdel-hazlet/new-farmers-market-coming-hazlet?utm_source=share-link&utm_medium=web&utm_campaign=share"
+          },
+          "description": null
+        },
+        {
+          "name": "Current Farm",
+          "page_url": "https://hearhereevents.com/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "Contactinfo@hearhereevents.com",
+            "phone": "(732) 673-6045",
+            "website": "https://patch.com/new-jersey/holmdel-hazlet/new-farmers-market-coming-hazlet?utm_source=share-link&utm_medium=web&utm_campaign=share"
+          },
+          "description": null
+        },
+        {
+          "name": "Howell          Farm",
+          "page_url": "https://hearhereevents.com/",
+          "location": null,
+          "products": [
+            "fresh",
+            "local",
+            "produce"
+          ],
+          "contact_info": {
+            "email": "Contactinfo@hearhereevents.com",
+            "phone": "(732) 673-6045",
+            "website": "https://patch.com/new-jersey/holmdel-hazlet/new-farmers-market-coming-hazlet?utm_source=share-link&utm_medium=web&utm_campaign=share"
+          },
+          "description": null
+        },
+        {
+          "name": "Parsippany Farm",
+          "page_url": "https://hearhereevents.com/",
+          "location": "Hear Here, LL",
+          "products": [],
+          "contact_info": {
+            "email": "Contactinfo@hearhereevents.com",
+            "phone": "(732) 673-6045",
+            "website": "https://patch.com/new-jersey/holmdel-hazlet/new-farmers-market-coming-hazlet?utm_source=share-link&utm_medium=web&utm_campaign=share"
+          },
+          "description": null
+        },
+        {
+          "name": "Current Farmers Market Locations Hazlet Farm",
+          "page_url": "https://hearhereevents.com/",
+          "location": "1776 Union Avenue",
+          "products": [],
+          "contact_info": {
+            "email": "Contactinfo@hearhereevents.com",
+            "phone": "(732) 673-6045",
+            "website": "https://patch.com/new-jersey/holmdel-hazlet/new-farmers-market-coming-hazlet?utm_source=share-link&utm_medium=web&utm_campaign=share"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 3.222421169281006,
+      "error": null
+    },
+    {
+      "market_name": "highlandsnj.com",
+      "market_url": "https://highlandsnj.com/",
+      "vendor_pages_found": [
+        {
+          "text": "highlands_farmers_market_fall.jpg",
+          "url": "https://highlandsnj.com/Assets_Bannor/Highlands_Farmers_Market_Fall.jpg",
+          "indicator": "farmers",
+          "priority": 2
+        }
+      ],
+      "vendors": [],
+      "processing_time": 2.8338851928710938,
+      "error": null
+    },
+    {
+      "market_name": "hobokenfarmersmarket.com",
+      "market_url": "https://hobokenfarmersmarket.com/",
+      "vendor_pages_found": [
+        {
+          "text": "vendors",
+          "url": "https://hobokenfarmersmarket.com/vendors1",
+          "indicator": "vendors",
+          "priority": 2
+        },
+        {
+          "text": "tuesday vendors",
+          "url": "https://hobokenfarmersmarket.com/tuesday-vendors",
+          "indicator": "vendors",
+          "priority": 2
+        },
+        {
+          "text": "thursday vendors",
+          "url": "https://hobokenfarmersmarket.com/thursday-vendors",
+          "indicator": "vendors",
+          "priority": 2
+        },
+        {
+          "text": "saturday vendors",
+          "url": "https://hobokenfarmersmarket.com/saturday-vendors",
+          "indicator": "vendors",
+          "priority": 2
+        },
+        {
+          "text": "vendors",
+          "url": "https://hobokenfarmersmarket.com/vendors",
+          "indicator": "vendors",
+          "priority": 2
+        }
+      ],
+      "vendors": [
+        {
+          "name": "Cultivation Company LLC",
+          "page_url": "https://hobokenfarmersmarket.com/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "website": "https://www.instagram.com/hobokenfarmersmarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Hoboken Farm",
+          "page_url": "https://hobokenfarmersmarket.com/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "website": "https://www.instagram.com/hobokenfarmersmarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Town Farm",
+          "page_url": "https://hobokenfarmersmarket.com/vendors1",
+          "location": null,
+          "products": [
+            "fresh",
+            "local",
+            "vegetables",
+            "fruits",
+            "bread"
+          ],
+          "contact_info": {
+            "website": "https://www.instagram.com/hobokenfarmersmarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Brook Farm",
+          "page_url": "https://hobokenfarmersmarket.com/vendors1",
+          "location": null,
+          "products": [
+            "organic",
+            "fresh",
+            "local"
+          ],
+          "contact_info": {
+            "website": "https://www.instagram.com/hobokenfarmersmarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Arroyo Farm",
+          "page_url": "https://hobokenfarmersmarket.com/vendors1",
+          "location": null,
+          "products": [
+            "grass-fed",
+            "meat",
+            "chicken"
+          ],
+          "contact_info": {
+            "website": "https://www.instagram.com/hobokenfarmersmarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Hill Farm",
+          "page_url": "https://hobokenfarmersmarket.com/vendors1",
+          "location": null,
+          "products": [
+            "fresh",
+            "local",
+            "vegetables",
+            "fruits"
+          ],
+          "contact_info": {
+            "website": "https://www.instagram.com/hobokenfarmersmarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Circle Brook Farm",
+          "page_url": "https://hobokenfarmersmarket.com/vendors1",
+          "location": null,
+          "products": [
+            "organic",
+            "fresh",
+            "local"
+          ],
+          "contact_info": {
+            "website": "https://www.instagram.com/hobokenfarmersmarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Union Hill Farm",
+          "page_url": "https://hobokenfarmersmarket.com/vendors1",
+          "location": null,
+          "products": [
+            "fresh",
+            "local",
+            "vegetables",
+            "fruits"
+          ],
+          "contact_info": {
+            "website": "https://www.instagram.com/hobokenfarmersmarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Cap Farm",
+          "page_url": "https://hobokenfarmersmarket.com/vendors1",
+          "location": null,
+          "products": [
+            "bread"
+          ],
+          "contact_info": {
+            "website": "https://www.instagram.com/hobokenfarmersmarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Stony Hill Farm",
+          "page_url": "https://hobokenfarmersmarket.com/thursday-vendors",
+          "location": null,
+          "products": [
+            "fresh",
+            "bread",
+            "produce"
+          ],
+          "contact_info": {
+            "website": "https://www.instagram.com/hobokenfarmersmarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "The Blessing Bakery",
+          "page_url": "https://hobokenfarmersmarket.com/thursday-vendors",
+          "location": null,
+          "products": [
+            "bread"
+          ],
+          "contact_info": {
+            "website": "https://www.instagram.com/hobokenfarmersmarket/"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 7.793304204940796,
+      "error": null
+    },
+    {
+      "market_name": "hopewellfarmersmarket.com",
+      "market_url": "https://hopewellfarmersmarket.com/",
+      "vendor_pages_found": [],
+      "vendors": [],
+      "processing_time": 0.11183691024780273,
+      "error": null
+    },
+    {
+      "market_name": "hpna.wildapricot.org",
+      "market_url": "https://hpna.wildapricot.org/farmers-market",
+      "vendor_pages_found": [
+        {
+          "text": "farmers' market",
+          "url": "https://hpna.wildapricot.org/Farmers-Market",
+          "indicator": "farmers",
+          "priority": 2
+        }
+      ],
+      "vendors": [
+        {
+          "name": "Local Elections\n\n\n\n\nNews\n\n\n\n\nMemorial Plaque\n\n\n\n\nContact Us\n\n\n\n\n\n\nHome\nEvents\nFarm",
+          "page_url": "https://hpna.wildapricot.org/farmers-market",
+          "location": null,
+          "products": [
+            "local"
+          ],
+          "contact_info": {
+            "email": "hpnafmkt@gmail.com",
+            "phone": "(201) 589-0750",
+            "website": "https://hpna.wildapricot.org/Farmers-Market"
+          },
+          "description": null
+        },
+        {
+          "name": "Stony Hill Farm",
+          "page_url": "https://hpna.wildapricot.org/farmers-market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "hpnafmkt@gmail.com",
+            "phone": "(201) 589-0750",
+            "website": "https://hpna.wildapricot.org/Farmers-Market"
+          },
+          "description": null
+        },
+        {
+          "name": "Events\n\n\n\nFarm",
+          "page_url": "https://hpna.wildapricot.org/farmers-market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "hpnafmkt@gmail.com",
+            "phone": "(201) 589-0750",
+            "website": "https://hpna.wildapricot.org/Farmers-Market"
+          },
+          "description": null
+        },
+        {
+          "name": "Hill Farm",
+          "page_url": "https://hpna.wildapricot.org/farmers-market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "hpnafmkt@gmail.com",
+            "phone": "(201) 589-0750",
+            "website": "https://hpna.wildapricot.org/Farmers-Market"
+          },
+          "description": null
+        },
+        {
+          "name": "Events\nFarm",
+          "page_url": "https://hpna.wildapricot.org/farmers-market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "hpnafmkt@gmail.com",
+            "phone": "(201) 589-0750",
+            "website": "https://hpna.wildapricot.org/Farmers-Market"
+          },
+          "description": null
+        },
+        {
+          "name": "Sweet Stuff Bakery",
+          "page_url": "https://hpna.wildapricot.org/farmers-market",
+          "location": null,
+          "products": [
+            "fresh",
+            "produce"
+          ],
+          "contact_info": {
+            "email": "hpnafmkt@gmail.com",
+            "phone": "(201) 589-0750",
+            "website": "https://hpna.wildapricot.org/Farmers-Market"
+          },
+          "description": null
+        },
+        {
+          "name": "Friends\n\n\n\n\nCommittees\n\n\n\n\n\n\n\nCalendar\n\n\n\n\nEvents\n\n\n\nFarm",
+          "page_url": "https://hpna.wildapricot.org/farmers-market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "hpnafmkt@gmail.com",
+            "phone": "(201) 589-0750",
+            "website": "https://hpna.wildapricot.org/Farmers-Market"
+          },
+          "description": null
+        },
+        {
+          "name": "Cap Farm",
+          "page_url": "https://hpna.wildapricot.org/farmers-market",
+          "location": null,
+          "products": [
+            "fresh",
+            "produce"
+          ],
+          "contact_info": {
+            "email": "hpnafmkt@gmail.com",
+            "phone": "(201) 589-0750",
+            "website": "https://hpna.wildapricot.org/Farmers-Market"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 2.5484187602996826,
+      "error": null
+    },
+    {
+      "market_name": "hunterdonfarmersmarket.org",
+      "market_url": "https://hunterdonfarmersmarket.org/",
+      "vendor_pages_found": [
+        {
+          "text": "vendors",
+          "url": "https://www.hunterdonfarmersmarket.org/vendors",
+          "indicator": "vendors",
+          "priority": 2
+        },
+        {
+          "text": "all vendors",
+          "url": "https://www.hunterdonfarmersmarket.org/general-5",
+          "indicator": "vendors",
+          "priority": 2
+        }
+      ],
+      "vendors": [
+        {
+          "name": "Wildflower Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Pretty Bird Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Bobolink Dairy",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Upcoming Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Work Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [
+            "honey"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Valley Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Cabbage Throw Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [
+            "honey"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Join The Hunterdon Community Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": "111 Mine St",
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Sunday Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": "111 Mine St",
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Ridge Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Bird Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Sugar Maple",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Dvoor Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": "111 Mine Street",
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Sweet Valley Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Rutgers Master Garden",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Comeback Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [
+            "honey"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Creek Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Whitehouse Station Sauce Co.",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [
+            "fresh",
+            "local"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Throw Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [
+            "honey"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Toadshade Wildflower Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Gorgeous Goat Creamery",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [
+            "honey"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Hunterdon Community Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": "Flemington, NJ",
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Hungry Work Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [
+            "honey"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Allerton Creek Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Community Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": "Flemington, NJ",
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Apple Ridge Farm",
+          "page_url": "https://hunterdonfarmersmarket.org/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "phone": "8910111213",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Periwinkle Skies Bobolink Dairy",
+          "page_url": "https://www.hunterdonfarmersmarket.org/vendors",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Farmhouse Serenity Co.",
+          "page_url": "https://www.hunterdonfarmersmarket.org/vendors",
+          "location": null,
+          "products": [
+            "honey"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Gluten Free\nLiving Smart Granola\nLuscious Spirits Craft Distillery\nOcasio Soap Company\nPeriwinkle Skies\nPickle Culture\nPretty Bird Farm\nRooster Ranch\nSolebury Nectar\nSugar Maple Jerseys\nSweet Valley Farm\nToadshade Wildflower Farm",
+          "page_url": "https://www.hunterdonfarmersmarket.org/general-5",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Gluten Free\nLiving Smart Granola\nLuscious Spirits Craft Distillery\nOcasio Soap Company\nPeriwinkle Skies\nPickle Culture\nPretty Bird Farm\nRooster Ranch",
+          "page_url": "https://www.hunterdonfarmersmarket.org/general-5",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Food Truck\nGorgeous Goat Creamery",
+          "page_url": "https://www.hunterdonfarmersmarket.org/general-5",
+          "location": null,
+          "products": [
+            "honey"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Zeni\nCabbage Throw Farm\nChef Nash Reba\nCollective Culture\nComeback Farm\nCrunchy Tie Dye\nFarm",
+          "page_url": "https://www.hunterdonfarmersmarket.org/general-5",
+          "location": null,
+          "products": [
+            "honey"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Dye\nFarm",
+          "page_url": "https://www.hunterdonfarmersmarket.org/general-5",
+          "location": null,
+          "products": [
+            "honey"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Cup\nFarm",
+          "page_url": "https://www.hunterdonfarmersmarket.org/general-5",
+          "location": null,
+          "products": [
+            "honey"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Food Truck\nGorgeous Goat Creamery\nHilltop Worm Farm",
+          "page_url": "https://www.hunterdonfarmersmarket.org/general-5",
+          "location": null,
+          "products": [
+            "honey"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Food Truck\nGorgeous Goat Creamery\nHilltop Worm Farm\nHoney",
+          "page_url": "https://www.hunterdonfarmersmarket.org/general-5",
+          "location": null,
+          "products": [
+            "honey"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Worm Farm",
+          "page_url": "https://www.hunterdonfarmersmarket.org/general-5",
+          "location": null,
+          "products": [
+            "honey"
+          ],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Gluten Free\nLiving Smart Granola\nLuscious Spirits Craft Distillery\nOcasio Soap Company\nPeriwinkle Skies\nPickle Culture\nPretty Bird Farm\nRooster Ranch\nSolebury Nectar\nSugar Maple",
+          "page_url": "https://www.hunterdonfarmersmarket.org/general-5",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Apple Ridge Farm\nBobolink Dairy",
+          "page_url": "https://www.hunterdonfarmersmarket.org/general-5",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "08822EmailHunterdonCommunityFarmMarket@gmail.comMailing",
+            "website": "https://www.hunterdonfarmersmarket.org"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 5.777840852737427,
+      "error": null
+    },
+    {
+      "market_name": "instagram.com",
+      "market_url": "https://instagram.com/p/DI2AbjJRBfy/",
+      "vendor_pages_found": [],
+      "vendors": [],
+      "processing_time": 0.5448479652404785,
+      "error": null
+    },
+    {
+      "market_name": "jcdowntown.org",
+      "market_url": "https://jcdowntown.org/event/farmersmarket/",
+      "vendor_pages_found": [],
+      "vendors": [],
+      "processing_time": 0,
+      "error": "Failed to fetch main page"
+    },
+    {
+      "market_name": "jcwsca.org",
+      "market_url": "https://jcwsca.org/",
+      "vendor_pages_found": [
+        {
+          "text": "farmers market",
+          "url": "https://www.jcwsca.org/farmers-market/",
+          "indicator": "farmers",
+          "priority": 2
+        }
+      ],
+      "vendors": [
+        {
+          "name": "The Farm",
+          "page_url": "https://www.jcwsca.org/farmers-market/",
+          "location": null,
+          "products": [
+            "fresh"
+          ],
+          "contact_info": {
+            "email": "jcwsca@gmail.com",
+            "website": "https://www.jcwsca.org/farmers-market/"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 2.559145927429199,
+      "error": null
+    },
+    {
+      "market_name": "landismarketplace.com",
+      "market_url": "https://landismarketplace.com/",
+      "vendor_pages_found": [],
+      "vendors": [],
+      "processing_time": 0,
+      "error": "Failed to fetch main page"
+    },
+    {
+      "market_name": "littlefallsnj.gov",
+      "market_url": "https://littlefallsnj.gov/",
+      "vendor_pages_found": [
+        {
+          "text": "little falls farmers market",
+          "url": "https://littlefallsnj.gov/index.asp?SEC=E4DEC487-23E8-44CF-8666-D0A2C25391B6",
+          "indicator": "farmers",
+          "priority": 2
+        },
+        {
+          "text": "senior farmers market nutrition program",
+          "url": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program",
+          "indicator": "farmers",
+          "priority": 2
+        },
+        {
+          "text": "little falls farmers market 2025",
+          "url": "https://littlefallsnj.gov/index.asp?SEC=4DF6C370-5B7E-432E-AC35-CD633EFF3076&DE=722ED54A-3EF3-40E0-A326-CF03474244A3",
+          "indicator": "farmers",
+          "priority": 2
+        }
+      ],
+      "vendors": [
+        {
+          "name": "Falls Farm",
+          "page_url": "https://littlefallsnj.gov/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "paratransit@passaiccountynj.org",
+            "phone": "(973) 256-0170",
+            "website": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program"
+          },
+          "description": null
+        },
+        {
+          "name": "Senior Farm",
+          "page_url": "https://littlefallsnj.gov/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "paratransit@passaiccountynj.org",
+            "phone": "(973) 256-0170",
+            "website": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program"
+          },
+          "description": null
+        },
+        {
+          "name": "Senior Fitness\n\nSummer Camp\n\nHometown Heroes Program\n\nLittle Falls Farm",
+          "page_url": "https://littlefallsnj.gov/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "paratransit@passaiccountynj.org",
+            "phone": "(973) 256-0170",
+            "website": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program"
+          },
+          "description": null
+        },
+        {
+          "name": "Little Falls Farm",
+          "page_url": "https://littlefallsnj.gov/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "paratransit@passaiccountynj.org",
+            "phone": "(973) 256-0170",
+            "website": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program"
+          },
+          "description": null
+        },
+        {
+          "name": "Office\n\nTownship Administrator\n\nStaff Directory\n\n\nResources\n\n\nSenior Citizen Resources\n\n\nLittle Falls Senior Clubs\n\nPassaic County Senior Services\n\nSenior Pathway Newsletter\n\nSenior Farm",
+          "page_url": "https://littlefallsnj.gov/",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "paratransit@passaiccountynj.org",
+            "phone": "(973) 256-0170",
+            "website": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program"
+          },
+          "description": null
+        },
+        {
+          "name": "Resources\n\n\nSenior Citizen Resources\n\n\nLittle Falls Senior Clubs\n\nPassaic County Senior Services\n\nSenior Pathway Newsletter\n\nSenior Farm",
+          "page_url": "https://littlefallsnj.gov/",
+          "location": null,
+          "products": [],
+          "contact_info": {},
+          "description": "Resources\n\n\nSenior Citizen Resources\n\n\nLittle Falls Senior Clubs\n\nPassaic County Senior Services\n\nSenior Pathway Newsletter\n\nSenior Farmers Market Nutrition Program\n\nSenior Bus Service\n\n\nComplaint Por"
+        },
+        {
+          "name": "Senior Citizen Resources\n\n\nLittle Falls Senior Clubs\n\nPassaic County Senior Services\n\nSenior Pathway Newsletter\n\nSenior Farm",
+          "page_url": "https://littlefallsnj.gov/",
+          "location": null,
+          "products": [],
+          "contact_info": {},
+          "description": "Senior Citizen Resources\n\n\nLittle Falls Senior Clubs\n\nPassaic County Senior Services\n\nSenior Pathway Newsletter\n\nSenior Farmers Market Nutrition Program\n\nSenior Bus Service"
+        },
+        {
+          "name": "Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLittle Falls Farmers Market\nThe Little Falls Farm",
+          "page_url": "https://littlefallsnj.gov/index.asp?SEC=E4DEC487-23E8-44CF-8666-D0A2C25391B6",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "LFFARMERSMARKET@LITTLEFALLSNJ.GOV",
+            "phone": "(973) 256-0170",
+            "website": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program"
+          },
+          "description": null
+        },
+        {
+          "name": "Freshly Sourced Produce",
+          "page_url": "https://littlefallsnj.gov/index.asp?SEC=E4DEC487-23E8-44CF-8666-D0A2C25391B6",
+          "location": null,
+          "products": [
+            "fresh",
+            "seasonal",
+            "vegetables",
+            "fruits",
+            "produce"
+          ],
+          "contact_info": {
+            "email": "LFFARMERSMARKET@LITTLEFALLSNJ.GOV",
+            "phone": "(973) 256-0170",
+            "website": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program"
+          },
+          "description": null
+        },
+        {
+          "name": "Older Adults\n\n\n\n\nFarm",
+          "page_url": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program",
+          "location": null,
+          "products": [],
+          "contact_info": {},
+          "description": null
+        },
+        {
+          "name": "Senior Farmers Market Nutrition Program\n\n\n\n\n\n\n\n\n\n\nBreadcrumb\n\n\nHome\n\n\nPrograms\n\n\nFarmers Market Programs\n\n\n                      Senior Farm",
+          "page_url": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program",
+          "location": null,
+          "products": [
+            "bread"
+          ],
+          "contact_info": {},
+          "description": null
+        },
+        {
+          "name": "Seniors Farm",
+          "page_url": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program",
+          "location": null,
+          "products": [],
+          "contact_info": {},
+          "description": null
+        },
+        {
+          "name": "Market Nutrition Program Inc",
+          "page_url": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program",
+          "location": null,
+          "products": [],
+          "contact_info": {},
+          "description": null
+        },
+        {
+          "name": "The Farm",
+          "page_url": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program",
+          "location": null,
+          "products": [],
+          "contact_info": {},
+          "description": null
+        },
+        {
+          "name": "Programs\n\n\nFarm",
+          "page_url": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program",
+          "location": null,
+          "products": [
+            "bread"
+          ],
+          "contact_info": {},
+          "description": null
+        },
+        {
+          "name": "Adults\n\n\n\n\nFarm",
+          "page_url": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program",
+          "location": null,
+          "products": [],
+          "contact_info": {},
+          "description": null
+        },
+        {
+          "name": "Guidance Package\n\n\n\n                                          Policy Memos\n    \n\n\n\n\n\nSeniors Farm",
+          "page_url": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program",
+          "location": null,
+          "products": [],
+          "contact_info": {},
+          "description": null
+        },
+        {
+          "name": "Tube Short\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nThe Senior Farm",
+          "page_url": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program",
+          "location": null,
+          "products": [
+            "local",
+            "vegetables",
+            "fruits",
+            "herbs",
+            "honey"
+          ],
+          "contact_info": {},
+          "description": null
+        },
+        {
+          "name": "Income Seniors\nThe Senior Farm",
+          "page_url": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program",
+          "location": null,
+          "products": [
+            "local",
+            "vegetables",
+            "fruits",
+            "herbs",
+            "honey"
+          ],
+          "contact_info": {},
+          "description": null
+        },
+        {
+          "name": "Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLittle Falls Farm",
+          "page_url": "https://littlefallsnj.gov/index.asp?SEC=4DF6C370-5B7E-432E-AC35-CD633EFF3076&DE=722ED54A-3EF3-40E0-A326-CF03474244A3",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "phone": "(973) 256-0170",
+            "website": "https://www.fns.usda.gov/sfmnp/senior-farmers-market-nutrition-program"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 8.396636009216309,
+      "error": null
+    },
+    {
+      "market_name": "mainstreethp.org",
+      "market_url": "https://mainstreethp.org/hpfmabout",
+      "vendor_pages_found": [
+        {
+          "text": "our vendors",
+          "url": "https://mainstreethp.org/hpfmvendors",
+          "indicator": "vendors",
+          "priority": 3
+        },
+        {
+          "text": "vendors",
+          "url": "https://mainstreethp.org/vendors",
+          "indicator": "vendors",
+          "priority": 2
+        },
+        {
+          "text": "highland park farmers market",
+          "url": "https://www.facebook.com/HighlandParkFarmersMarket/",
+          "indicator": "farmers",
+          "priority": 2
+        }
+      ],
+      "vendors": [
+        {
+          "name": "Senior Farmers Market Nutrition Program\n          \n\n\n\n\n\n\n\n\n\n\nSenior Farm",
+          "page_url": "https://mainstreethp.org/hpfmabout",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Park\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFarm",
+          "page_url": "https://mainstreethp.org/hpfmabout",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Highland Park Farm",
+          "page_url": "https://mainstreethp.org/hpfmabout",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Authorized Farm",
+          "page_url": "https://mainstreethp.org/hpfmabout",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Park Farm",
+          "page_url": "https://mainstreethp.org/hpfmabout",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Senior Farm",
+          "page_url": "https://mainstreethp.org/hpfmabout",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Local Gift Card\n            \n\n\n\n                Menorah Lighting\n              \n\n\n\n                Planting Days\n              \n\n\n\n                Outdoor Movie Theater\n              \n\n\n\n              Townwide Garage Sale\n            \n\n\n\n\n\n\n\n\n\n\n\n\n\nFarm",
+          "page_url": "https://mainstreethp.org/hpfmabout",
+          "location": null,
+          "products": [
+            "local"
+          ],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Sale\n            \n\n\n\n\n\n\n\n\n\n\n\n\n\nFarm",
+          "page_url": "https://mainstreethp.org/hpfmabout",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Main Street Highland Park\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFarm",
+          "page_url": "https://mainstreethp.org/hpfmabout",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Town Farm",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": "Oldwick, NJ",
+          "products": [
+            "fresh",
+            "vegetables",
+            "fruits",
+            "eggs"
+          ],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Local Produce",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": "Hillsborough Township, NJ",
+          "products": [
+            "fresh",
+            "local",
+            "produce",
+            "onions",
+            "carrots"
+          ],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Park\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFarm",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Hill Farm",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": "Denville, NJ",
+          "products": [
+            "fresh",
+            "local",
+            "vegetables",
+            "fruits",
+            "flowers"
+          ],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Union Hill Farm",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": "Denville, NJ",
+          "products": [
+            "fresh",
+            "local",
+            "vegetables",
+            "fruits",
+            "flowers"
+          ],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Telugu Spice Kitchen",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": "Edison, NJ",
+          "products": [
+            "meat"
+          ],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Hardware Garden",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": "Fairfield, NJ",
+          "products": [
+            "fresh",
+            "flowers"
+          ],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Grove Farm",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": "Lawrenceville, NJ",
+          "products": [
+            "fresh",
+            "seasonal",
+            "cheese",
+            "pork",
+            "beef"
+          ],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Main Street Highland Park\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFarm",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Recklesstown Farm",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": "Columbus, NJ",
+          "products": [
+            "organic",
+            "local"
+          ],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Cherry Grove Farm",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": "Bays, NY",
+          "products": [
+            "fresh",
+            "seasonal",
+            "cheese",
+            "pork",
+            "beef"
+          ],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Produce Farm",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": "Cream Ridge, NJ",
+          "products": [
+            "organic",
+            "fresh",
+            "vegetables",
+            "fruits",
+            "herbs"
+          ],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Barking Good Bakery",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": "New Brunswick, NJ",
+          "products": [
+            "local",
+            "meat",
+            "produce",
+            "berries"
+          ],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Monmouth County\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCrumbley Kitchen",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": "Cream Ridge, NJ",
+          "products": [
+            "local",
+            "honey",
+            "produce"
+          ],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Organic Produce",
+          "page_url": "https://mainstreethp.org/hpfmvendors",
+          "location": "Cream Ridge, NJ",
+          "products": [
+            "organic",
+            "fresh",
+            "vegetables",
+            "fruits",
+            "herbs"
+          ],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket"
+          },
+          "description": null
+        },
+        {
+          "name": "Main Street Highland Park\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFarm",
+          "page_url": "https://mainstreethp.org/vendors",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket/"
+          },
+          "description": null
+        },
+        {
+          "name": "Park\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFarm",
+          "page_url": "https://mainstreethp.org/vendors",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "States7328288444mainstreethighlandpark@gmail.com",
+            "phone": "7328288444",
+            "website": "https://www.facebook.com/HighlandParkFarmersMarket/"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 7.060943126678467,
+      "error": null
+    },
+    {
+      "market_name": "mainstreetwoodbury.org",
+      "market_url": "https://mainstreetwoodbury.org/farmers-market",
+      "vendor_pages_found": [],
+      "vendors": [
+        {
+          "name": "The Woodbury Farm",
+          "page_url": "https://mainstreetwoodbury.org/farmers-market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "farmersmarket@mainstreetwoodbury.org",
+            "phone": "(856) 271-6399",
+            "website": "https://mainstreetwoodbury.org/farmers-market/"
+          },
+          "description": null
+        },
+        {
+          "name": "Tour\nFarm",
+          "page_url": "https://mainstreetwoodbury.org/farmers-market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "farmersmarket@mainstreetwoodbury.org",
+            "phone": "(856) 271-6399",
+            "website": "https://mainstreetwoodbury.org/farmers-market/"
+          },
+          "description": null
+        },
+        {
+          "name": "Market \n\n\n\n\n\n\n\n\n\nThe Woodbury Farm",
+          "page_url": "https://mainstreetwoodbury.org/farmers-market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "farmersmarket@mainstreetwoodbury.org",
+            "phone": "(856) 271-6399",
+            "website": "https://mainstreetwoodbury.org/farmers-market/"
+          },
+          "description": null
+        },
+        {
+          "name": "Main Street Woodbury Inc",
+          "page_url": "https://mainstreetwoodbury.org/farmers-market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "farmersmarket@mainstreetwoodbury.org",
+            "phone": "(856) 271-6399",
+            "website": "https://mainstreetwoodbury.org/farmers-market/"
+          },
+          "description": null
+        },
+        {
+          "name": "Home\nThe Board\nVolunteer\nGhost Tour\nFarm",
+          "page_url": "https://mainstreetwoodbury.org/farmers-market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "farmersmarket@mainstreetwoodbury.org",
+            "phone": "(856) 271-6399",
+            "website": "https://mainstreetwoodbury.org/farmers-market/"
+          },
+          "description": null
+        },
+        {
+          "name": "Linkedin\n \n\n\n\nTwitter\n \n\n\n\n\n\n\n\n\nFarm",
+          "page_url": "https://mainstreetwoodbury.org/farmers-market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "farmersmarket@mainstreetwoodbury.org",
+            "phone": "(856) 271-6399",
+            "website": "https://mainstreetwoodbury.org/farmers-market/"
+          },
+          "description": null
+        },
+        {
+          "name": "Market\nStore\nContact\n \n\n \n\nHome\nThe Board\nVolunteer\nGhost Tour\nFarm",
+          "page_url": "https://mainstreetwoodbury.org/farmers-market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "farmersmarket@mainstreetwoodbury.org",
+            "phone": "(856) 271-6399",
+            "website": "https://mainstreetwoodbury.org/farmers-market/"
+          },
+          "description": null
+        },
+        {
+          "name": "Woodbury Farm",
+          "page_url": "https://mainstreetwoodbury.org/farmers-market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "farmersmarket@mainstreetwoodbury.org",
+            "phone": "(856) 271-6399",
+            "website": "https://mainstreetwoodbury.org/farmers-market/"
+          },
+          "description": null
+        },
+        {
+          "name": "Twitter\n \n\n\n\n\n\n\n\n\nFarm",
+          "page_url": "https://mainstreetwoodbury.org/farmers-market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "email": "farmersmarket@mainstreetwoodbury.org",
+            "phone": "(856) 271-6399",
+            "website": "https://mainstreetwoodbury.org/farmers-market/"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 0.2986030578613281,
+      "error": null
+    },
+    {
+      "market_name": "maplewoodnj.gov",
+      "market_url": "https://maplewoodnj.gov/government/public-works/farmers-market",
+      "vendor_pages_found": [],
+      "vendors": [],
+      "processing_time": 0,
+      "error": "Failed to fetch main page"
+    },
+    {
+      "market_name": "marlboro-nj.gov",
+      "market_url": "https://marlboro-nj.gov/department/farmersmarket/",
+      "vendor_pages_found": [],
+      "vendors": [],
+      "processing_time": 0.348085880279541,
+      "error": null
+    },
+    {
+      "market_name": "metuchenfarmersmarket.org",
+      "market_url": "https://metuchenfarmersmarket.org/",
+      "vendor_pages_found": [
+        {
+          "text": "vendors",
+          "url": "https://www.metuchenfarmersmarket.org/vendors",
+          "indicator": "vendors",
+          "priority": 2
+        }
+      ],
+      "vendors": [
+        {
+          "name": "Metuchen Farm",
+          "page_url": "https://metuchenfarmersmarket.org/",
+          "location": null,
+          "products": [
+            "corn"
+          ],
+          "contact_info": {
+            "website": "https://www.metuchenfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Creek Farm",
+          "page_url": "https://www.metuchenfarmersmarket.org/vendors",
+          "location": "Pennington, NJ",
+          "products": [
+            "organic",
+            "fresh",
+            "seasonal",
+            "vegetables",
+            "herbs"
+          ],
+          "contact_info": {
+            "website": "https://www.metuchenfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Countrystand Farm",
+          "page_url": "https://www.metuchenfarmersmarket.org/vendors",
+          "location": "Pennington, NJ",
+          "products": [
+            "fresh",
+            "seasonal",
+            "produce",
+            "apples",
+            "corn"
+          ],
+          "contact_info": {
+            "website": "https://www.metuchenfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Zarov Kitchen",
+          "page_url": "https://www.metuchenfarmersmarket.org/vendors",
+          "location": null,
+          "products": [
+            "flowers",
+            "corn"
+          ],
+          "contact_info": {
+            "website": "https://www.metuchenfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Recklesstown Farm",
+          "page_url": "https://www.metuchenfarmersmarket.org/vendors",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "website": "https://www.metuchenfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Chickadee Creek Farm",
+          "page_url": "https://www.metuchenfarmersmarket.org/vendors",
+          "location": "Pennington, NJ",
+          "products": [
+            "organic",
+            "fresh",
+            "seasonal",
+            "vegetables",
+            "herbs"
+          ],
+          "contact_info": {
+            "website": "https://www.metuchenfarmersmarket.org"
+          },
+          "description": null
+        },
+        {
+          "name": "Hoboken Farm",
+          "page_url": "https://www.metuchenfarmersmarket.org/vendors",
+          "location": null,
+          "products": [
+            "fresh",
+            "vegetables",
+            "bread",
+            "meat"
+          ],
+          "contact_info": {
+            "website": "https://www.metuchenfarmersmarket.org"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 2.420443058013916,
+      "error": null
+    },
+    {
+      "market_name": "monroetwplibrary.org",
+      "market_url": "https://monroetwplibrary.org/market",
+      "vendor_pages_found": [
+        {
+          "text": "farmers market",
+          "url": "https://www.monroetwplibrary.org/news/farmers-market/",
+          "indicator": "farmers",
+          "priority": 2
+        }
+      ],
+      "vendors": [
+        {
+          "name": "Application\n\n\n \n\n\n\n\nFarm",
+          "page_url": "https://monroetwplibrary.org/market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "phone": "732.521.5000",
+            "website": "https://www.monroetwplibrary.org/news/farmers-market/"
+          },
+          "description": null
+        },
+        {
+          "name": "Led Program Application\n\n\n \n\n\n\n\nFarm",
+          "page_url": "https://monroetwplibrary.org/market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "phone": "732.521.5000",
+            "website": "https://www.monroetwplibrary.org/news/farmers-market/"
+          },
+          "description": null
+        },
+        {
+          "name": "Calendar\nFarm",
+          "page_url": "https://monroetwplibrary.org/market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "phone": "732.521.5000",
+            "website": "https://www.monroetwplibrary.org/news/farmers-market/"
+          },
+          "description": null
+        },
+        {
+          "name": "Event Calendar\nFarm",
+          "page_url": "https://monroetwplibrary.org/market",
+          "location": null,
+          "products": [],
+          "contact_info": {
+            "phone": "732.521.5000",
+            "website": "https://www.monroetwplibrary.org/news/farmers-market/"
+          },
+          "description": null
+        }
+      ],
+      "processing_time": 5.5639870166778564,
+      "error": null
+    }
+  ]
+}

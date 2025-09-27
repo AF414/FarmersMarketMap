@@ -1,0 +1,82 @@
+[
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/stoneharborfarmersmarket",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/scrfarmersmarket",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/scfdfarmersmarket",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/salemcitymarket",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/phillipsburgfarmersmarket",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/merchantvillemarketoff",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/longbranchfarmersmarket",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/laceyfarmersmarket",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/lacasanwk",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/KinnelonFarmersMarket",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/hphapaulushook",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/hawthornefm",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/eofarmersmarket",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/elizabethavenue.themarket",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/bayonnefarmersmarket",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "facebook.com",
+    "market_url": "https://facebook.com/apsunsetmarket",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0,
+    "error": "Failed to fetch main page"
+  },
+  {
+    "market_name": "fvvp.org",
+    "market_url": "https://fvvp.org/",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 0.7789120674133301,
+    "error": null
+  },
+  {
+    "market_name": "gogreengalloway.org",
+    "market_url": "https://gogreengalloway.org/",
+    "vendor_pages_found": [],
+    "vendors": [],
+    "processing_time": 1.2331030368804932,
+    "error": null
+  },
+  {
+    "market_name": "goodfolkproject.org",
+    "market_url": "https://goodfolkproject.org/",
+    "vendor_pages_found": [],
+    "vendors": [
+      {
+        "name": "Peace Garden",
+        "page_url": "https://goodfolkproject.org/",
+        "location": null,
+        "products": [
+          "produce"
+        ],
+        "contact_info": {
+          "email": "Projectgoodfolkproject@gmail.comCopyright"
+        },
+        "description": null
+      },
+      {
+        "name": "Pebble Hill Church Garden",
+        "page_url": "https://goodfolkproject.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "Projectgoodfolkproject@gmail.comCopyright"
+        },
+        "description": null
+      },
+      {
+        "name": "Pebble Hill Interfaith Church Garden",
+        "page_url": "https://goodfolkproject.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "Projectgoodfolkproject@gmail.comCopyright"
+        },
+        "description": null
+      },
+      {
+        "name": "The Tileworks Garden",
+        "page_url": "https://goodfolkproject.org/",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "Projectgoodfolkproject@gmail.comCopyright"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 1.2059829235076904,
+    "error": null
+  },
+  {
+    "market_name": "growitgreenmorristown.org",
+    "market_url": "https://growitgreenmorristown.org/wintermarket",
+    "vendor_pages_found": [],
+    "vendors": [
+      {
+        "name": "Chickadee Creek Farm",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "organic",
+          "fresh",
+          "vegetables",
+          "herbs",
+          "bread"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Full Time\nApple Ridge Farm",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "organic",
+          "vegetables",
+          "bread"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Fresh Locally Grown Produce",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "fresh",
+          "local",
+          "seasonal",
+          "honey",
+          "bread"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Creek Farm",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "organic",
+          "fresh",
+          "vegetables",
+          "herbs",
+          "bread"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "River Lea House Farm",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "fresh",
+          "local",
+          "meat"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Woods Edge Farm",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "fresh",
+          "local",
+          "honey"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Early St Community Garden",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Ridge Farm",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "organic",
+          "vegetables",
+          "bread"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Edge Farm",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "fresh",
+          "local",
+          "honey"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Pennings Farm",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "peppers",
+          "apples"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Fresh Produce",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "fresh",
+          "local",
+          "produce"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Sugar Maple",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "fresh",
+          "local",
+          "meat"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Urban Farm",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "local"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Barking Good Bakery",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "organic",
+          "vegetables",
+          "herbs"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Sprout Farm",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "organic",
+          "vegetables",
+          "herbs",
+          "bread"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "House Farm",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "fresh",
+          "local",
+          "meat"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Haring Family Farm",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "organic",
+          "vegetables",
+          "eggs",
+          "beef"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      },
+      {
+        "name": "Glenmalure Farm",
+        "page_url": "https://growitgreenmorristown.org/wintermarket",
+        "location": null,
+        "products": [
+          "organic",
+          "vegetables",
+          "eggs",
+          "meat",
+          "beef"
+        ],
+        "contact_info": {
+          "email": "wintermarket@growitgreenmorristown.orgSponsor",
+          "phone": "973.206.4177",
+          "website": "https://www.growitgreenmorristown.org/farm-to-pantry"
+        },
+        "description": null
+      }
+    ],
+    "processing_time": 0.496502161026001,
+    "error": null
+  }
+]
