@@ -1,0 +1,481 @@
+[
+  {
+    "market_name": "Atlantic County",
+    "page_url": "https://cropsnj.org/access-food",
+    "vendors": [],
+    "extraction_success": false,
+    "error_message": "No JSON array found in response",
+    "processing_time": 1.3723509311676025
+  },
+  {
+    "market_name": "GALLOWAY – Go Green",
+    "page_url": "https://gogreengalloway.org",
+    "vendors": [],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 1.3199238777160645
+  },
+  {
+    "market_name": "VENTNOR CITY",
+    "page_url": "https://vcfm.org",
+    "vendors": [
+      {
+        "name": "Ventnor City Farmers' Market",
+        "business_type": null,
+        "products": "fresh, seasonal produce, delicious artisan foods, baked goods, beverages, handmade wares",
+        "description": "Entering its 9th season, the Ventnor City Farmers' Market is a most delightful place to shop every Friday throughout the summer. You're greeted by friendly volunteers who happily answer questions & offer up some pretty awesome market swag. The parking lot at St. James Church brims with 70+ farmers, food vendors, and crafters who offer a variety of products.",
+        "contact_info": null,
+        "location": "6421 Atlantic Ave, Ventnor, NJ 08406",
+        "confidence": 0.9
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 2.4803671836853027
+  },
+  {
+    "market_name": "VENTNOR CITY",
+    "page_url": "https://vcfm.org/vendors",
+    "vendors": [
+      {
+        "name": "Brookeberry Farms",
+        "business_type": "farm",
+        "products": "raspberries, blackberries",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Davidson Exotic Mushrooms",
+        "business_type": "farm",
+        "products": "many varieties of mushrooms",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Far & Away Flowers",
+        "business_type": "farm",
+        "products": "bouquets, fresh cut flowers",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Mento Farms",
+        "business_type": "farm",
+        "products": "blueberries",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Monteleone Family Farm",
+        "business_type": "farm",
+        "products": "farm-fresh produce",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Peplowski Fruit Farm",
+        "business_type": "farm",
+        "products": "farm-fresh produce",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Potato Homestead",
+        "business_type": "farm",
+        "products": "no-spray produce, fruits, herbs",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Spinella Farm",
+        "business_type": "farm",
+        "products": "pesticide-free, organic produce",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Clam Daddy's",
+        "business_type": "seafood",
+        "products": "fresh Jersey clams",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Giordano's Family Farm",
+        "business_type": "farm",
+        "products": "grass-fed/free-range beef & pork products",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Misty Meadow",
+        "business_type": "dairy",
+        "products": "sheep dairy products",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Peplowski Farm",
+        "business_type": "farm",
+        "products": null,
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.7
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 6.576467037200928
+  },
+  {
+    "market_name": "RAMSEY",
+    "page_url": "https://ramseyfarmersmarket.org",
+    "vendors": [
+      {
+        "name": "Ramsey Farmers Market",
+        "business_type": null,
+        "products": null,
+        "description": "Farmers market open Sundays year-round, May through November from 9am-2pm, and December through April from 10am-1pm. Located at the Main Street Train Station in Ramsey, NJ.",
+        "contact_info": null,
+        "location": "Ramsey, NJ",
+        "confidence": 0.9
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 2.010784149169922
+  },
+  {
+    "market_name": "RAMSEY",
+    "page_url": "https://ramseyfarmersmarket.org/vendors",
+    "vendors": [
+      {
+        "name": "Anita's Guacamole",
+        "business_type": "food vendor",
+        "products": "mango salsa, guacamole",
+        "description": "made at the market",
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "Aronia Berry Farm",
+        "business_type": "farm",
+        "products": "berry syrups, aronia cold pressed juice",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "Aunt Lullies LLC",
+        "business_type": "bakery",
+        "products": "artisan filled cookies and brownies",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "Aunt Vicky's Bickys",
+        "business_type": "pet food",
+        "products": "all natural homemade dog treats, biscuits and bones",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "Baldwin Family Farm",
+        "business_type": "farm",
+        "products": "pasture raised meats, Nicola's Pasta, Valley Shepherd Creamery",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "Bebe's All Natural",
+        "business_type": "food vendor",
+        "products": "masala sauces",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "BeanLuv Coffee",
+        "business_type": "coffee",
+        "products": "single source fair trade, organic coffee",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "Cactus Pete's Beef Jerky",
+        "business_type": "food vendor",
+        "products": "award-winning beef jerky",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "Chaseholm Farm",
+        "business_type": "farm",
+        "products": "farmstead cheeses from grass-fed cows",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "Coyote Kitchen",
+        "business_type": "food vendor",
+        "products": "innovative jams, jellies and mustards",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "Dacha Fermented Veggies",
+        "business_type": "food vendor",
+        "products": "fermented veggies",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "Doc Pickle",
+        "business_type": "food vendor",
+        "products": "a wide variety of fresh pickles and olives",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "Earth's Garden Vegan",
+        "business_type": "food vendor",
+        "products": "vegan cheese and more",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "Eden's Sweets",
+        "business_type": "food vendor",
+        "products": "date based wellness bars and halva",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "Edgwick Farm",
+        "business_type": "farm",
+        "products": "goat milk, goat cheese and goat-gurt",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "Far and Away Flower Farm",
+        "business_type": "farm",
+        "products": null,
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 8.160932064056396
+  },
+  {
+    "market_name": "RIVER EDGE",
+    "page_url": "https://riveredgenj.org/RiverEdgeFarmersMarket",
+    "vendors": [
+      {
+        "name": "Springhouse Farms",
+        "business_type": "farm",
+        "products": "farm fresh fruits and vegetables",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "The Ice Cream Lady of New Jersey",
+        "business_type": "food vendor",
+        "products": "over 55 varieties of ice cream, including kosher, dairy-free, nut-free, and gluten-free options",
+        "description": "Serves Northern Bergen County year-round",
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.9
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 2.2718870639801025
+  },
+  {
+    "market_name": "RUTHERFORD",
+    "page_url": "https://rutherfordboronj.com/farmers-market",
+    "vendors": [],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 1.0392670631408691
+  },
+  {
+    "market_name": "RUTHERFORD",
+    "page_url": "https://rutherfordboronj.com/resident/farmers-market",
+    "vendors": [],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 0.9421329498291016
+  },
+  {
+    "market_name": "BURLINGTON COUNTY",
+    "page_url": "https://cityofbordentown.com/page/farmers-market",
+    "vendors": [
+      {
+        "name": "Bordentown City Farmers Market",
+        "business_type": null,
+        "products": "farm-fresh fruits and vegetables, homemade baked goods, handcrafted items",
+        "description": "Join us every Sunday from June through October for a lively, community-driven market featuring the best local produce, handmade goods, and artisanal treats! Whether your shopping for fresh ingredients, supporting local vendors, or just enjoying a morning out, our farmer's market offers something for everyone!",
+        "contact_info": {
+          "phone": null,
+          "email": "btownfarmersmarket@gmail.com",
+          "website": null
+        },
+        "location": "207 Crosswicks Street Bordentown, NJ 08505",
+        "confidence": 1.0
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 2.2687530517578125
+  },
+  {
+    "market_name": "COLUMBUS",
+    "page_url": "https://columbusfarmersmarket.com",
+    "vendors": [
+      {
+        "name": "Amish Market",
+        "business_type": "farm",
+        "products": "fresh produce, baked goods",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "American Sheds",
+        "business_type": "retail",
+        "products": "sheds, outdoor structures",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.7
+      },
+      {
+        "name": "Central Jersey Equipment",
+        "business_type": "retail",
+        "products": "farm equipment, machinery",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.7
+      },
+      {
+        "name": "Columbus Self-Storage",
+        "business_type": "storage",
+        "products": null,
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.7
+      },
+      {
+        "name": "Greentop Garden",
+        "business_type": "farm",
+        "products": "fresh produce",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Produce Row",
+        "business_type": "farm",
+        "products": "fresh produce",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Tommy's Pallets",
+        "business_type": "retail",
+        "products": "pallets, crates",
+        "description": null,
+        "contact_info": null,
+        "location": null,
+        "confidence": 0.7
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 4.093327045440674
+  },
+  {
+    "market_name": "MOUNT LAUREL – Rancocas Woods",
+    "page_url": "https://rancocaswoodseventsnshops.com/farmers-market",
+    "vendors": [
+      {
+        "name": "Rancocas Woods Farmers Market",
+        "business_type": null,
+        "products": null,
+        "description": "Farmers market held every Sunday from June 1 to October 26, 2025 from 10am to 2pm, rain or shine. Some extended hours may be available.",
+        "contact_info": {
+          "email": "rancocaswoodsfm@gmail.com"
+        },
+        "location": "Rancocas Woods",
+        "confidence": 0.9
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 1.8972530364990234
+  }
+]

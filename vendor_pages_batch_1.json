@@ -1,0 +1,2366 @@
+[
+  {
+    "market_name": "Atlantic County",
+    "page_url": "https://cropsnj.org/access-food",
+    "page_title": "Ensuring Access to Nutritious Food — C.R.O.P.S.",
+    "vendors": [
+      {
+        "name": "Access to Nutritious Food Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://cropsnj.org/access-food"
+      },
+      {
+        "name": "Park Community Garden Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://cropsnj.org/access-food"
+      },
+      {
+        "name": "No Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://cropsnj.org/access-food"
+      },
+      {
+        "name": "Farmers Markets or into Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://cropsnj.org/access-food"
+      },
+      {
+        "name": "Pacific Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://cropsnj.org/access-food"
+      },
+      {
+        "name": "Time",
+        "type": "unknown",
+        "description": "4-6pmPayment types: cash, credit, debit, SNAP/EBT, Good Food Bucks, WIC, SFMNP, Venmo, PRxLocation:",
+        "source": "list_match",
+        "url": "https://cropsnj.org/access-food"
+      },
+      {
+        "name": "PHONE",
+        "type": "unknown",
+        "description": "(609) 412-5046 FOOD HUB ADDRESS:167 S",
+        "source": "list_match",
+        "url": "https://cropsnj.org/access-food"
+      }
+    ],
+    "content_snippet": "Ensuring Access to Nutritious Food — C.R.O.P.S. 0 Skip to Content About Programs Cultivating Fresh Produce Ensuring Access to Nutritious Food Farm Share Program Educational Programming Advocacy Press Events Contact Shop DONATE Open Menu Close Menu About Programs Cultivating Fresh Produce Ensuring Access to Nutritious Food Farm Share Program Educational Programming Advocacy Press Events Contact Shop DONATE Open Menu Close Menu About Folder: Programs Back Cultivating Fresh Produce Ensuring Access ",
+    "confidence_score": 1.0
+  },
+  {
+    "market_name": "VENTNOR CITY",
+    "page_url": "https://vcfm.org",
+    "page_title": "Ventnor City Farmers' Market",
+    "vendors": [
+      {
+        "name": "Ventnor City Farmers' Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://vcfm.org"
+      },
+      {
+        "name": "Site design by The Ventnor Vibe Co",
+        "type": "co",
+        "source": "pattern_match",
+        "url": "https://vcfm.org"
+      },
+      {
+        "name": "THICGet one of our limited",
+        "type": "unknown",
+        "description": "edition, organic cotton tote bags while they last",
+        "source": "list_match",
+        "url": "https://vcfm.org"
+      }
+    ],
+    "content_snippet": "Ventnor City Farmers' Market 0 Skip to Content HOME SPONSORS VENDORS Open Menu Close Menu Open Menu Close Menu HOME SPONSORS VENDORS HOME SPONSORS VENDORS Farmers’ Market Season May 23rd - August 29, 2025 MARKET VENDOR MAP Entering its 9th season, the Ventnor City Farmers’ Market is a most delightful place to shop every Friday throughout the summer. You’re greeted by friendly volunteers who happily answer questions & offer up some pretty awesome market swag. The parking lot at St. James Church b",
+    "confidence_score": 0.42000000000000004
+  },
+  {
+    "market_name": "VENTNOR CITY",
+    "page_url": "https://vcfm.org/vendors",
+    "page_title": "Ventnor City Farmers' Market Vendors — Ventnor City Farmers' Market",
+    "vendors": [
+      {
+        "name": "Ventnor City Farmers' Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "The Ventnor City Farmers' Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "BlueberriesMonteleone Family Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "ProducePeplowski Fruit Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "HerbsSpinella Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "Jersey ClamsGiordano's Family Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "Sheep Dairy ProductsPeplowski Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "Vegan Kitchen",
+        "type": "kitchen",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "Polish Kitchen",
+        "type": "kitchen",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "Pet ItemsGrassia Italian Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "Oil Baked Goods & SweetsAversa Bakery",
+        "type": "bakery",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "Number KitsKitschy Kitchen",
+        "type": "kitchen",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "Italian Market Spice Co",
+        "type": "co",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "Nut ButtersOriginal Banana Co",
+        "type": "co",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "Lost Bread Co",
+        "type": "co",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "Site design by The Ventnor Vibe Co",
+        "type": "co",
+        "source": "pattern_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "FlowersBrookeberry Farms",
+        "type": "unknown",
+        "description": "Raspberries & BlackberriesDavidson Exotic Mushrooms - Many VarietiesFar & Away Flowers - Bouquets/Fr",
+        "source": "list_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "Cut FlowersMento Farms",
+        "type": "farm",
+        "description": "BlueberriesMonteleone Family Farm - Farm-fresh ProducePeplowski Fruit Farm - Farm-fresh ProducePotat",
+        "source": "list_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "Homestead",
+        "type": "farm",
+        "description": "No-spray Produce, Fruits, HerbsSpinella Farm - Pesticide-free, Organic Produce Meats, Fish, Dairy, E",
+        "source": "list_match",
+        "url": "https://vcfm.org/vendors"
+      },
+      {
+        "name": "Giordano's Family Farm",
+        "type": "farm",
+        "description": "Grass-fed/Free-range Beef & Pork ProductsMisty Meadow - Sheep Dairy ProductsPeplowski Farm – Fresh &",
+        "source": "list_match",
+        "url": "https://vcfm.org/vendors"
+      }
+    ],
+    "content_snippet": "Ventnor City Farmers' Market Vendors — Ventnor City Farmers' Market 0 Skip to Content HOME SPONSORS VENDORS Open Menu Close Menu Open Menu Close Menu HOME SPONSORS VENDORS HOME SPONSORS VENDORS OUR VENDORS The Ventnor City Farmers' Market offers a diverse and delicious gathering of farmers, chefs, artisans, makers, brewers, chewers, and everything else under the warm summer sun. Please visit us to experience it for yourself!Here’s this season’s lineup:: Veggies, Fruits, & FlowersBrookeberry Farm",
+    "confidence_score": 1.0
+  },
+  {
+    "market_name": "RAMSEY",
+    "page_url": "https://ramseyfarmersmarket.org",
+    "page_title": "Ramsey Farmers Market",
+    "vendors": [
+      {
+        "name": "Ramsey Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Baldwin Family Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Bien Cuit Bakery",
+        "type": "bakery",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Chaseholm Farm Creamery",
+        "type": "creamery",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Edgwick Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Far and Away Flower Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Hudson Bakery",
+        "type": "bakery",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Madura Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Norwich Meadow Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Valley Shepherd Creamery",
+        "type": "creamery",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Chamber of Commerce Home and Garden",
+        "type": "garden",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Aronia Berry Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Family Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Away Flower Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Fresh Roots Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Pies Bakery",
+        "type": "bakery",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Meadows Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Natural Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Shepherd Creamery",
+        "type": "creamery",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      },
+      {
+        "name": "Sweep Herb Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org"
+      }
+    ],
+    "content_snippet": "Ramsey Farmers Market Home Calendar Vendors Contact About Sponsors Community HomeCalendarVendorsContactAboutSponsorsCommunity Scroll Open Sundays Year Round!!MAY through November, 9 AM-2 PM(DECEMBER-APRIL, 10 am - 1 pm)at Main StREET Train Station, RamseyWe are open rain, snow or shine, except when SEVERE weather is expected.For last-minute changes and updates, please check our Facebook or Instagram pages.We post the NEWSLETTER every Thursday night on Facebook to give you weekly special vendor l",
+    "confidence_score": 1.0
+  },
+  {
+    "market_name": "RAMSEY",
+    "page_url": "https://ramseyfarmersmarket.org/vendors",
+    "page_title": "Our Vendors — Ramsey Farmers Market",
+    "vendors": [
+      {
+        "name": "Ramsey Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Aronia Berry Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Family Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Away Flower Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Fresh Roots Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Pies Bakery",
+        "type": "bakery",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Meadows Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Natural Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Shepherd Creamery",
+        "type": "creamery",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Sweep Herb Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Edge Wool Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Lullies LLC",
+        "type": "llc",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Shop LLC",
+        "type": "llc",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Meadows Farm LLC",
+        "type": "llc",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Planet B Inc",
+        "type": "inc",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Source Compost LLC",
+        "type": "llc",
+        "source": "pattern_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Our Vendors",
+        "type": "farm",
+        "description": "Ramsey Farmers Market Home Calendar Vendors Contact About Sponsors Community HomeCalendarVendorsCont",
+        "source": "list_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "VENDORSAnita's Guacamole",
+        "type": "farm",
+        "description": "mango salsa, made at the market -guacamole!Aronia Berry Farm - berry syrups and aronia cold pressed",
+        "source": "list_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      },
+      {
+        "name": "Aunt Lullies LLC",
+        "type": "artisan",
+        "description": "Artisan filled cookies and browniesAunt Vicky's Bickys- all natural homemade dog treats, biscuits an",
+        "source": "list_match",
+        "url": "https://ramseyfarmersmarket.org/vendors"
+      }
+    ],
+    "content_snippet": "Our Vendors — Ramsey Farmers Market Home Calendar Vendors Contact About Sponsors Community HomeCalendarVendorsContactAboutSponsorsCommunity Our VENDORSAnita's Guacamole- mango salsa, made at the market -guacamole!Aronia Berry Farm - berry syrups and aronia cold pressed juiceAunt Lullies LLC - Artisan filled cookies and browniesAunt Vicky's Bickys- all natural homemade dog treats, biscuits and bonesBaldwin Family Farm   pasture raised meats/Nicola's Pasta/Valley Shepherd CreameryBebe’s All Natura",
+    "confidence_score": 1.0
+  },
+  {
+    "market_name": "RIVER EDGE",
+    "page_url": "https://riveredgenj.org/RiverEdgeFarmersMarket",
+    "page_title": "Borough of River Edge New Jersey Bergen County - River Edge Farmers Market",
+    "vendors": [
+      {
+        "name": "River Edge Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://riveredgenj.org/RiverEdgeFarmersMarket"
+      },
+      {
+        "name": "The River Edge Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://riveredgenj.org/RiverEdgeFarmersMarket"
+      },
+      {
+        "name": "The mission of our Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://riveredgenj.org/RiverEdgeFarmersMarket"
+      },
+      {
+        "name": "Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://riveredgenj.org/RiverEdgeFarmersMarket"
+      },
+      {
+        "name": "Schedule to come.Saya Bakery",
+        "type": "bakery",
+        "source": "pattern_match",
+        "url": "https://riveredgenj.org/RiverEdgeFarmersMarket"
+      },
+      {
+        "name": "New Jersey Bergen County",
+        "type": "farm",
+        "description": "River Edge Farmers Market Navigation The Borough of River Edge New Jersey GOVERNMENT DIRECTORY COMMU",
+        "source": "list_match",
+        "url": "https://riveredgenj.org/RiverEdgeFarmersMarket"
+      },
+      {
+        "name": "Dairy",
+        "type": "unknown",
+        "description": "Free, Nut-Free, Gluten-Free options available",
+        "source": "list_match",
+        "url": "https://riveredgenj.org/RiverEdgeFarmersMarket"
+      },
+      {
+        "name": "Kettle Corn is a family",
+        "type": "unknown",
+        "description": "owned company based in Hillsdale, New Jersey that offers high quality gourmet kettle corn in all the",
+        "source": "list_match",
+        "url": "https://riveredgenj.org/RiverEdgeFarmersMarket"
+      },
+      {
+        "name": "Sicilian Arancini",
+        "type": "unknown",
+        "description": "authentic rice balls",
+        "source": "list_match",
+        "url": "https://riveredgenj.org/RiverEdgeFarmersMarket"
+      },
+      {
+        "name": "Phone",
+        "type": "unknown",
+        "description": "(201) 599-6300Contact Us Site Links Site By EvoGov",
+        "source": "list_match",
+        "url": "https://riveredgenj.org/RiverEdgeFarmersMarket"
+      }
+    ],
+    "content_snippet": "Borough of River Edge New Jersey Bergen County - River Edge Farmers Market Navigation The Borough of River Edge New Jersey GOVERNMENT DIRECTORY COMMUNITY EAT LOCAL! HOW DO I? COMMUNITY / River Edge Farmers Market River Edge Farmers Market The River Edge Farmers Market brings the best of New Jersey Farms to you!The mission of our Farmers Market is to:Provide healthy fresh produceProvide a sense of communityImprove local food securitySupport the entrepreneurial efforts of local businessesSupport l",
+    "confidence_score": 0.98
+  },
+  {
+    "market_name": "RIVER VALE",
+    "page_url": "https://rivervalenj.org/page/farmers-market",
+    "page_title": "Farmers Market | Township of River Vale",
+    "vendors": [
+      {
+        "name": "Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://rivervalenj.org/page/farmers-market"
+      },
+      {
+        "name": "Summer CampsNo",
+        "type": "unknown",
+        "description": "Knock List RegistrationSubmit Show submenu for SubmitNo-Knock Registration Online FormFormsPublic Wo",
+        "source": "list_match",
+        "url": "https://rivervalenj.org/page/farmers-market"
+      },
+      {
+        "name": "Phone",
+        "type": "unknown",
+        "description": "201-664-2346Fax: 201-594-1590Town Hall Regular Hours: Mon",
+        "source": "list_match",
+        "url": "https://rivervalenj.org/page/farmers-market"
+      }
+    ],
+    "content_snippet": "Farmers Market | Township of River Vale Skip to contentReport a ConcernSearch SiteTownship of River ValeReport a ConcernSearch SiteExploreExploreDepartmentsTranslateExploreDepartmentsTranslateGovernment Show submenu for GovernmentGovernmentAbout River Vale Show submenu for About River ValeHistory of River ValeAgendas & MinutesBoards & Committees Show submenu for Boards & CommitteesJoint Planning BoardTown CouncilDepartments Show submenu for DepartmentsMayor & CouncilRecreation DepartmentBuilding",
+    "confidence_score": 0.36000000000000004
+  },
+  {
+    "market_name": "RIVER VALE",
+    "page_url": "https://rivervalenj.org/o/trv/page/farmers-market",
+    "page_title": "Farmers Market | Township of River Vale",
+    "vendors": [
+      {
+        "name": "Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://rivervalenj.org/o/trv/page/farmers-market"
+      },
+      {
+        "name": "Summer CampsNo",
+        "type": "unknown",
+        "description": "Knock List RegistrationSubmit Show submenu for SubmitNo-Knock Registration Online FormFormsPublic Wo",
+        "source": "list_match",
+        "url": "https://rivervalenj.org/o/trv/page/farmers-market"
+      },
+      {
+        "name": "Phone",
+        "type": "unknown",
+        "description": "201-664-2346Fax: 201-594-1590Town Hall Regular Hours: Mon",
+        "source": "list_match",
+        "url": "https://rivervalenj.org/o/trv/page/farmers-market"
+      }
+    ],
+    "content_snippet": "Farmers Market | Township of River Vale Skip to contentReport a ConcernSearch SiteTownship of River ValeReport a ConcernSearch SiteExploreExploreDepartmentsTranslateExploreDepartmentsTranslateGovernment Show submenu for GovernmentGovernmentAbout River Vale Show submenu for About River ValeHistory of River ValeAgendas & MinutesBoards & Committees Show submenu for Boards & CommitteesJoint Planning BoardTown CouncilDepartments Show submenu for DepartmentsMayor & CouncilRecreation DepartmentBuilding",
+    "confidence_score": 0.36000000000000004
+  },
+  {
+    "market_name": "RUTHERFORD",
+    "page_url": "https://rutherfordboronj.com/farmers-market",
+    "page_title": "Rutherford Boro, NJ - Farmers' Market",
+    "vendors": [
+      {
+        "name": "Farmers' Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://rutherfordboronj.com/farmers-market"
+      },
+      {
+        "name": "Living Bread Bakery",
+        "type": "bakery",
+        "source": "pattern_match",
+        "url": "https://rutherfordboronj.com/farmers-market"
+      },
+      {
+        "name": "Note",
+        "type": "unknown",
+        "description": "Vendors must be prequalified before registering",
+        "source": "list_match",
+        "url": "https://rutherfordboronj.com/farmers-market"
+      }
+    ],
+    "content_snippet": "Rutherford Boro, NJ - Farmers' Market Monday - Friday8:30am – 4:30pm176 Park AveRutherford, NJ 07070201-460-3000fab fa-mastodonfab fa-facebook-ffab fa-x-twitter Hours, Location, & Contact Monday - Friday8:30am – 4:30pm176 Park AveRutherford, NJ 07070201-460-3000fab fa-mastodonfab fa-facebook-ffab fa-x-twitter HomeGovernmentBid DocumentsCodes and OrdinancesElected OfficialsElection & Voter InformationEmploymentFinancial DocumentsForms & PermitsMayor & Council Meeting RecordingsMinutes & AgendasDe",
+    "confidence_score": 0.6000000000000001
+  },
+  {
+    "market_name": "RUTHERFORD",
+    "page_url": "https://rutherfordboronj.com/resident/farmers-market",
+    "page_title": "Rutherford Boro, NJ - Farmers' Market",
+    "vendors": [
+      {
+        "name": "Farmers' Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://rutherfordboronj.com/resident/farmers-market"
+      },
+      {
+        "name": "Living Bread Bakery",
+        "type": "bakery",
+        "source": "pattern_match",
+        "url": "https://rutherfordboronj.com/resident/farmers-market"
+      },
+      {
+        "name": "Note",
+        "type": "unknown",
+        "description": "Vendors must be prequalified before registering",
+        "source": "list_match",
+        "url": "https://rutherfordboronj.com/resident/farmers-market"
+      }
+    ],
+    "content_snippet": "Rutherford Boro, NJ - Farmers' Market Monday - Friday8:30am – 4:30pm176 Park AveRutherford, NJ 07070201-460-3000fab fa-mastodonfab fa-facebook-ffab fa-x-twitter Hours, Location, & Contact Monday - Friday8:30am – 4:30pm176 Park AveRutherford, NJ 07070201-460-3000fab fa-mastodonfab fa-facebook-ffab fa-x-twitter HomeGovernmentBid DocumentsCodes and OrdinancesElected OfficialsElection & Voter InformationEmploymentFinancial DocumentsForms & PermitsMayor & Council Meeting RecordingsMinutes & AgendasDe",
+    "confidence_score": 0.6000000000000001
+  },
+  {
+    "market_name": "RUTHERFORD",
+    "page_url": "https://rutherfordboronj.com/health-department/317-retail-food-other-licenses",
+    "page_title": "Rutherford Boro, NJ - Retail, Food & Other Licenses",
+    "vendors": [
+      {
+        "name": "Other Licenses Monday",
+        "type": "unknown",
+        "description": "Friday8:30am – 4:30pm176 Park AveRutherford, NJ 07070201-460-3000fab fa-mastodonfab fa-facebook-ffab",
+        "source": "list_match",
+        "url": "https://rutherfordboronj.com/health-department/317-retail-food-other-licenses"
+      },
+      {
+        "name": "Smoke",
+        "type": "unknown",
+        "description": "Free Air Act violations, and animal bite reports",
+        "source": "list_match",
+        "url": "https://rutherfordboronj.com/health-department/317-retail-food-other-licenses"
+      },
+      {
+        "name": "REHS include",
+        "type": "unknown",
+        "description": "Retail Food Inspections & Complaints Plan Reviews Public Recreational Bathing Inspections Childcare",
+        "source": "list_match",
+        "url": "https://rutherfordboronj.com/health-department/317-retail-food-other-licenses"
+      }
+    ],
+    "content_snippet": "Rutherford Boro, NJ - Retail, Food & Other Licenses Monday - Friday8:30am – 4:30pm176 Park AveRutherford, NJ 07070201-460-3000fab fa-mastodonfab fa-facebook-ffab fa-x-twitter Hours, Location, & Contact Monday - Friday8:30am – 4:30pm176 Park AveRutherford, NJ 07070201-460-3000fab fa-mastodonfab fa-facebook-ffab fa-x-twitter HomeGovernmentBid DocumentsCodes and OrdinancesElected OfficialsElection & Voter InformationEmploymentFinancial DocumentsForms & PermitsMayor & Council Meeting RecordingsMinut",
+    "confidence_score": 0.4
+  },
+  {
+    "market_name": "BURLINGTON COUNTY",
+    "page_url": "https://cityofbordentown.com/page/farmers-market",
+    "page_title": "Farmer's Market  | City of Bordentown",
+    "vendors": [
+      {
+        "name": "Farmer's Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://cityofbordentown.com/page/farmers-market"
+      },
+      {
+        "name": "SiteFarmer's Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://cityofbordentown.com/page/farmers-market"
+      },
+      {
+        "name": "Bordentown City Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://cityofbordentown.com/page/farmers-market"
+      },
+      {
+        "name": "Labor Day",
+        "type": "unknown",
+        "description": "Memorial Day: Monday - Friday 9:00 am - 4:00 pmSummer Hours: Monday - Friday 9:00 am - 12:30 pmCopyr",
+        "source": "list_match",
+        "url": "https://cityofbordentown.com/page/farmers-market"
+      },
+      {
+        "name": "Number",
+        "type": "unknown",
+        "description": "609-298-0604    Bordentown City Municipal Complex Office Hours:Labor Day - Memorial Day: Monday - Fr",
+        "source": "list_match",
+        "url": "https://cityofbordentown.com/page/farmers-market"
+      },
+      {
+        "name": "Summer Hours",
+        "type": "unknown",
+        "description": "Monday - Friday 9:00 am - 12:30 pmCopyright © 2025 City of Bordentown",
+        "source": "list_match",
+        "url": "https://cityofbordentown.com/page/farmers-market"
+      }
+    ],
+    "content_snippet": "Farmer's Market | City of Bordentown Skip to contentCity of BordentownMenuTranslateSearch SiteFarmer's Market Join us every Sunday from June through October for a lively, community-driven market featuring the best local produce, handmade goods, and artisanal treats! Whether your shopping for fresh ingredients, supporting local vendors, or just enjoying a morning out, our farmer's market offers something for everyone! Each week, you'll find farm-fresh fruits and vegetables, homemade baked goods, ",
+    "confidence_score": 0.9199999999999999
+  },
+  {
+    "market_name": "COLUMBUS",
+    "page_url": "https://columbusfarmersmarket.com",
+    "page_title": "ABOUT | Columbus Market",
+    "vendors": [
+      {
+        "name": "Columbus Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://columbusfarmersmarket.com"
+      },
+      {
+        "name": "Welcome to the Columbus Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://columbusfarmersmarket.com"
+      },
+      {
+        "name": "The Columbus Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://columbusfarmersmarket.com"
+      },
+      {
+        "name": "Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://columbusfarmersmarket.com"
+      },
+      {
+        "name": "Outdoor Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://columbusfarmersmarket.com"
+      },
+      {
+        "name": "I have been going to the Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://columbusfarmersmarket.com"
+      },
+      {
+        "name": "Columbus Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://columbusfarmersmarket.com"
+      },
+      {
+        "name": "Columbus Farmers Market LLC",
+        "type": "llc",
+        "source": "pattern_match",
+        "url": "https://columbusfarmersmarket.com"
+      },
+      {
+        "name": "MERICAN SHEDSCOLUMBUS SELF",
+        "type": "farm",
+        "description": "STORAGEHOURS & DIRECTIONSMARKET HOURSDIRECTIONS & MAPSFARMERS MARKET COMPLEX MAPPARKING INFORMATION",
+        "source": "list_match",
+        "url": "https://columbusfarmersmarket.com"
+      },
+      {
+        "name": "Store it all at our state",
+        "type": "unknown",
+        "description": "of-the-art Self Storage facility",
+        "source": "list_match",
+        "url": "https://columbusfarmersmarket.com"
+      }
+    ],
+    "content_snippet": "ABOUT | Columbus Market top of page TESTIMONIALSHOMEMARKET & SHOPSFLOOR PLAN INSIDE STORESPHONE LIST OF INDOOR MERCHANTSOUTDOOR FLEA MARKETPRODUCE ROWAMISH MARKETGREENTOP GARDENCENTRAL JERSEY EQUIPMENTTOMMY'S PALLETSAMERICAN SHEDSCOLUMBUS SELF-STORAGEHOURS & DIRECTIONSMARKET HOURSDIRECTIONS & MAPSFARMERS MARKET COMPLEX MAPPARKING INFORMATION & BUSESPROSPECTIVE VENDORSHOW TO BECOME A FLEA MARKET VENDOROUTSIDE FOOD VENDINGLEASE AN INSIDE STOREJOB APPLICATIONSCONTACTCFM Authentic Products PolicingM",
+    "confidence_score": 0.76
+  },
+  {
+    "market_name": "MOUNT LAUREL – Rancocas Woods",
+    "page_url": "https://rancocaswoodseventsnshops.com/farmers-market",
+    "page_title": "Farmers Market",
+    "vendors": [
+      {
+        "name": "Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://rancocaswoodseventsnshops.com/farmers-market"
+      },
+      {
+        "name": "Farmers Market FAQWhen Does the Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://rancocaswoodseventsnshops.com/farmers-market"
+      },
+      {
+        "name": "Where is the Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://rancocaswoodseventsnshops.com/farmers-market"
+      },
+      {
+        "name": "Can I Bring a Pet to the Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://rancocaswoodseventsnshops.com/farmers-market"
+      },
+      {
+        "name": "If your animal is not well",
+        "type": "unknown",
+        "description": "behaved or you fail to clean up after your pet, your pet will be banned from the market",
+        "source": "list_match",
+        "url": "https://rancocaswoodseventsnshops.com/farmers-market"
+      },
+      {
+        "name": "SNAP",
+        "type": "farm",
+        "description": "Doubling nutrition incentive program for fruits and vegetables at farmers markets, grocery stores, a",
+        "source": "list_match",
+        "url": "https://rancocaswoodseventsnshops.com/farmers-market"
+      },
+      {
+        "name": "Woods Events and Shops",
+        "type": "unknown",
+        "description": "All Rights Reserved",
+        "source": "list_match",
+        "url": "https://rancocaswoodseventsnshops.com/farmers-market"
+      },
+      {
+        "name": "InMy AccountSigned in as",
+        "type": "unknown",
+        "description": "filler@godaddy",
+        "source": "list_match",
+        "url": "https://rancocaswoodseventsnshops.com/farmers-market"
+      },
+      {
+        "name": "Events & ShopsSigned in as",
+        "type": "unknown",
+        "description": "filler@godaddy",
+        "source": "list_match",
+        "url": "https://rancocaswoodseventsnshops.com/farmers-market"
+      },
+      {
+        "name": "Volunteer application form",
+        "type": "unknown",
+        "description": "https://forms",
+        "source": "list_match",
+        "url": "https://rancocaswoodseventsnshops.com/farmers-market"
+      }
+    ],
+    "content_snippet": "Farmers Market Rancocas Woods Events & ShopsRancocas Woods Events & ShopsRancocas Woods Events & ShopsRancocas Woods Events & ShopsSign InMy AccountSigned in as:filler@godaddy.comMy AccountSign outHomeEventsShopsFarmers MarketRW Business AssociationPassport to NatureCommunity GardenFAQ // Contact UsMoreHomeEventsShopsFarmers MarketRW Business AssociationPassport to NatureCommunity GardenFAQ // Contact UsRancocas Woods Events & ShopsRancocas Woods Events & ShopsRancocas Woods Events & ShopsRancoc",
+    "confidence_score": 1.0
+  },
+  {
+    "market_name": "CAMDEN COUNTY",
+    "page_url": "https://berlinfarmersmarket.com",
+    "page_title": "Berlin Farmer's Market: Shop Local With New Jersey's Top Flea Market",
+    "vendors": [
+      {
+        "name": "Berlin Farmer's Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "With New Jersey's Top Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Home Indoor Map Outdoor Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Selling Live View Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Benefits of Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Outdoor Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Save Money. Have Fun. Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Learn More Live View Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Experience the Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Live View Our Live Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "What's on at the Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "The Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Daily Rental Live View Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Produce Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Used Merchandise Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Say hello to our Bow",
+        "type": "unknown",
+        "description": "tiful Friend! Friday, Sept 26th | 4:30–6:30 PM | BFM Hallways | FREE photo opportunities — pink, fun",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Stream is your front",
+        "type": "unknown",
+        "description": "row seat to the bustling energy of our market",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Our mission is simple",
+        "type": "farm",
+        "description": "to connect local farmers and artisans with the community, providing access to fresh, high-quality pr",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com"
+      },
+      {
+        "name": "Picture this",
+        "type": "unknown",
+        "description": "real-time market footage, live events, and a shopping experience that transcends the ordinary",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com"
+      }
+    ],
+    "content_snippet": "Berlin Farmer's Market: Shop Local With New Jersey's Top Flea Market Skip to content Online 24/7 Open Thursday Friday Saturday 9 AM to 8 PM Sunday open 9 AM 6 PM Search Home Indoor Map Outdoor Flea Market Map Hours Directions Indoor Space Application Jobs More Events Guidelines for Indoor Selling Live View Outdoor Market Leasing Daily Rentals Home Indoor Map Outdoor Flea Market Map Hours Directions Indoor Space Application Jobs More Events Guidelines for Indoor Selling Live View Outdoor Market L",
+    "confidence_score": 0.8400000000000001
+  },
+  {
+    "market_name": "CAMDEN COUNTY",
+    "page_url": "https://berlinfarmersmarket.com/copy-of-plants-produce",
+    "page_title": "Food Vendors - BerlinFarmersMarket",
+    "vendors": [
+      {
+        "name": "Home Indoor Map Outdoor Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce"
+      },
+      {
+        "name": "Selling Live View Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce"
+      },
+      {
+        "name": "Set Up Shop at Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce"
+      },
+      {
+        "name": "At Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce"
+      },
+      {
+        "name": "Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce"
+      },
+      {
+        "name": "Daily Rental Live View Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce"
+      },
+      {
+        "name": "Outdoor Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce"
+      },
+      {
+        "name": "Produce Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce"
+      },
+      {
+        "name": "Used Merchandise Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce"
+      },
+      {
+        "name": "Food Vendors",
+        "type": "farm",
+        "description": "BerlinFarmersMarket Skip to content Online 24/7 Open Thursday Friday Saturday 9 AM to 8 PM Sunday op",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce"
+      },
+      {
+        "name": "We get it",
+        "type": "unknown",
+        "description": "your time is precious, so we’ve kept it simple",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce"
+      },
+      {
+        "name": "Compliance is non",
+        "type": "unknown",
+        "description": "negotiable – not just for us, but for your hassle-free journey and the safety of our patrons",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce"
+      },
+      {
+        "name": "Kindly leave your four",
+        "type": "unknown",
+        "description": "legged pals at home while you work your culinary magic",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce"
+      },
+      {
+        "name": "Imagine this",
+        "type": "unknown",
+        "description": "a buzzing crowd, hungry folks, and the irresistible smell of diverse cuisines wafting through the ai",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/copy-of-plants-produce"
+      }
+    ],
+    "content_snippet": "Food Vendors - BerlinFarmersMarket Skip to content Online 24/7 Open Thursday Friday Saturday 9 AM to 8 PM Sunday open 9 AM 6 PM Search Home Indoor Map Outdoor Flea Market Map Hours Directions Indoor Space Application Jobs More Events Guidelines for Indoor Selling Live View Outdoor Market Leasing Daily Rentals Home Indoor Map Outdoor Flea Market Map Hours Directions Indoor Space Application Jobs More Events Guidelines for Indoor Selling Live View Outdoor Market Leasing Daily Rentals Home Indoor M",
+    "confidence_score": 0.76
+  },
+  {
+    "market_name": "CAMDEN COUNTY",
+    "page_url": "https://berlinfarmersmarket.com/bfmapp/",
+    "page_title": "(BFM) Authentic Products Policing - BerlinFarmersMarket",
+    "vendors": [
+      {
+        "name": "Home Indoor Map Outdoor Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "Selling Live View Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "Please note that Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "Report.Although Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "Reports. REPORT Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "Report Under Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "Daily Rental Live View Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "Outdoor Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "Produce Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "Used Merchandise Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "Products Policing",
+        "type": "farm",
+        "description": "BerlinFarmersMarket Skip to content Online 24/7 Open Thursday Friday Saturday 9 AM to 8 PM Sunday op",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "The BFM",
+        "type": "unknown",
+        "description": "APP Program is for Brand Owners only",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "Brand Owner. Note that on",
+        "type": "unknown",
+        "description": "site Brand Owner investigators are encouraged to contemporaneously contact BFM security to arrange i",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "REPORT",
+        "type": "farm",
+        "description": "BERLIN FARMERS MARKET (BFM) AUTHENTIC PRODUCTS POLICING PROGRAM (BFM-APP Program)Terms and Condition",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "NOTE",
+        "type": "unknown",
+        "description": "The BFM-APP Program is for Brand Owners only",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      },
+      {
+        "name": "Terms and Conditions",
+        "type": "farm",
+        "description": "Please note that Berlin Farmers Market reserves the right to review each Report and to require addit",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/bfmapp/"
+      }
+    ],
+    "content_snippet": "(BFM) Authentic Products Policing - BerlinFarmersMarket Skip to content Online 24/7 Open Thursday Friday Saturday 9 AM to 8 PM Sunday open 9 AM 6 PM Search Home Indoor Map Outdoor Flea Market Map Hours Directions Indoor Space Application Jobs More Events Guidelines for Indoor Selling Live View Outdoor Market Leasing Daily Rentals Home Indoor Map Outdoor Flea Market Map Hours Directions Indoor Space Application Jobs More Events Guidelines for Indoor Selling Live View Outdoor Market Leasing Daily ",
+    "confidence_score": 0.9199999999999999
+  },
+  {
+    "market_name": "CAMDEN COUNTY",
+    "page_url": "https://berlinfarmersmarket.com/vendor-registration/",
+    "page_title": "Outdoor Market Vendor Registration - BerlinFarmersMarket",
+    "vendors": [
+      {
+        "name": "Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-registration/"
+      },
+      {
+        "name": "Home Indoor Map Outdoor Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-registration/"
+      },
+      {
+        "name": "Selling Live View Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-registration/"
+      },
+      {
+        "name": "Registration Berlin Farmer's Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-registration/"
+      },
+      {
+        "name": "Registration at Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-registration/"
+      },
+      {
+        "name": "Outdoor Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-registration/"
+      },
+      {
+        "name": "Daily Rental Live View Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-registration/"
+      },
+      {
+        "name": "Produce Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-registration/"
+      },
+      {
+        "name": "Used Merchandise Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-registration/"
+      },
+      {
+        "name": "Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-registration/"
+      },
+      {
+        "name": "Your Spot Awaits",
+        "type": "unknown",
+        "description": "Start Your Vendor Journey Today! NO FAKE, COUNTERFEIT, OR OTHERWISE UNAUTHORIZED PRODUCTS OF ANY KIN",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/vendor-registration/"
+      }
+    ],
+    "content_snippet": "Outdoor Market Vendor Registration - BerlinFarmersMarket Skip to content Online 24/7 Open Thursday Friday Saturday 9 AM to 8 PM Sunday open 9 AM 6 PM Search Home Indoor Map Outdoor Flea Market Map Hours Directions Indoor Space Application Jobs More Events Guidelines for Indoor Selling Live View Outdoor Market Leasing Daily Rentals Home Indoor Map Outdoor Flea Market Map Hours Directions Indoor Space Application Jobs More Events Guidelines for Indoor Selling Live View Outdoor Market Leasing Daily",
+    "confidence_score": 0.78
+  },
+  {
+    "market_name": "CAMDEN COUNTY",
+    "page_url": "https://berlinfarmersmarket.com/vendor-directory/",
+    "page_title": "Vendor Directory - BerlinFarmersMarket",
+    "vendors": [
+      {
+        "name": "Home Indoor Map Outdoor Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-directory/"
+      },
+      {
+        "name": "Selling Live View Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-directory/"
+      },
+      {
+        "name": "Directory The Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-directory/"
+      },
+      {
+        "name": "The Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-directory/"
+      },
+      {
+        "name": "Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-directory/"
+      },
+      {
+        "name": "Visit the Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-directory/"
+      },
+      {
+        "name": "Daily Rental Live View Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-directory/"
+      },
+      {
+        "name": "Outdoor Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-directory/"
+      },
+      {
+        "name": "Produce Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-directory/"
+      },
+      {
+        "name": "Used Merchandise Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/vendor-directory/"
+      },
+      {
+        "name": "Vendor Directory",
+        "type": "farm",
+        "description": "BerlinFarmersMarket Skip to content Online 24/7 Open Thursday Friday Saturday 9 AM to 8 PM Sunday op",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/vendor-directory/"
+      },
+      {
+        "name": "For Consumers",
+        "type": "unknown",
+        "description": "Discover Unique Finds Variety of Unique Products and Services Our directory is a treasure trove of u",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/vendor-directory/"
+      }
+    ],
+    "content_snippet": "Vendor Directory - BerlinFarmersMarket Skip to content Online 24/7 Open Thursday Friday Saturday 9 AM to 8 PM Sunday open 9 AM 6 PM Search Home Indoor Map Outdoor Flea Market Map Hours Directions Indoor Space Application Jobs More Events Guidelines for Indoor Selling Live View Outdoor Market Leasing Daily Rentals Home Indoor Map Outdoor Flea Market Map Hours Directions Indoor Space Application Jobs More Events Guidelines for Indoor Selling Live View Outdoor Market Leasing Daily Rentals Home Indo",
+    "confidence_score": 0.78
+  },
+  {
+    "market_name": "CAMDEN COUNTY",
+    "page_url": "https://berlinfarmersmarket.com/businesses-new-merchandise/",
+    "page_title": "Local Goods at Berlin Farmers Market | New Jersey",
+    "vendors": [
+      {
+        "name": "Local Goods at Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "Home Indoor Map Outdoor Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "Selling Live View Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "Your Business at Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "Visit Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "Daily Rental Live View Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "Outdoor Flea Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "Produce Outdoor Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "Used Merchandise Berlin Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "Your stage awaits",
+        "type": "unknown",
+        "description": "all spaces are a generous 12 x 30, with the added convenience of parking your vehicle right behind y",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "RestrictionsKnow the rules",
+        "type": "unknown",
+        "description": "NO CBD products allowed",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "Dogs AllowedFor a hassle",
+        "type": "unknown",
+        "description": "free selling experience, please note our no-dogs policy",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "Growing Businesses",
+        "type": "unknown",
+        "description": "Many of our indoor stores started their businesses in our outdoor market",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      },
+      {
+        "name": "Standardized Spaces",
+        "type": "unknown",
+        "description": "Your stage awaits – all spaces are a generous 12 x 30, with the added convenience of parking your ve",
+        "source": "list_match",
+        "url": "https://berlinfarmersmarket.com/businesses-new-merchandise/"
+      }
+    ],
+    "content_snippet": "Local Goods at Berlin Farmers Market | New Jersey Skip to content Online 24/7 Open Thursday Friday Saturday 9 AM to 8 PM Sunday open 9 AM 6 PM Search Home Indoor Map Outdoor Flea Market Map Hours Directions Indoor Space Application Jobs More Events Guidelines for Indoor Selling Live View Outdoor Market Leasing Daily Rentals Home Indoor Map Outdoor Flea Market Map Hours Directions Indoor Space Application Jobs More Events Guidelines for Indoor Selling Live View Outdoor Market Leasing Daily Rental",
+    "confidence_score": 0.74
+  },
+  {
+    "market_name": "COLLINGSWOOD",
+    "page_url": "https://collingswoodmarket.com",
+    "page_title": "Collingswood Farmers' Market - Collingswood Farmers' Market",
+    "vendors": [
+      {
+        "name": "Collingswood Farmers' Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://collingswoodmarket.com"
+      },
+      {
+        "name": "Events Support The Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://collingswoodmarket.com"
+      },
+      {
+        "name": "PDF Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://collingswoodmarket.com"
+      },
+      {
+        "name": "Collingswood Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://collingswoodmarket.com"
+      },
+      {
+        "name": "THANKS TO OUR A",
+        "type": "unknown",
+        "description": "MAIZE-ING 2025 SPONSORS! CONTACT US:​ * Indicates required field Name * First Last Email * Comment *",
+        "source": "list_match",
+        "url": "https://collingswoodmarket.com"
+      },
+      {
+        "name": "FRIENDS",
+        "type": "unknown",
+        "description": "SUBSCRIBE FOR THE LATEST MARKET NEWS",
+        "source": "list_match",
+        "url": "https://collingswoodmarket.com"
+      }
+    ],
+    "content_snippet": "Collingswood Farmers' Market - Collingswood Farmers' Market Home farms + vendors vendor directory looking for space? about history + location payment options dog policy Events Support The Market Volunteer sponsorships Contact Home farms + vendors vendor directory looking for space? about history + location payment options dog policy Events Support The Market Volunteer sponsorships Contact Join us for our next market:​SATURDAY, SEPTEMBER 20TH PDF Market map: 9/20 get our weekly market preview ema",
+    "confidence_score": 0.8600000000000001
+  },
+  {
+    "market_name": "COLLINGSWOOD",
+    "page_url": "https://collingswoodmarket.com/vendor-directory.html",
+    "page_title": "vendor directory - Collingswood Farmers' Market",
+    "vendors": [
+      {
+        "name": "Collingswood Farmers' Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://collingswoodmarket.com/vendor-directory.html"
+      },
+      {
+        "name": "Events Support The Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://collingswoodmarket.com/vendor-directory.html"
+      },
+      {
+        "name": "FRIENDS",
+        "type": "unknown",
+        "description": "SUBSCRIBE FOR THE LATEST MARKET NEWS",
+        "source": "list_match",
+        "url": "https://collingswoodmarket.com/vendor-directory.html"
+      }
+    ],
+    "content_snippet": "vendor directory - Collingswood Farmers' Market Home farms + vendors vendor directory looking for space? about history + location payment options dog policy Events Support The Market Volunteer sponsorships Contact Home farms + vendors vendor directory looking for space? about history + location payment options dog policy Events Support The Market Volunteer sponsorships Contact 2025 VENDORSVendor Directory & Product Search Vendor Directory Click the +/- next to any vendor to see a description; cl",
+    "confidence_score": 0.38000000000000006
+  },
+  {
+    "market_name": "HADDON HEIGHTS",
+    "page_url": "https://haddonheightsfarmersmarket.com",
+    "page_title": "Haddon Heights Farmers Market",
+    "vendors": [
+      {
+        "name": "Haddon Heights Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonheightsfarmersmarket.com"
+      },
+      {
+        "name": "MarketHaddon Heights Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonheightsfarmersmarket.com"
+      },
+      {
+        "name": "Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonheightsfarmersmarket.com"
+      },
+      {
+        "name": "KidsHaddon Heights Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonheightsfarmersmarket.com"
+      },
+      {
+        "name": "Among other opportunities",
+        "type": "unknown",
+        "description": "we are currently, HIP currently hosts several events throughout the calendar year showcasing music,",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com"
+      }
+    ],
+    "content_snippet": "Haddon Heights Farmers Market Haddon Heights Farmers Market Each Sunday, from April 27, 2025 through November 23, 2025, you will find fresh produce, unique crafts, entertainment, and highlighted specials from local businesses. The farmer’s market is open 9:30 AM – 1:00 PM at the corner of Station and Atlantic Avenue in beautiful downtown Haddon Heights.Apply for the Haddon Heights Farmers MarketHaddon Heights Farmers Market Each Sunday, from April 21, 2024 through November 24, 2024, you will fin",
+    "confidence_score": 0.8600000000000001
+  },
+  {
+    "market_name": "HADDON HEIGHTS",
+    "page_url": "https://haddonheightsfarmersmarket.com/application-fee",
+    "page_title": "Haddon Heights Farmers Market Vendor Application",
+    "vendors": [
+      {
+        "name": "Haddon Heights Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "MarketHaddon Heights Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Farmers' Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Haddon Heights Farmers' Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Heights In Progress Inc",
+        "type": "inc",
+        "source": "pattern_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Any generators must be pre",
+        "type": "unknown",
+        "description": "approved and inspected by the fire marshal and in accordance with any permits/fees",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "A non",
+        "type": "unknown",
+        "description": "refundable $30 application fee has been collected to review all new applications",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Clean",
+        "type": "unknown",
+        "description": "up: Vendors MUST remove all trash from their space",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Vendor RateDaily RateNon",
+        "type": "unknown",
+        "description": "Profit - must have state assigned non-profit status & number",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Get Your ResultsYour End",
+        "type": "unknown",
+        "description": "To-End Funnel Marketing SolutionBuild forms and funnel pages to capture leads, user automated sms, e",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Choose an option",
+        "type": "unknown",
+        "description": "Due Date for Early Bird Pricing is March 1",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Space",
+        "type": "unknown",
+        "description": "(Early Bird $650 or Regular Rate $850)Full Season (2) Spaces - (2) 10 x 10 is $1000 (Early Bird) $11",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Spaces",
+        "type": "unknown",
+        "description": "(3+) 10 x 10 is $2000 (Early Bird) $2150 (Regular Season Price)Monthly - ($40/Market",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Daily",
+        "type": "unknown",
+        "description": "($60/market)Daily - For HHFM SponsorsDo you want to learn more about our NEW Exclusive Vendor Rate?",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Insurance. Vendors and Non",
+        "type": "unknown",
+        "description": "Profits that are selected for participation shall show proof of insurance and any other Health Depar",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Government OfficialNon",
+        "type": "unknown",
+        "description": "Profit (must provide Tax ID)Community MemberSpecific items to be sold:Please remember:1",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "DAILY VENDORS",
+        "type": "farm",
+        "description": "Choose the FIRST DATE you'd like to participate at the Farmers Market (MONTHLY & SEASONAL VENDORS LE",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "All Vendors and Non",
+        "type": "unknown",
+        "description": "Profits agree to confine their services to their assigned spaceNo Hawking or Soliciting outside of t",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      },
+      {
+        "name": "Vendor or Non",
+        "type": "unknown",
+        "description": "Profit will not be allowed to return to our HIP EventsApplicants who are awarded opportunities at th",
+        "source": "list_match",
+        "url": "https://haddonheightsfarmersmarket.com/application-fee"
+      }
+    ],
+    "content_snippet": "Haddon Heights Farmers Market Vendor Application Date: Every Sunday Starting April 27th - November 23rdEvent Time: 9:30AM - 1:00PMSet Up Time: 8:30AMWe are a rain or shine eventHIP Inc. PresentsThe Haddon Heights Farmers MarketHaddon Heights Farmers Market returns for another season at Station & Atlantic Ave on April 27th!Each Sunday, from April 27st through November 23rd, you will find fresh produce, unique crafts, entertainment, and highlighted specials from local businesses.You are invited to",
+    "confidence_score": 1.0
+  },
+  {
+    "market_name": "HADDONFIELD",
+    "page_url": "https://haddonfieldfarmersmarket.org",
+    "page_title": "Haddonfield Farmers' Market",
+    "vendors": [
+      {
+        "name": "Haddonfield Farmers' Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org"
+      },
+      {
+        "name": "Newsletter the Field About The Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org"
+      },
+      {
+        "name": "Getting To The Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org"
+      },
+      {
+        "name": "X Blog Vendors Sponsor",
+        "type": "unknown",
+        "description": "Volunteer Home Highlights Contact DONATE 2025 Vendor Application scroll down Every Saturday from 8:3",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org"
+      },
+      {
+        "name": "Web Design",
+        "type": "unknown",
+        "description": "Raphael Webscapes, LLC",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org"
+      }
+    ],
+    "content_snippet": "Haddonfield Farmers' Market X Blog Vendors Sponsor-Volunteer Home Highlights Contact DONATE 2025 Vendor Application scroll down Every Saturday from 8:30 am to 1:00 pm Highlights 2025 Vendor Application Available Onlie 2025 Vendor Application Now Available Read More 2025 Haddonfield Farmers’ Market Donations Opening Day 2025 Read More Welcoming the 2023 Market Season Haddonfield Farmers’ Market – 2023 Opening Day Recap Saturday May 20 was the start of the 2023 Haddonfield Farmers’ Market! While i",
+    "confidence_score": 0.78
+  },
+  {
+    "market_name": "HADDONFIELD",
+    "page_url": "https://haddonfieldfarmersmarket.org/vendors/",
+    "page_title": "Vendors | Haddonfield Farmers' Market",
+    "vendors": [
+      {
+        "name": "Haddonfield Farmers' Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Mt. Crystal Bakery",
+        "type": "bakery",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Muth Farm Flowers Garden",
+        "type": "garden",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Sorbello Girls Farm Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Turning Point Farm",
+        "type": "farm",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Winsley Gardens",
+        "type": "gardens",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Vendor Application About The Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Getting To The Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Earth Eats Co",
+        "type": "co",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Little White Shed & Co",
+        "type": "co",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Home Blog Vendors Sponsor",
+        "type": "unknown",
+        "description": "Volunteer Highlights Contact Donate 2025 Vendor Application Every Saturday from 8:30 am to 1:00 pm V",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Bakery & Deli Family",
+        "type": "bakery",
+        "description": "run brick-oven bakery offering Italian staples like stromboli & pizza, plus cakes & pastries",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Crumb Sandwich Joint Crave",
+        "type": "unknown",
+        "description": "worthy Sandwiches, Salads, and More! · Featuring house-made focaccia & mindfully sourced ingredients",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Apothecary Creates hand",
+        "type": "farm",
+        "description": "poured candles with 100% soy wax produced from U",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "White Shed & Co. A mother",
+        "type": "unknown",
+        "description": "daughter trio who hand-pour 100% soy candles and wax melts",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Bakery Philadelphia",
+        "type": "bakery",
+        "description": "based bakery that uses only high quality ingredients",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Cafe Serving fresh",
+        "type": "bakery",
+        "description": "cooked breakfast sandwiches, baked goods and Hoagies! Whinnies Barkery Healthy nutritious pet treats",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "There are two flavors",
+        "type": "unknown",
+        "description": "Smokey Nacho and Herb Alfredo",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      },
+      {
+        "name": "Web Design",
+        "type": "unknown",
+        "description": "Raphael Webscapes, LLC",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/"
+      }
+    ],
+    "content_snippet": "Vendors | Haddonfield Farmers' Market X Home Blog Vendors Sponsor-Volunteer Highlights Contact Donate 2025 Vendor Application Every Saturday from 8:30 am to 1:00 pm Vendor Directory AmberGlowBees Local Bee Enthusiasts! \"For the love of Bees\" is their slogan, and it truly is. Anita’s Guacamole Small business originated from a family recipe on a mission to provide the community with products that are all natural and wholesome. Armageddon Brewing Dedicated to creating the purest ciders and meads th",
+    "confidence_score": 1.0
+  },
+  {
+    "market_name": "HADDONFIELD",
+    "page_url": "https://haddonfieldfarmersmarket.org/vendors/2025-vendor-application/",
+    "page_title": "2025 Vendor Application | Haddonfield Farmers' Market",
+    "vendors": [
+      {
+        "name": "Haddonfield Farmers' Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/2025-vendor-application/"
+      },
+      {
+        "name": "VENDOR APPLICATION About The Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/2025-vendor-application/"
+      },
+      {
+        "name": "Getting To The Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/2025-vendor-application/"
+      },
+      {
+        "name": "Home Blog Vendors Sponsor",
+        "type": "unknown",
+        "description": "Volunteer Highlights Contact Donate 2025 Vendor Application Every Saturday from 8:30 am to 1:00 pm 2",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/2025-vendor-application/"
+      },
+      {
+        "name": "Web Design",
+        "type": "unknown",
+        "description": "Raphael Webscapes, LLC",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/vendors/2025-vendor-application/"
+      }
+    ],
+    "content_snippet": "2025 Vendor Application | Haddonfield Farmers' Market X Home Blog Vendors Sponsor-Volunteer Highlights Contact Donate 2025 Vendor Application Every Saturday from 8:30 am to 1:00 pm 2025 VENDOR APPLICATION About The Market There's always something. You will just need to show up to find out for sure - what an adventure! Getting To The Market Haddonfield Farmers' Market is located at 2 Kings Court Haddonfield, NJ 08033. Contact Us Recent Recipes Rhubarb Crumble Summer Corn Chowder Blueberry Lemon B",
+    "confidence_score": 0.76
+  },
+  {
+    "market_name": "HADDONFIELD",
+    "page_url": "https://haddonfieldfarmersmarket.org/event/2025-vendor-application-available-onlie/",
+    "page_title": "2025 Vendor Application Available Onlie | Haddonfield Farmers' Market",
+    "vendors": [
+      {
+        "name": "Haddonfield Farmers' Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/event/2025-vendor-application-available-onlie/"
+      },
+      {
+        "name": "Market About The Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/event/2025-vendor-application-available-onlie/"
+      },
+      {
+        "name": "Getting To The Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://haddonfieldfarmersmarket.org/event/2025-vendor-application-available-onlie/"
+      },
+      {
+        "name": "Home Blog Vendors Sponsor",
+        "type": "unknown",
+        "description": "Volunteer Highlights Contact Donate 2025 Vendor Application Every Saturday from 8:30 am to 1:00 pm 2",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/event/2025-vendor-application-available-onlie/"
+      },
+      {
+        "name": "Community Connection",
+        "type": "unknown",
+        "description": "Our market isn’t just a place to sell goods—it’s a community hub where vendors and customers alike c",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/event/2025-vendor-application-available-onlie/"
+      },
+      {
+        "name": "Support Local",
+        "type": "unknown",
+        "description": "By becoming a vendor, you’re not only supporting your own business but also contributing to the vita",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/event/2025-vendor-application-available-onlie/"
+      },
+      {
+        "name": "How to Apply",
+        "type": "unknown",
+        "description": "Ready to join us for the 2025 season? Applying to become a vendor is quick and easy",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/event/2025-vendor-application-available-onlie/"
+      },
+      {
+        "name": "Important Dates",
+        "type": "unknown",
+        "description": "Application Deadline: March 20, 2025",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/event/2025-vendor-application-available-onlie/"
+      },
+      {
+        "name": "We Listened",
+        "type": "unknown",
+        "description": "We updated out platform for hosting the vendor application to avoid having the additional transactio",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/event/2025-vendor-application-available-onlie/"
+      },
+      {
+        "name": "Spread the Word",
+        "type": "unknown",
+        "description": "Help us spread the word about the 2025 Vendor Application by sharing this post with fellow vendors a",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/event/2025-vendor-application-available-onlie/"
+      },
+      {
+        "name": "Web Design",
+        "type": "unknown",
+        "description": "Raphael Webscapes, LLC",
+        "source": "list_match",
+        "url": "https://haddonfieldfarmersmarket.org/event/2025-vendor-application-available-onlie/"
+      }
+    ],
+    "content_snippet": "2025 Vendor Application Available Onlie | Haddonfield Farmers' Market X Home Blog Vendors Sponsor-Volunteer Highlights Contact Donate 2025 Vendor Application Every Saturday from 8:30 am to 1:00 pm 2025 Vendor Application Available Onlie Exciting News for Vendors: The 2025 Vendor Application Now Available Online for Haddonfield Farmers’ Market! Calling all vendors, artisans, and food enthusiasts! We’re thrilled to announce that the application for the highly anticipated 2025 season of the Haddonf",
+    "confidence_score": 0.8799999999999999
+  },
+  {
+    "market_name": "WILDWOOD – Downtown",
+    "page_url": "https://dooww.com/farmersmarket",
+    "page_title": "Downtown Farmers Market | DOOWW",
+    "vendors": [
+      {
+        "name": "Downtown Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://dooww.com/farmersmarket"
+      },
+      {
+        "name": "TO DOFarmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://dooww.com/farmersmarket"
+      },
+      {
+        "name": "Events PosterFarmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://dooww.com/farmersmarket"
+      },
+      {
+        "name": "Downtown Wildwood Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://dooww.com/farmersmarket"
+      },
+      {
+        "name": "Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://dooww.com/farmersmarket"
+      }
+    ],
+    "content_snippet": "Downtown Farmers Market | DOOWW top of pageTHINGS TO DOFarmers Market Music in the Plaza Family Movies Tram Car Fitness Fireworks HomeDowntown WildwoodFree Family MoviesFitness in the PlazaDowntown Farmers MarketMusic in the PlazaByrne Plaza Live CamWildwoods BoardwalkFriday Night FireworksTram Car InfoShopDineStayPlayContactAboutCareersGalleryDowntown ImagesBoardwalk ImagesNPPResource Center2025 Byrne Plaza Events BrochureJitney ScheduleLive CamBoardwalk Events PosterFarmers Market Vendor Appli",
+    "confidence_score": 0.8600000000000001
+  },
+  {
+    "market_name": "ESSEX COUNTY",
+    "page_url": "https://bloomfieldtwpnj.com/1570/Bloomfield-Community-Farmers-Market",
+    "page_title": "Bloomfield Community Farmer's Market | Bloomfield Township, NJ",
+    "vendors": [
+      {
+        "name": "Bloomfield Community Farmer's Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://bloomfieldtwpnj.com/1570/Bloomfield-Community-Farmers-Market"
+      },
+      {
+        "name": "Community Farmer's Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://bloomfieldtwpnj.com/1570/Bloomfield-Community-Farmers-Market"
+      },
+      {
+        "name": "Bloomfield Community Farmers Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://bloomfieldtwpnj.com/1570/Bloomfield-Community-Farmers-Market"
+      },
+      {
+        "name": "Bloomfield Community Garden",
+        "type": "garden",
+        "source": "pattern_match",
+        "url": "https://bloomfieldtwpnj.com/1570/Bloomfield-Community-Farmers-Market"
+      },
+      {
+        "name": "Create a Website Account",
+        "type": "unknown",
+        "description": "Manage notification subscriptions, save form progress and more",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1570/Bloomfield-Community-Farmers-Market"
+      },
+      {
+        "name": "Department Facilities",
+        "type": "unknown",
+        "description": "Civic Center, Oakeside & Parks Programs Current Recreational Programs Music Federation Special Event",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1570/Bloomfield-Community-Farmers-Market"
+      },
+      {
+        "name": "Senior Citizen Bus Dial",
+        "type": "unknown",
+        "description": "A-Ride Shuttle Bus Title VI Requirements Meet Our Staff Bloomfield Parks, Recreation & Cultural Affa",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1570/Bloomfield-Community-Farmers-Market"
+      },
+      {
+        "name": "Phone",
+        "type": "unknown",
+        "description": "973-680-4000 Helpful Links Bids, RFPs and RFQs Download Forms Job Opportunities Notice to Bidders (P",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1570/Bloomfield-Community-Farmers-Market"
+      }
+    ],
+    "content_snippet": "Bloomfield Community Farmer's Market | Bloomfield Township, NJ Skip to Main Content Create a Website Account - Manage notification subscriptions, save form progress and more. Website Sign In Government Services Community How Do I... Search HomeGovernmentDepartments L to ZParks & RecreationBloomfield Community Farmer's Market Bloomfield Community Farmer's Market The  Bloomfield Community Farmer’s Market is back this summer, beginning Tuesday, June 3rd, and ending on Tuesday, October 28th, in the ",
+    "confidence_score": 0.8400000000000001
+  },
+  {
+    "market_name": "ESSEX COUNTY",
+    "page_url": "https://bloomfieldtwpnj.com/DocumentCenter/View/15494/CommunityFarmersMarketVendorApplication2025Final",
+    "page_title": "No title",
+    "vendors": [
+      {
+        "name": "LlIG",
+        "type": "unknown",
+        "description": "�\b�O���\u0003��� !��*) Fi��5����(ec{7���zۈ������B�n{�J�W�\u0018��\u001a�Ji���eI#��\u0012",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/DocumentCenter/View/15494/CommunityFarmersMarketVendorApplication2025Final"
+      },
+      {
+        "name": "DJzu",
+        "type": "unknown",
+        "description": "�x\\�zu�3�W��d�:� }�)��r�<[����\u0007p����",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/DocumentCenter/View/15494/CommunityFarmersMarketVendorApplication2025Final"
+      },
+      {
+        "name": "RDF xmlns",
+        "type": "unknown",
+        "description": "rdf=\"http://www",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/DocumentCenter/View/15494/CommunityFarmersMarketVendorApplication2025Final"
+      },
+      {
+        "name": "Description rdf",
+        "type": "unknown",
+        "description": "about=\"\" xmlns:xmp=\"http://ns",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/DocumentCenter/View/15494/CommunityFarmersMarketVendorApplication2025Final"
+      }
+    ],
+    "content_snippet": "%PDF-1.6 %���� 195 0 obj <> endobj 223 0 obj <>/Filter/FlateDecode/ID[<61E8F907085ACC4C8E5F6F48E20DEF67><61A7A75A932B3A4C8986E9DCFF0557BD>]/Index[195 49]/Info 194 0 R/Length 129/Prev 236898/Root 196 0 R/Size 244/Type/XRef/W[1 3 1]>>stream h�bbd`\u0010``b``�\u0000� 3@$�<\u0010�� fk�HFM��:0\u0019 &/��#�j�@$K3X\\\u0016,2\u001f,k \u0016�\u000e\"M��}��A�\u001f@�1I D^^\u000e�\u0005뭝\b\u0012�\u0006vO ���\u0005���00\u0001]\u001b\u0004\u0016g`�\u0013���)� @�\u0001\u0000�g\u0014� endstream endobj startxref 0 %%EOF 243 0 obj <>stream h�b```\u0002�M � �� B \b ��\u0002\u0014ea�8��pv΁ �\u0013\u0018\u0018^���+I�r�*�hs�\u0012��ڡ##\u0012��6\u0017(aZ�����P\u0001\"��L!�\b� ",
+    "confidence_score": 0.7
+  },
+  {
+    "market_name": "ESSEX COUNTY",
+    "page_url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff",
+    "page_title": "Meet Our Staff | Bloomfield Township, NJ",
+    "vendors": [
+      {
+        "name": "Bloomfield Community Farmer's Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      },
+      {
+        "name": "Bloomfield Community Garden",
+        "type": "garden",
+        "source": "pattern_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      },
+      {
+        "name": "Create a Website Account",
+        "type": "unknown",
+        "description": "Manage notification subscriptions, save form progress and more",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      },
+      {
+        "name": "CPRP",
+        "type": "unknown",
+        "description": "NRPA Director Email Michael Sceurman Phone: 973-743-9074 Michael was born and raised in Bloomfield a",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      },
+      {
+        "name": "Recreation Department part",
+        "type": "unknown",
+        "description": "time in 2004",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      },
+      {
+        "name": "She was hired full",
+        "type": "unknown",
+        "description": "time in the Tax and Water Department in 2012 and returned to the Recreation Department in 2014, wher",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      },
+      {
+        "name": "Dial",
+        "type": "unknown",
+        "description": "A-Ride schedule",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      },
+      {
+        "name": "Travel Camp Neyden Kinch",
+        "type": "unknown",
+        "description": "Sousa Recreation Leader Email Neyden Neyden is a native of Newark, New Jersey, and attended Kean Uni",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      },
+      {
+        "name": "Department Facilities",
+        "type": "unknown",
+        "description": "Civic Center, Oakeside & Parks Programs Current Recreational Programs Music Federation Special Event",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      },
+      {
+        "name": "Senior Citizen Bus Dial",
+        "type": "unknown",
+        "description": "A-Ride Shuttle Bus Title VI Requirements Meet Our Staff Bloomfield Parks, Recreation & Cultural Affa",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      },
+      {
+        "name": "Michael Sceurman Phone",
+        "type": "unknown",
+        "description": "973-743-9074 Michael was born and raised in Bloomfield and starting working for the Recreation Depar",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      },
+      {
+        "name": "Favorite part of the job",
+        "type": "unknown",
+        "description": "Michael feels fortunate to be able to give back to the community that gave him so much as a child",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      },
+      {
+        "name": "Favorite event or program",
+        "type": "unknown",
+        "description": "Family Overnight Campout and Movie at Pulaski Park Dina Mustafa Clerk Typist Email Dina Mustafa Phon",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      },
+      {
+        "name": "Favorite part of the Job",
+        "type": "unknown",
+        "description": "Bringing the community together through sports and other activitiesFavorite Event: Veterans Day Para",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      },
+      {
+        "name": "Phone",
+        "type": "unknown",
+        "description": "973-680-4000 Helpful Links Bids, RFPs and RFQs Download Forms Job Opportunities Notice to Bidders (P",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1471/Meet-Our-Staff"
+      }
+    ],
+    "content_snippet": "Meet Our Staff | Bloomfield Township, NJ Skip to Main Content Create a Website Account - Manage notification subscriptions, save form progress and more. Website Sign In Government Services Community How Do I... Search HomeGovernmentDepartments L to ZParks & RecreationMeet Our Staff Meet Our Staff Michael L. Sceurman, CPRP-NRPA Director Email Michael Sceurman Phone: 973-743-9074 Michael was born and raised in Bloomfield and starting working for the Recreation Department at the age of 13 as a summ",
+    "confidence_score": 0.96
+  },
+  {
+    "market_name": "ESSEX COUNTY",
+    "page_url": "https://bloomfieldtwpnj.com/1487/Bloomfield-Town-Wide-Track-Meet",
+    "page_title": "Bloomfield Town Wide Track Meet  | Bloomfield Township, NJ",
+    "vendors": [
+      {
+        "name": "Bloomfield Community Farmer's Market",
+        "type": "market",
+        "source": "pattern_match",
+        "url": "https://bloomfieldtwpnj.com/1487/Bloomfield-Town-Wide-Track-Meet"
+      },
+      {
+        "name": "Bloomfield Community Garden",
+        "type": "garden",
+        "source": "pattern_match",
+        "url": "https://bloomfieldtwpnj.com/1487/Bloomfield-Town-Wide-Track-Meet"
+      },
+      {
+        "name": "Create a Website Account",
+        "type": "unknown",
+        "description": "Manage notification subscriptions, save form progress and more",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1487/Bloomfield-Town-Wide-Track-Meet"
+      },
+      {
+        "name": "Town Wide Track Meet A",
+        "type": "unknown",
+        "description": "Tom Fleming                                   B – Robert L Carter           Berkeley Bulldogs",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1487/Bloomfield-Town-Wide-Track-Meet"
+      },
+      {
+        "name": "Department Facilities",
+        "type": "unknown",
+        "description": "Civic Center, Oakeside & Parks Programs Current Recreational Programs Music Federation Special Event",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1487/Bloomfield-Town-Wide-Track-Meet"
+      },
+      {
+        "name": "Senior Citizen Bus Dial",
+        "type": "unknown",
+        "description": "A-Ride Shuttle Bus Title VI Requirements Meet Our Staff Bloomfield Parks, Recreation & Cultural Affa",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1487/Bloomfield-Town-Wide-Track-Meet"
+      },
+      {
+        "name": "Phone",
+        "type": "unknown",
+        "description": "973-680-4000 Helpful Links Bids, RFPs and RFQs Download Forms Job Opportunities Notice to Bidders (P",
+        "source": "list_match",
+        "url": "https://bloomfieldtwpnj.com/1487/Bloomfield-Town-Wide-Track-Meet"
+      }
+    ],
+    "content_snippet": "Bloomfield Town Wide Track Meet | Bloomfield Township, NJ Skip to Main Content Create a Website Account - Manage notification subscriptions, save form progress and more. Website Sign In Government Services Community How Do I... Search HomeGovernmentDepartments L to ZParks & RecreationBloomfield Town Wide Track Meet Bloomfield Town Wide Track Meet A – Tom Fleming                                   B – Robert L Carter           Berkeley Bulldogs                                  Franklin Raptors    ",
+    "confidence_score": 0.8
+  }
+]
