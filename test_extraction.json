@@ -1,0 +1,30 @@
+[
+  {
+    "market_name": "Bernardsville Farmers Market",
+    "market_url": "https://www.bernardsvillefarmersmarket.com/summer-vendors",
+    "vendor_page_url": "https://www.bernardsvillefarmersmarket.com/summer-vendors",
+    "vendors": [
+      {
+        "name": "AquaSprout Farms",
+        "business_type": "Farm",
+        "products": ["Aquaponic greens", "lettuce", "cherry tomatoes"],
+        "location": null,
+        "contact_info": {"website": "https://www.aquasproutfarms.com/"},
+        "description": "Aquaponic greens and seasonal vegetables",
+        "confidence": 0.9
+      },
+      {
+        "name": "Backer Farm",
+        "business_type": "Farm",
+        "products": ["meat", "poultry", "beef", "pork"],
+        "location": "Mendham",
+        "contact_info": {"website": "https://www.backerfarm.com/"},
+        "description": "Small batch, pastured-raised meat and poultry",
+        "confidence": 0.9
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 15.2
+  }
+]

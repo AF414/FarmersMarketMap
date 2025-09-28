@@ -1,321 +1,317 @@
 #!/usr/bin/env python3
 """
-Stage 1: Enhanced crawler for finding vendor list pages
-Focuses on detection rather than extraction
+Vendor Page Finder - Phase 1
+Smart crawler to find the most likely vendor listing page for each farmers market
 """
 
 import requests
 import time
-import json
-from urllib.parse import urlparse, urljoin
 from bs4 import BeautifulSoup
+from urllib.parse import urljoin, urlparse
 from dataclasses import dataclass
-from typing import List, Optional, Dict, Set
-from scraper import FarmersMarketScraper
+from typing import List, Optional, Set
+import csv
+import json
 
 @dataclass
 class VendorPageCandidate:
-    market_name: str
-    page_url: str
-    page_title: str
-    content_sample: str
-    detection_score: float
-    detection_reasons: List[str]
+    url: str
+    title: str
+    score: float
+    reasons: List[str]
+    content_preview: str
 
-class VendorPageFinder(FarmersMarketScraper):
-    def __init__(self, delay=1.5, max_depth=2):
-        super().__init__(delay)
-        self.max_depth = max_depth
-        self.visited_urls = set()
+class VendorPageFinder:
+    def __init__(self, delay: float = 1.5):
+        self.delay = delay
+        self.session = requests.Session()
+        self.session.headers.update({
+            'User-Agent': 'Mozilla/5.0 (compatible; VendorFinder/1.0)'
+        })
 
-        # Enhanced keywords for vendor page detection
-        self.vendor_link_keywords = {
-            'high_priority': ['vendors', 'our vendors', 'vendor directory', 'farmers', 'our farmers', 'growers'],
-            'medium_priority': ['participants', 'market vendors', 'who we are', 'meet the vendors', 'producers'],
-            'low_priority': ['vendor list', 'vendor info', 'about vendors', 'artisans', 'businesses']
+        # High-value keywords for vendor pages
+        self.vendor_keywords = {
+            'high': ['vendors', 'vendor directory', 'our vendors', 'vendor list', 'meet our vendors'],
+            'medium': ['farmers', 'growers', 'producers', 'market vendors', 'participants'],
+            'low': ['about', 'who we are', 'businesses', 'artisans']
         }
 
-        # Content indicators that suggest a vendor listing page
-        self.content_indicators = {
-            'vendor_names': ['farm', 'bakery', 'gardens', 'orchard', 'kitchen', 'creamery', 'ranch', 'dairy'],
-            'business_indicators': ['llc', 'inc', 'co.', 'company', 'family owned', 'organic', 'certified'],
-            'product_indicators': ['specializes in', 'produces', 'offers', 'sells', 'grows', 'bakes', 'makes'],
-            'contact_indicators': ['phone:', 'email:', 'website:', 'contact:', '@', 'www.']
-        }
+    def find_best_vendor_page(self, market_name: str, base_url: str, max_depth: int = 2) -> Optional[VendorPageCandidate]:
+        """Find the best vendor listing page for a farmers market"""
+        print(f"\n🔍 Finding vendor page for: {market_name}")
+        print(f"   Base URL: {base_url}")
 
-    def score_link_for_vendors(self, link_text: str, link_url: str) -> tuple[float, List[str]]:
-        """Score how likely a link leads to vendor information"""
-        score = 0.0
-        reasons = []
-
-        link_text_lower = link_text.lower().strip()
-        url_path = urlparse(link_url).path.lower()
-
-        # High priority keywords
-        for keyword in self.vendor_link_keywords['high_priority']:
-            if keyword in link_text_lower:
-                score += 0.4
-                reasons.append(f"High priority keyword '{keyword}' in link text")
-            if keyword in url_path:
-                score += 0.3
-                reasons.append(f"High priority keyword '{keyword}' in URL")
-
-        # Medium priority keywords
-        for keyword in self.vendor_link_keywords['medium_priority']:
-            if keyword in link_text_lower:
-                score += 0.2
-                reasons.append(f"Medium priority keyword '{keyword}' in link text")
-            if keyword in url_path:
-                score += 0.15
-                reasons.append(f"Medium priority keyword '{keyword}' in URL")
-
-        # Low priority keywords
-        for keyword in self.vendor_link_keywords['low_priority']:
-            if keyword in link_text_lower:
-                score += 0.1
-                reasons.append(f"Low priority keyword '{keyword}' in link text")
-
-        return min(score, 1.0), reasons
-
-    def analyze_content_for_vendors(self, content: str) -> tuple[float, List[str]]:
-        """Analyze page content to determine if it contains vendor listings"""
-        score = 0.0
-        reasons = []
-        content_lower = content.lower()
-
-        # Count different types of indicators
-        vendor_name_count = 0
-        business_count = 0
-        product_count = 0
-        contact_count = 0
-
-        for indicator in self.content_indicators['vendor_names']:
-            count = content_lower.count(indicator)
-            vendor_name_count += count
-
-        for indicator in self.content_indicators['business_indicators']:
-            count = content_lower.count(indicator)
-            business_count += count
-
-        for indicator in self.content_indicators['product_indicators']:
-            count = content_lower.count(indicator)
-            product_count += count
-
-        for indicator in self.content_indicators['contact_indicators']:
-            count = content_lower.count(indicator)
-            contact_count += count
-
-        # Score based on indicator density
-        if vendor_name_count >= 5:
-            score += 0.3
-            reasons.append(f"Many business type words found ({vendor_name_count})")
-        elif vendor_name_count >= 2:
-            score += 0.15
-            reasons.append(f"Some business type words found ({vendor_name_count})")
-
-        if business_count >= 3:
-            score += 0.2
-            reasons.append(f"Multiple business indicators ({business_count})")
-
-        if product_count >= 3:
-            score += 0.2
-            reasons.append(f"Multiple product indicators ({product_count})")
-
-        if contact_count >= 5:
-            score += 0.25
-            reasons.append(f"Many contact indicators ({contact_count})")
-        elif contact_count >= 2:
-            score += 0.1
-            reasons.append(f"Some contact indicators ({contact_count})")
-
-        # Bonus for structured content patterns
-        # Look for repeated patterns that suggest a directory
-        import re
-
-        # Pattern: Name followed by dash/colon and description
-        list_pattern = r'[A-Z][a-zA-Z\s&\'\.]{3,30}\s*[-–—:]\s*[^\.]{15,}'
-        list_matches = len(re.findall(list_pattern, content))
-        if list_matches >= 3:
-            score += 0.3
-            reasons.append(f"Structured list pattern detected ({list_matches} entries)")
-
-        # Pattern: Phone numbers (suggests contact directory)
-        phone_pattern = r'\b\d{3}[-.]?\d{3}[-.]?\d{4}\b'
-        phone_matches = len(re.findall(phone_pattern, content))
-        if phone_matches >= 3:
-            score += 0.2
-            reasons.append(f"Multiple phone numbers found ({phone_matches})")
-
-        # Pattern: Email addresses
-        email_pattern = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
-        email_matches = len(re.findall(email_pattern, content))
-        if email_matches >= 2:
-            score += 0.15
-            reasons.append(f"Multiple email addresses found ({email_matches})")
-
-        return min(score, 1.0), reasons
-
-    def find_vendor_page_candidates(self, market_name: str, base_url: str) -> List[VendorPageCandidate]:
-        """Find pages that likely contain vendor listings"""
+        visited = set()
         candidates = []
-        to_visit = [(base_url, 0)]  # (url, depth)
 
-        print(f"Searching for vendor pages: {market_name}")
+        # Always check the main page first (even if score is low)
+        main_candidate = self._evaluate_page(base_url, "Main Page", force_include=True)
+        if main_candidate:
+            candidates.append(main_candidate)
 
-        while to_visit and len(candidates) < 5:  # Limit candidates per site
-            current_url, depth = to_visit.pop(0)
+        # Find and evaluate linked pages
+        try:
+            soup = self._fetch_page(base_url)
+            if soup:
+                links = self._find_vendor_links(soup, base_url)
+                print(f"   Found {len(links)} potential vendor links")
 
-            if (current_url in self.visited_urls or
-                depth >= self.max_depth):
+                for link in links[:5]:  # Limit to top 5 links
+                    if link not in visited:
+                        visited.add(link)
+                        time.sleep(self.delay)
+
+                        candidate = self._evaluate_page(link, f"Linked page: {link}")
+                        if candidate:
+                            candidates.append(candidate)
+
+        except Exception as e:
+            print(f"   ⚠️  Error crawling links: {str(e)}")
+
+        # Return best candidate
+        if candidates:
+            best = max(candidates, key=lambda c: c.score)
+            print(f"   ✅ Best page: {best.url} (score: {best.score:.2f})")
+            print(f"   Reasons: {', '.join(best.reasons)}")
+            return best
+        else:
+            print(f"   ❌ No vendor pages found")
+            return None
+
+    def _fetch_page(self, url: str) -> Optional[BeautifulSoup]:
+        """Fetch and parse a web page"""
+        try:
+            response = self.session.get(url, timeout=10)
+            response.raise_for_status()
+            return BeautifulSoup(response.text, 'html.parser')
+        except Exception as e:
+            print(f"      Error fetching {url}: {str(e)}")
+            return None
+
+    def _find_vendor_links(self, soup: BeautifulSoup, base_url: str) -> List[str]:
+        """Find links that likely lead to vendor information"""
+        vendor_links = []
+
+        for link in soup.find_all('a', href=True):
+            href = link.get('href')
+            link_text = link.get_text().strip().lower()
+
+            # Skip non-HTTP links
+            full_url = urljoin(base_url, href)
+            if not full_url.startswith(('http://', 'https://')):
                 continue
 
-            self.visited_urls.add(current_url)
+            # Score link based on text
+            score = 0
+            for keyword in self.vendor_keywords['high']:
+                if keyword in link_text:
+                    score += 3
+            for keyword in self.vendor_keywords['medium']:
+                if keyword in link_text:
+                    score += 2
+            for keyword in self.vendor_keywords['low']:
+                if keyword in link_text:
+                    score += 1
 
-            try:
-                response = self.session.get(current_url, timeout=10)
-                if response.status_code != 200:
-                    continue
+            if score > 0:
+                vendor_links.append((full_url, score, link_text))
 
-                soup = BeautifulSoup(response.content, 'html.parser')
+        # Sort by score and return URLs
+        vendor_links.sort(key=lambda x: x[1], reverse=True)
+        return [link[0] for link in vendor_links]
 
-                # Remove script and style elements
-                for script in soup(["script", "style"]):
-                    script.decompose()
+    def _evaluate_page(self, url: str, page_type: str, force_include: bool = False) -> Optional[VendorPageCandidate]:
+        """Evaluate how likely a page is to contain vendor information"""
+        soup = self._fetch_page(url)
+        if not soup:
+            return None
 
-                content = soup.get_text()
-                # Clean up whitespace
-                lines = (line.strip() for line in content.splitlines())
-                chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
-                content = ' '.join(chunk for chunk in chunks if chunk)
+        # Get page text - extract both visible text and text from JSON/JavaScript
+        page_text = soup.get_text()
+        page_title = soup.title.string if soup.title else "No title"
 
-                # Analyze content for vendor indicators
-                content_score, content_reasons = self.analyze_content_for_vendors(content)
+        # Also extract text from JSON/script content that might contain vendor data
+        for script in soup.find_all('script'):
+            if script.string:
+                page_text += " " + script.string
 
-                # Only consider pages with reasonable vendor content
-                if content_score >= 0.3:
-                    title = soup.find('title')
-                    title_text = title.get_text().strip() if title else "No title"
+        page_text = page_text.lower()
 
-                    candidate = VendorPageCandidate(
-                        market_name=market_name,
-                        page_url=current_url,
-                        page_title=title_text,
-                        content_sample=content[:1000],  # First 1000 chars for LLM analysis
-                        detection_score=content_score,
-                        detection_reasons=content_reasons
-                    )
-                    candidates.append(candidate)
-                    print(f"  Found candidate: {title_text} (score: {content_score:.2f})")
+        score = 0
+        reasons = []
 
-                # Find vendor-related links to explore (only from main page)
-                if depth == 0:
-                    vendor_links = []
-                    for link in soup.find_all('a', href=True):
-                        href = link['href']
-                        link_text = link.get_text().strip()
+        # Score based on content indicators
+        vendor_mentions = page_text.count('vendor') + page_text.count('farmer') + page_text.count('grower')
+        if vendor_mentions >= 5:
+            score += 3
+            reasons.append(f"{vendor_mentions} vendor/farmer mentions")
+        elif vendor_mentions >= 2:
+            score += 1
+            reasons.append(f"{vendor_mentions} vendor mentions")
 
-                        # Skip empty or very long link text
-                        if not link_text or len(link_text) > 100:
-                            continue
+        # Look for structured lists
+        lists = soup.find_all(['ul', 'ol', 'table'])
+        for lst in lists:
+            list_text = lst.get_text().lower()
+            if any(keyword in list_text for keyword in ['farm', 'vendor', 'business']):
+                score += 2
+                reasons.append("Contains structured vendor list")
+                break
 
-                        # Convert to absolute URL
-                        if href.startswith('/'):
-                            full_url = urljoin(base_url, href)
-                        elif href.startswith('http'):
-                            full_url = href
-                        else:
-                            continue
+        # Look for contact information patterns
+        if 'email' in page_text or '@' in page_text:
+            score += 1
+            reasons.append("Contains contact information")
 
-                        # Skip external domains and files
-                        if (urlparse(full_url).netloc != urlparse(base_url).netloc or
-                            any(full_url.lower().endswith(ext) for ext in ['.pdf', '.jpg', '.png', '.gif'])):
-                            continue
+        # Look for business names (patterns like "X Farm", "Y Bakery", etc.)
+        import re
+        business_patterns = [
+            r'\w+\s+farm', r'\w+\s+bakery', r'\w+\s+dairy',
+            r'\w+\s+orchard', r'\w+\s+kitchen', r'\w+\s+gardens?',
+            r'\w+\s+cafe', r'\w+\s+company', r'\w+\s+treats',
+            r'\w+\s+kettle\s+corn', r'\w+\s+dips', r'\w+\s+bites'
+        ]
+        business_count = 0
+        for pattern in business_patterns:
+            business_count += len(re.findall(pattern, page_text, re.IGNORECASE))
 
-                        link_score, link_reasons = self.score_link_for_vendors(link_text, full_url)
-                        if link_score > 0.2:
-                            vendor_links.append((full_url, link_text, link_score, link_reasons))
+        # Also look for vendor-like business names without specific keywords
+        vendor_name_patterns = [
+            r'[A-Z][a-z]+\'s\s+[A-Z][a-z]+',  # "Abraham's Landscape"
+            r'[A-Z][a-z]+\s+&\s+[A-Z][a-z]+', # "Bark & Bites"
+            r'\d+\s+[A-Z][a-z]+\s+[A-Z][a-z]+', # "24 Karrot Spread"
+            r'[A-Z][a-z]+\s+[A-Z][a-z]+\s+LLC', # "Company LLC"
+        ]
 
-                    # Sort by score and add top links to visit queue
-                    vendor_links.sort(key=lambda x: x[2], reverse=True)
-                    for link_url, link_text, link_score, link_reasons in vendor_links[:3]:
-                        if link_url not in self.visited_urls:
-                            to_visit.append((link_url, depth + 1))
-                            print(f"    Queuing: {link_text} (score: {link_score:.2f})")
+        for pattern in vendor_name_patterns:
+            business_count += len(re.findall(pattern, page_text))
 
-                time.sleep(self.delay)
+        if business_count >= 10:
+            score += 3
+            reasons.append(f"{business_count} business names found")
+        elif business_count >= 5:
+            score += 2
+            reasons.append(f"{business_count} business names found")
+        elif business_count >= 2:
+            score += 1
+            reasons.append(f"{business_count} business names")
 
-            except Exception as e:
-                print(f"  Error accessing {current_url}: {e}")
-                continue
+        # Penalty for very short pages
+        if len(page_text) < 500:
+            score -= 1
+            reasons.append("Short page content")
 
-        return candidates
+        # Create preview
+        preview = page_text[:300] + "..." if len(page_text) > 300 else page_text
 
-    def find_candidates_from_results(self, results_file: str, limit: Optional[int] = None) -> List[VendorPageCandidate]:
-        """Find vendor page candidates from successful scraping results"""
+        # For main pages, always return a candidate even with low score
+        # This catches cases where vendors are listed on main page without explicit links
+        if score > 0 or force_include:
+            if score == 0 and force_include:
+                score = 0.5  # Minimum score for main pages
+                reasons.append("Main page (fallback)")
 
-        with open(results_file, 'r', encoding='utf-8') as f:
-            results = json.load(f)
+            return VendorPageCandidate(
+                url=url,
+                title=page_title,
+                score=score,
+                reasons=reasons,
+                content_preview=preview
+            )
+        return None
 
-        # Filter to successful sites
-        successful_sites = []
-        for result in results:
-            if (result['error'] is None and
-                result['site_type'] in ['dedicated_market', 'municipal', 'other']):
-                successful_sites.append(result)
+    def process_all_markets(self, csv_file: str = "websites_only.csv") -> List[dict]:
+        """Process all markets and find their best vendor pages"""
+        print("🚀 Starting vendor page discovery for all markets")
 
-        if limit:
-            successful_sites = successful_sites[:limit]
+        # Load markets from CSV
+        markets = []
+        with open(csv_file, 'r') as f:
+            reader = csv.reader(f)
+            for i, row in enumerate(reader):
+                if row and not row[0].startswith('#'):
+                    url = row[0].strip()
+                    if url:
+                        if not url.startswith(('http://', 'https://')):
+                            url = f"https://{url}"
+                        market_name = url.replace('https://', '').replace('http://', '').split('/')[0]
+                        markets.append({'name': market_name, 'url': url, 'index': i})
 
-        print(f"Searching {len(successful_sites)} sites for vendor page candidates...")
+        print(f"📋 Processing {len(markets)} markets")
 
-        all_candidates = []
-        for site in successful_sites:
-            self.visited_urls.clear()  # Reset for each site
-            candidates = self.find_vendor_page_candidates(site['market_name'], site['url'])
-            all_candidates.extend(candidates)
-            time.sleep(self.delay * 2)  # Extra delay between sites
+        results = []
+        successful = 0
 
-        return all_candidates
+        for i, market in enumerate(markets, 1):
+            print(f"\n[{i}/{len(markets)}] Processing: {market['name']}")
 
-    def save_candidates(self, candidates: List[VendorPageCandidate], output_file: str):
-        """Save candidate pages to JSON file"""
-        data = []
-        for candidate in candidates:
-            data.append({
-                'market_name': candidate.market_name,
-                'page_url': candidate.page_url,
-                'page_title': candidate.page_title,
-                'content_sample': candidate.content_sample,
-                'detection_score': candidate.detection_score,
-                'detection_reasons': candidate.detection_reasons
-            })
+            best_page = self.find_best_vendor_page(market['name'], market['url'])
 
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+            result = {
+                'market_name': market['name'],
+                'market_url': market['url'],
+                'market_index': market['index'],
+                'vendor_page_found': best_page is not None,
+                'vendor_page_url': best_page.url if best_page else None,
+                'vendor_page_title': best_page.title if best_page else None,
+                'vendor_page_score': best_page.score if best_page else 0,
+                'vendor_page_reasons': best_page.reasons if best_page else [],
+                'content_preview': best_page.content_preview if best_page else None
+            }
+
+            results.append(result)
+
+            if best_page:
+                successful += 1
+
+            # Save intermediate results every 10 markets
+            if i % 10 == 0:
+                self._save_results(results, f"vendor_pages_batch_{i-9}_to_{i}.json")
+
+        # Final summary
+        print(f"\n✅ Vendor page discovery complete!")
+        print(f"   Markets processed: {len(markets)}")
+        print(f"   Vendor pages found: {successful}")
+        print(f"   Success rate: {successful/len(markets)*100:.1f}%")
+
+        # Save final results
+        output_file = "vendor_pages_discovery.json"
+        self._save_results(results, output_file)
+        print(f"   Results saved to: {output_file}")
+
+        return results
+
+    def _save_results(self, results: List[dict], filename: str):
+        """Save results to JSON file"""
+        with open(filename, 'w') as f:
+            json.dump(results, f, indent=2)
+
+def main():
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Find vendor pages for farmers markets")
+    parser.add_argument('--csv-file', default='websites_only.csv', help='CSV file with market URLs')
+    parser.add_argument('--delay', type=float, default=1.5, help='Delay between requests (seconds)')
+    parser.add_argument('--test-single', help='Test on a single market URL')
+    parser.add_argument('--test-name', help='Name for single market test')
+
+    args = parser.parse_args()
+
+    finder = VendorPageFinder(delay=args.delay)
+
+    if args.test_single:
+        # Test on single market
+        market_name = args.test_name or "Test Market"
+        result = finder.find_best_vendor_page(market_name, args.test_single)
+        if result:
+            print(f"\n✅ Found vendor page: {result.url}")
+            print(f"   Score: {result.score}")
+            print(f"   Reasons: {', '.join(result.reasons)}")
+        else:
+            print("\n❌ No vendor page found")
+    else:
+        # Process all markets
+        finder.process_all_markets(args.csv_file)
 
 if __name__ == "__main__":
-    finder = VendorPageFinder(delay=1.5, max_depth=2)
-
-    # Find candidate pages from existing scraping results
-    candidates = finder.find_candidates_from_results("scraping_results_50.json", limit=15)
-
-    # Save candidates
-    finder.save_candidates(candidates, "vendor_page_candidates.json")
-
-    # Print summary
-    print(f"\n=== VENDOR PAGE DETECTION SUMMARY ===")
-    print(f"Total candidate pages found: {len(candidates)}")
-
-    if candidates:
-        avg_score = sum(c.detection_score for c in candidates) / len(candidates)
-        print(f"Average detection score: {avg_score:.2f}")
-
-        print(f"\nTop candidates:")
-        for candidate in sorted(candidates, key=lambda x: x.detection_score, reverse=True)[:5]:
-            print(f"  {candidate.market_name}: {candidate.detection_score:.2f}")
-            print(f"    {candidate.page_title}")
-            print(f"    {candidate.page_url}")
-            print(f"    Reasons: {', '.join(candidate.detection_reasons[:3])}")
-            print()
-
-    print(f"Results saved to: vendor_page_candidates.json")
+    main()

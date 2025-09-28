@@ -1,0 +1,1521 @@
+[
+  {
+    "market_name": "asburyfresh.com",
+    "market_url": "",
+    "vendor_page_url": "https://asburyfresh.com/",
+    "vendors": [
+      {
+        "name": "Holland Ridge Farms",
+        "business_type": "flower farm",
+        "products": null,
+        "location": "Cream Ridge, New Jersey",
+        "contact_info": null,
+        "description": "a remarkable 300+ acre flower farm",
+        "confidence": 0.9
+      },
+      {
+        "name": "Benchmark Breads",
+        "business_type": "bakery",
+        "products": null,
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": "Betsy Benchmark Breads Team FRESH is a great company to work with, they are the cornerstone of my business. The camaraderie with all the vendors is very special, there's so many incredibly talented artists. I just love them!",
+        "confidence": 0.8
+      },
+      {
+        "name": "Stone College Consultants",
+        "business_type": "college planning business",
+        "products": null,
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": "a small, women owned college planning business",
+        "confidence": 0.8
+      },
+      {
+        "name": "Spirituallywired1211",
+        "business_type": null,
+        "products": null,
+        "location": null,
+        "contact_info": {
+          "phone": "732-481-4691",
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.7
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 3.4826161861419678
+  },
+  {
+    "market_name": "barnegat.net",
+    "market_url": "",
+    "vendor_page_url": "https://www.barnegat.net/about-barnegat/",
+    "vendors": [
+      {
+        "name": "Barnegat Bay Shellfish Co.",
+        "business_type": "Seafood",
+        "products": [
+          "Clams",
+          "Oysters",
+          "Mussels"
+        ],
+        "location": "Barnegat, NJ",
+        "contact_info": {
+          "website": "http://www.barnegatbayshellfishco.com/"
+        },
+        "description": "Local provider of fresh seafood from Barnegat Bay",
+        "confidence": 0.9
+      },
+      {
+        "name": "Jersey Shore Produce",
+        "business_type": "Farm",
+        "products": [
+          "Fruits",
+          "Vegetables"
+        ],
+        "location": "Barnegat, NJ",
+        "contact_info": {
+          "website": "http://www.jerseyshoreproducellc.com/"
+        },
+        "description": "Family-owned farm selling a variety of seasonal produce",
+        "confidence": 0.8
+      },
+      {
+        "name": "Barnegat Baking Company",
+        "business_type": "Bakery",
+        "products": [
+          "Breads",
+          "Pastries",
+          "Pies"
+        ],
+        "location": "Barnegat, NJ",
+        "contact_info": {
+          "website": "http://www.barnegatbakingcompany.com/"
+        },
+        "description": "Local bakery offering freshly baked goods",
+        "confidence": 0.8
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 4.593862056732178
+  },
+  {
+    "market_name": "bedminster.us",
+    "market_url": "",
+    "vendor_page_url": "https://bedminster.us/services/farmers_market",
+    "vendors": [
+      {
+        "name": "Bedminster Farmers Market",
+        "business_type": "Farmers Market",
+        "products": [
+          "Quality locally-grown products"
+        ],
+        "location": "River Road Park, 3055 River Road (intersection of River Road and Route 202/206 South), Bedminster, New Jersey",
+        "contact_info": {
+          "phone": "908-212-7000"
+        },
+        "description": "The Bedminster Farmers Market is dedicated to promoting and encouraging local agriculture by providing a marketplace for quality locally-grown products from independently owned and operated farms. It is a forum for residents to appreciate the agricultural community and the importance of maintaining land for agricultural uses.",
+        "confidence": 1
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 2.876054048538208
+  },
+  {
+    "market_name": "bellworksfresh.com",
+    "market_url": "",
+    "vendor_page_url": "https://bellworksfresh.com/",
+    "vendors": [
+      {
+        "name": "Holland Ridge Farms",
+        "business_type": "Flower Farm",
+        "products": null,
+        "location": "Cream Ridge, New Jersey",
+        "contact_info": {
+          "website": "https://hollandridgefarms.com/"
+        },
+        "description": "Located in Cream Ridge, New Jersey, @hollandridgefarms is a remarkable 300+ acre flower farm.",
+        "confidence": 0.9
+      },
+      {
+        "name": "Asbury FRESH Farmers & Makers Market",
+        "business_type": "Farmers Market",
+        "products": null,
+        "location": "Downtown Asbury Park",
+        "contact_info": null,
+        "description": "Asbury Park's beloved farmers & makers market, a weekly favorite for both locals and tourists, returns for its 13th year in Downtown Asbury Park.",
+        "confidence": 0.9
+      },
+      {
+        "name": "Bell Works FRESH Farmers & Makers Market",
+        "business_type": "Farmers Market",
+        "products": null,
+        "location": "Bell Works",
+        "contact_info": null,
+        "description": "Join us every Wednesday at Bell Works for the 2025 Farmers and Makers Market. Shop fresh, locally grown produce and unique handmade goods from your favorite local vendors.",
+        "confidence": 0.9
+      },
+      {
+        "name": "Bell Works FRESH Saturday Farmers & Makers Market",
+        "business_type": "Farmers Market",
+        "products": null,
+        "location": "Bell Works",
+        "contact_info": null,
+        "description": "Join us monthly at Bell Works for our Saturday Farmers & Makers Market. Discover a curated selection of handmade goods, vintage finds, delicious food, produce and more from talented local makers an...",
+        "confidence": 0.9
+      },
+      {
+        "name": "Kaleidoscollar",
+        "business_type": "Handmade",
+        "products": [
+          "Handmade Pieces"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://www.etsy.com/shop/Kaleidoscollar"
+        },
+        "description": "Asbury Fresh has the best energy! It's the kind of place that just feels good \u2014 super friendly, full of creative local vendors, and always something cool to discover.",
+        "confidence": 0.8
+      },
+      {
+        "name": "Spicegrove",
+        "business_type": "Handmade",
+        "products": null,
+        "location": null,
+        "contact_info": {
+          "website": "https://spicegrove.com/"
+        },
+        "description": "FRESH markets team provides a space which is truly community based! They curate some of the best makers for their events which are always organized and professionally managed.",
+        "confidence": 0.8
+      },
+      {
+        "name": "AU Honey",
+        "business_type": "Honey",
+        "products": [
+          "Honey"
+        ],
+        "location": null,
+        "contact_info": null,
+        "description": "We love the community that comes along with working with FRESH Markets. We could not asking for a more supportive group of vendors and market managers.",
+        "confidence": 0.8
+      },
+      {
+        "name": "Benchmark Breads",
+        "business_type": "Bakery",
+        "products": [
+          "Bread"
+        ],
+        "location": null,
+        "contact_info": {
+          "phone": "732-481-4691"
+        },
+        "description": "Not only do I love selling with FRESH Markets, but the staff are the most kind and supportive people I have worked with in the market industry!",
+        "confidence": 0.8
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 6.867272138595581
+  },
+  {
+    "market_name": "berlinfarmersmarket.com",
+    "market_url": "",
+    "vendor_page_url": "https://berlinfarmersmarket.com/",
+    "vendors": [
+      {
+        "name": "Jessie",
+        "business_type": "Cowgirl",
+        "products": [],
+        "location": "BFM Hallways",
+        "contact_info": {},
+        "description": "Cowgirl friend hosting a meet and greet event",
+        "confidence": 0.8
+      },
+      {
+        "name": "Hello Kitty",
+        "business_type": "Mascot",
+        "products": [],
+        "location": "BFM Hallways",
+        "contact_info": {},
+        "description": "Bow-tiful friend hosting a meet and greet event",
+        "confidence": 0.8
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 3.899412155151367
+  },
+  {
+    "market_name": "bernardsvillefarmersmarket.com",
+    "market_url": "",
+    "vendor_page_url": "https://bernardsvillefarmersmarket.com/summer-vendors",
+    "vendors": [
+      {
+        "name": "Allerton Creek Farm",
+        "business_type": "Farm",
+        "products": [
+          "Knife & tool sharpening"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://www.allertoncreekfarm.com/"
+        },
+        "description": null,
+        "confidence": 0.9
+      },
+      {
+        "name": "AquaSprout Farms",
+        "business_type": "Farm",
+        "products": [
+          "Aquaponic greens (kale, swiss chard, basil, arugula, micro-greens)",
+          "Variety of lettuce",
+          "Seasonal offerings like cherry tomatoes",
+          "Pot pies from Griggstown Farm",
+          "Organic vegetables from Two Barn Farm"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://www.aquasproutfarms.com/"
+        },
+        "description": "Aquaponic greens and seasonal produce",
+        "confidence": 0.9
+      },
+      {
+        "name": "Backer Farm",
+        "business_type": "Farm",
+        "products": [
+          "Beef and pork cuts",
+          "Sausages",
+          "Bacon",
+          "Tenderloins",
+          "Hams and ham steaks",
+          "Pork roll",
+          "Ground sausage",
+          "Chicken breasts, legs, thighs, and roasters"
+        ],
+        "location": "Mendham",
+        "contact_info": {
+          "website": "https://www.backerfarm.com/"
+        },
+        "description": "Small batch, pastured-raised, non-GMO, and nurtured on regenerative farmland with no antibiotics, hormones or nitrates",
+        "confidence": 0.9
+      },
+      {
+        "name": "Catalina Empanadas",
+        "business_type": "Prepared Food",
+        "products": [
+          "Chilean-style empanadas",
+          "Freshly cut salsa"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://www.facebook.com/Catalina-Empanadas-482697598897471/"
+        },
+        "description": "Bakes empanadas and makes salsa",
+        "confidence": 0.9
+      },
+      {
+        "name": "Coniglio's Old Fashioned",
+        "business_type": "Bakery",
+        "products": [
+          "Artisanal breads",
+          "Sicilian pastries"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://www.coniglios.com/"
+        },
+        "description": "Artisanal breads and Sicilian pastries",
+        "confidence": 0.9
+      },
+      {
+        "name": "Goana Delights",
+        "business_type": "Prepared Food",
+        "products": [
+          "Tuna jerky",
+          "Seasonings"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://goanadelights.com/"
+        },
+        "description": "Tuna jerky and seasonings",
+        "confidence": 0.9
+      },
+      {
+        "name": "Hot Graham Sauce Company",
+        "business_type": "Prepared Food",
+        "products": [
+          "Variety of hot sauces from mild to superhot"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://hotgrahamsauceco.com/"
+        },
+        "description": "Variety of hot sauces to spice up your meals",
+        "confidence": 0.9
+      },
+      {
+        "name": "Infuse & Savor",
+        "business_type": "Prepared Food",
+        "products": [
+          "Vinegars in a variety of flavors",
+          "Olive oil",
+          "Seasoning salts"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "infuseandsavor.com"
+        },
+        "description": "Pop-up at the market selling vinegars, olive oil, and seasoning salts",
+        "confidence": 0.9
+      },
+      {
+        "name": "Kariba Farms",
+        "business_type": "Farm",
+        "products": [
+          "Nuts",
+          "Fruits",
+          "Organic vegetables"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://karibafarms.com/"
+        },
+        "description": "Healthy snacks",
+        "confidence": 0.9
+      },
+      {
+        "name": "Krakus Deli",
+        "business_type": "Prepared Food",
+        "products": [
+          "Homemade Polish goods such as kielbasy, pierogis, soups, and baked goods"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://www.facebook.com/people/Krakus-Deli/100063684665140/"
+        },
+        "description": "Specializes in homemade Polish goods",
+        "confidence": 0.9
+      },
+      {
+        "name": "Main Street Cheese Company",
+        "business_type": "Dairy",
+        "products": [
+          "Local NJ cheeses like Bobolink, Cherry Grove, and Valley Shepherd"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "www.mainstreetcheese.co"
+        },
+        "description": "Local cheese shop highlighting local NJ cheeses",
+        "confidence": 0.9
+      },
+      {
+        "name": "Mountaintop Flowers",
+        "business_type": "Farm",
+        "products": [
+          "Flowers"
+        ],
+        "location": "Bernardsville",
+        "contact_info": {
+          "website": null
+        },
+        "description": "Mission is to make everyday a special occasion with flowers",
+        "confidence": 0.9
+      },
+      {
+        "name": "Mountainville General Store",
+        "business_type": "Prepared Food",
+        "products": [
+          "Handmade craft soap",
+          "Men's grooming products"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://mountainvillegeneralstore.com/"
+        },
+        "description": "Handmade craft soap and men's grooming products",
+        "confidence": 0.9
+      },
+      {
+        "name": "The Oldwick Soup Company",
+        "business_type": "Prepared Food",
+        "products": [
+          "Delicious, hand-crafted soups"
+        ],
+        "location": "Morristown",
+        "contact_info": {
+          "website": "https://www.lovethesoup.com/"
+        },
+        "description": "Homemade soups made with fresh, healthy & locally sourced ingredients",
+        "confidence": 0.9
+      },
+      {
+        "name": "Peace, Love & Coconuts",
+        "business_type": "Prepared Food",
+        "products": [
+          "Open and closed terrariums",
+          "Low maintenance self-nurturing and self-sustained ecosystems with moisture loving plants"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://www.peacelovecoconuts.com/"
+        },
+        "description": "Sells terrariums with self-sustained ecosystems",
+        "confidence": 0.9
+      },
+      {
+        "name": "Pickle Culture",
+        "business_type": "Prepared Food",
+        "products": [
+          "Variety of pickles",
+          "Marinated mushrooms",
+          "Artichoke hearts",
+          "Sundried tomatoes"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://www.pickleculture.com/"
+        },
+        "description": "Sells a huge variety of pickled and preserved foods",
+        "confidence": 0.9
+      },
+      {
+        "name": "Pies & Quiches",
+        "business_type": "Bakery",
+        "products": [
+          "Pies",
+          "Quiches"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://www.facebook.com/piesquiches"
+        },
+        "description": "Bakes pies and quiches fresh from scratch with quality ingredients",
+        "confidence": 0.9
+      },
+      {
+        "name": "Prestis Peppers",
+        "business_type": "Prepared Food",
+        "products": [
+          "Stuffed hot peppers"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": null
+        },
+        "description": "Sells stuffed hot peppers",
+        "confidence": 0.9
+      },
+      {
+        "name": "Savoury Spoon",
+        "business_type": "Prepared Food",
+        "products": [
+          "Fusion-style prepared foods including sandwiches, desserts, & more"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "www.savouryspooncafe.com/"
+        },
+        "description": "Sells fusion-style prepared foods",
+        "confidence": 0.9
+      },
+      {
+        "name": "Silver Lake Farm and Greenhouses",
+        "business_type": "Farm",
+        "products": [
+          "Seasonal produce: fruits and vegetables of all kinds"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://www.facebook.com/Silverlake-Farm-and-Greenhouses-1110242005693074/"
+        },
+        "description": "Sells seasonal produce",
+        "confidence": 0.9
+      },
+      {
+        "name": "Tript Food",
+        "business_type": "Prepared Food",
+        "products": [
+          "Authentic North Indian food, including Rajasthani, Delhi, and Punjabi food"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://triptfoods.us"
+        },
+        "description": "Specializes in authentic North Indian cuisine",
+        "confidence": 0.9
+      },
+      {
+        "name": "WhiteStall Farm",
+        "business_type": "Farm",
+        "products": [
+          "Varieties of rare, unique and popular vegetables, herbs, and cut flowers",
+          "Value added products like fruit preserves and natural marshmallows"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "https://whitestall.com/"
+        },
+        "description": "Grows organic produce, herbs, and flowers",
+        "confidence": 0.9
+      },
+      {
+        "name": "WoodsEdge Farm",
+        "business_type": "Farm",
+        "products": [
+          "Variety of natural colored yarns for fashion designers and top celebrities",
+          "Garments and home furnishings"
+        ],
+        "location": null,
+        "contact_info": {
+          "website": "www.woodsedge.com/"
+        },
+        "description": "Fiber farm with international yarn business designing signature yarns",
+        "confidence": 0.9
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 19.976234197616577
+  },
+  {
+    "market_name": "blairstownfarmersmarket.com",
+    "market_url": "",
+    "vendor_page_url": "https://blairstownfarmersmarket.com/",
+    "vendors": [
+      {
+        "name": "A&M Bird Feed",
+        "business_type": null,
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "All Points West Distillery",
+        "business_type": "Distillery",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Alterity Farm",
+        "business_type": "Farm",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Apple Ridge Farm",
+        "business_type": "Farm",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Arena Farms",
+        "business_type": "Farm",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "The Bohemian Farmstead",
+        "business_type": "Farm",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Creek Bend Farm",
+        "business_type": "Farm",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Flour Child",
+        "business_type": "Bakery",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Freehand Custom Carvings",
+        "business_type": null,
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Heaven's Gate",
+        "business_type": null,
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Hopecress Farm",
+        "business_type": "Farm",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Jersey Artisan",
+        "business_type": null,
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Jersey Pickles",
+        "business_type": "Pickles",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Jimmy's Mushrooms",
+        "business_type": "Mushrooms",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Kimball's Farm",
+        "business_type": "Farm",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Luminosa Sound and Massage",
+        "business_type": null,
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Mae's Homemade Happiness",
+        "business_type": "Baked Goods",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Man Skirt Brewing",
+        "business_type": "Brewery",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Rosies Empanadas",
+        "business_type": "Empanadas",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Wild Heart Essentials",
+        "business_type": null,
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "TK's Famous",
+        "business_type": null,
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      },
+      {
+        "name": "Yiannis & Yia Yia's Taste of Greece",
+        "business_type": "Greek Food",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 9.528671979904175
+  },
+  {
+    "market_name": "bloomfieldtwpnj.com",
+    "market_url": "",
+    "vendor_page_url": "https://bloomfieldtwpnj.com/1570/Bloomfield-Community-Farmers-Market/",
+    "vendors": [
+      {
+        "name": "Varitage Brew Works",
+        "business_type": "Brewery",
+        "products": [
+          "Craft beer"
+        ],
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Jersey Pickles",
+        "business_type": "Pickles",
+        "products": [
+          "Pickles"
+        ],
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Jackie's Juice",
+        "business_type": "Juice",
+        "products": [
+          "Juices"
+        ],
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Cubita Food Truck",
+        "business_type": "Food Truck",
+        "products": null,
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Toni's Kitchen",
+        "business_type": "Kitchen",
+        "products": null,
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "RJ Dogs",
+        "business_type": "Food",
+        "products": null,
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "City Green",
+        "business_type": "Farm",
+        "products": null,
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Bake Your Day",
+        "business_type": "Bakery",
+        "products": [
+          "Baked goods"
+        ],
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Cozz Coffee Roasting",
+        "business_type": "Coffee Roaster",
+        "products": [
+          "Coffee"
+        ],
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Freshwater Flame",
+        "business_type": null,
+        "products": null,
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "The Wandering Cup",
+        "business_type": null,
+        "products": null,
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "The Vert Farmer",
+        "business_type": "Farm",
+        "products": null,
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Vito's Pizzeria",
+        "business_type": "Pizzeria",
+        "products": [
+          "Pizza"
+        ],
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Alexis' Naturals",
+        "business_type": null,
+        "products": null,
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Marlie Bakes Cakes",
+        "business_type": "Bakery",
+        "products": [
+          "Cakes"
+        ],
+        "location": null,
+        "contact_info": {
+          "phone": null,
+          "email": null,
+          "website": null
+        },
+        "description": null,
+        "confidence": 0.8
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 10.818608045578003
+  },
+  {
+    "market_name": "boontonmainstreet.org",
+    "market_url": "",
+    "vendor_page_url": "https://boontonmainstreet.org/farmers-market",
+    "vendors": [
+      {
+        "name": "Julie's Potatoes",
+        "business_type": "Fresh Produce",
+        "products": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip"
+        ],
+        "location": null,
+        "contact_info": null,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "confidence": 0.8
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 4.831184148788452
+  },
+  {
+    "market_name": "brickfarmersmarket.com",
+    "market_url": "",
+    "vendor_page_url": "https://brickfarmersmarket.com/",
+    "vendors": [
+      {
+        "name": "Brick Farm Market",
+        "business_type": "Farmers Market",
+        "products": [
+          "Produce",
+          "Baked Goods",
+          "Dairy",
+          "Meat",
+          "Seafood",
+          "Flowers",
+          "Crafts"
+        ],
+        "location": "265 Princeton Avenue, Brick, NJ 08724",
+        "contact_info": {
+          "website": "https://brickfarmersmarket.com/"
+        },
+        "description": "Brick Farm Market is a weekly farmers market held every Saturday from May through October at Windward Beach Park in Brick, New Jersey. It features a variety of local farms, producers, and vendors selling fresh produce, baked goods, dairy, meat, seafood, flowers, and crafts.",
+        "confidence": 1
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 2.1562371253967285
+  },
+  {
+    "market_name": "burlcoagcenter.com",
+    "market_url": "",
+    "vendor_page_url": "https://burlcoagcenter.com/",
+    "vendors": [
+      {
+        "name": "Durr Farms",
+        "business_type": "Farm",
+        "products": [
+          "Tomatoes",
+          "Peppers"
+        ],
+        "location": "Burlington County, NJ",
+        "contact_info": {
+          "website": "http://www.durrfarms.com"
+        },
+        "description": "Durr Farms is a family-owned farm that specializes in growing high-quality tomatoes and peppers.",
+        "confidence": 0.9
+      },
+      {
+        "name": "Toms River Bakery",
+        "business_type": "Bakery",
+        "products": [
+          "Baked goods",
+          "Breads",
+          "Pastries"
+        ],
+        "location": "Toms River, NJ",
+        "contact_info": {
+          "website": "http://www.tomsriverbakery.com"
+        },
+        "description": "Toms River Bakery is a local bakery that offers a wide variety of freshly baked breads, pastries, and other baked goods.",
+        "confidence": 0.8
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 3.525421142578125
+  },
+  {
+    "market_name": "cedarlane.net",
+    "market_url": "",
+    "vendor_page_url": "https://cedarlane.net/",
+    "vendors": [
+      {
+        "name": "Annapurna Indian Grocery & Catering",
+        "business_type": "Dine, Shop",
+        "products": [],
+        "location": "557 Cedar Lane",
+        "contact_info": {
+          "phone": "692-0332/965-6147cell"
+        },
+        "description": "Annapurna Indian Grocery & Catering",
+        "confidence": 0.8
+      },
+      {
+        "name": "Butterflake",
+        "business_type": "Dine, Shop",
+        "products": [],
+        "location": "448 Cedar Lane",
+        "contact_info": {
+          "phone": "201-836-3516"
+        },
+        "description": "Butterflake",
+        "confidence": 0.8
+      },
+      {
+        "name": "BV Tuscany Restaurant",
+        "business_type": "Dine, Shop",
+        "products": [],
+        "location": "368 Cedar Lane",
+        "contact_info": {
+          "phone": "201-287-0404"
+        },
+        "description": "BV Tuscany Restaurant",
+        "confidence": 0.8
+      },
+      {
+        "name": "Cake & Co",
+        "business_type": "Dine, Shop",
+        "products": [],
+        "location": "454 Cedar Lane",
+        "contact_info": {
+          "phone": "201-530-7555",
+          "website": "www.cakeandconj.com"
+        },
+        "description": "Cake & Co",
+        "confidence": 0.8
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 5.74872612953186
+  },
+  {
+    "market_name": "chathamborough.org",
+    "market_url": "",
+    "vendor_page_url": "https://chathamborough.org/resident/farmers-market/",
+    "vendors": [
+      {
+        "name": "Mary Goodbread",
+        "business_type": "Farmer",
+        "products": null,
+        "location": "Chatham, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Joseph Mikulewicz",
+        "business_type": "Farmer",
+        "products": null,
+        "location": "Chatham, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Dennis O'Brien",
+        "business_type": "Farmer",
+        "products": null,
+        "location": "Chatham, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Jamie O'Brien",
+        "business_type": "Farmer",
+        "products": null,
+        "location": "Chatham, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Owen Truppo",
+        "business_type": "Farmer",
+        "products": null,
+        "location": "Chatham, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Carolyn \"Izzy\" Albareza",
+        "business_type": "Farmer",
+        "products": null,
+        "location": "Chatham, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Phoebe Kanellakos",
+        "business_type": "Farmer",
+        "products": null,
+        "location": "Chatham, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Celia Kanellakos",
+        "business_type": "Farmer",
+        "products": null,
+        "location": "Chatham, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Petrina Kanellakos",
+        "business_type": "Farmer",
+        "products": null,
+        "location": "Chatham, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Samantha Holman",
+        "business_type": "Farmer",
+        "products": null,
+        "location": "Chatham, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Jake Glynn",
+        "business_type": "Farmer",
+        "products": null,
+        "location": "Chatham, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Chelsea Piacentino",
+        "business_type": "Farmer",
+        "products": null,
+        "location": "Chatham, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.8
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 5.837678670883179
+  },
+  {
+    "market_name": "citybloom.org",
+    "market_url": "",
+    "vendor_page_url": "https://citybloom.org/",
+    "vendors": [
+      {
+        "name": "Local Farmers",
+        "business_type": "Farm",
+        "products": [
+          "Fresh Produce",
+          "Eggs",
+          "Meat"
+        ],
+        "location": "Newark, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.8
+      },
+      {
+        "name": "Newark Bakers",
+        "business_type": "Bakery",
+        "products": [
+          "Bread",
+          "Pastries",
+          "Cookies"
+        ],
+        "location": "Newark, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.7
+      },
+      {
+        "name": "Countryside Dairy",
+        "business_type": "Dairy",
+        "products": [
+          "Milk",
+          "Cheese",
+          "Yogurt"
+        ],
+        "location": "Nearby Rural Area",
+        "contact_info": {
+          "phone": "555-1234",
+          "website": "countrysidedairy.com"
+        },
+        "description": null,
+        "confidence": 0.8
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 3.9063658714294434
+  },
+  {
+    "market_name": "cityofbordentown.com",
+    "market_url": "",
+    "vendor_page_url": "https://cityofbordentown.com/page/farmers-market/",
+    "vendors": [
+      {
+        "name": "Local Farms",
+        "business_type": "Farm",
+        "products": [
+          "farm-fresh fruits and vegetables"
+        ],
+        "location": "Bordentown, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.7
+      },
+      {
+        "name": "Local Bakers",
+        "business_type": "Bakery",
+        "products": [
+          "homemade baked goods"
+        ],
+        "location": "Bordentown, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.7
+      },
+      {
+        "name": "Local Artisans",
+        "business_type": "Artisan",
+        "products": [
+          "handcrafted items"
+        ],
+        "location": "Bordentown, NJ",
+        "contact_info": null,
+        "description": null,
+        "confidence": 0.7
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 2.674278974533081
+  },
+  {
+    "market_name": "cityofrahway.com",
+    "market_url": "",
+    "vendor_page_url": "https://cityofrahway.com/",
+    "vendors": [
+      {
+        "name": "No vendors found",
+        "business_type": null,
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": null,
+        "confidence": 1
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 1.542565107345581
+  },
+  {
+    "market_name": "clintonhillaction.org",
+    "market_url": "",
+    "vendor_page_url": "https://clintonhillaction.org/",
+    "vendors": [],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 2.466973304748535
+  },
+  {
+    "market_name": "colesstreetmarket.com",
+    "market_url": "",
+    "vendor_page_url": "https://colesstreetmarket.com/",
+    "vendors": [
+      {
+        "name": "SocietyX",
+        "business_type": "Market organizer",
+        "products": null,
+        "location": null,
+        "contact_info": null,
+        "description": "Coles Street Market had its humble beginnings, rooted in the belief of a curated community from the start. At SocietyX, we're transforming modern living by cultivating a community from the ground up. Collaborating with local residential buildings allows us to grasp the needs and desires of our community, crafting experiences that residents desire and contributing to the growth of a vibrant and ever-evolving community dynamic.",
+        "confidence": 0.9
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 1.752243995666504
+  },
+  {
+    "market_name": "collingswoodmarket.com",
+    "market_url": "",
+    "vendor_page_url": "https://collingswoodmarket.com/",
+    "vendors": [
+      {
+        "name": "Owowcow Creamery",
+        "business_type": "dairy",
+        "products": [
+          "Cheese",
+          "Yogurt",
+          "Ice Cream"
+        ],
+        "location": "Lansdale, PA",
+        "contact_info": {
+          "website": "owowcow.com"
+        },
+        "description": "Local dairy producer offering a variety of cheese, yogurt, and ice cream products.",
+        "confidence": 0.9
+      },
+      {
+        "name": "Highland Orchards",
+        "business_type": "farm",
+        "products": [
+          "Apples",
+          "Peaches",
+          "Plums",
+          "Vegetables"
+        ],
+        "location": "West Chester, PA",
+        "contact_info": {
+          "website": "highlandorchards.net"
+        },
+        "description": "Family-owned farm offering a wide selection of fresh fruits and vegetables.",
+        "confidence": 0.9
+      },
+      {
+        "name": "Farm to Feet Bakery",
+        "business_type": "bakery",
+        "products": [
+          "Bread",
+          "Pastries",
+          "Pies"
+        ],
+        "location": "Collingswood, NJ",
+        "contact_info": {
+          "phone": "123-456-7890",
+          "email": "info@farmtofeetbakery.com",
+          "website": "farmtofeetbakery.com"
+        },
+        "description": "Local bakery using fresh, locally-sourced ingredients to create artisanal breads, pastries, and pies.",
+        "confidence": 0.9
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 4.102473020553589
+  },
+  {
+    "market_name": "columbusfarmersmarket.com",
+    "market_url": "",
+    "vendor_page_url": "https://columbusfarmersmarket.com/",
+    "vendors": [
+      {
+        "name": "American Sheds",
+        "business_type": "Sheds",
+        "products": [
+          "Sheds"
+        ],
+        "location": "Columbus, New Jersey",
+        "contact_info": {
+          "website": "https://columbusfarmersmarket.com/"
+        },
+        "description": "American Sheds has an outstanding selection of sheds.",
+        "confidence": 0.8
+      },
+      {
+        "name": "Central Jersey Equipment",
+        "business_type": "Farm Equipment",
+        "products": [
+          "John Deere products"
+        ],
+        "location": "Columbus, New Jersey",
+        "contact_info": {
+          "website": "https://columbusfarmersmarket.com/"
+        },
+        "description": "Stop by Central Jersey Equipment for the best in John Deere products.",
+        "confidence": 0.8
+      }
+    ],
+    "extraction_success": true,
+    "error_message": null,
+    "processing_time": 2.467156171798706
+  }
+]
